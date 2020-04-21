@@ -9,6 +9,7 @@
 * Close out [WordPress.com](ramblevalley.wordpress.com) site and account
 * Remove unneeded features (RSS Feed, SEO, Google Analytics)
 * Use my own personal domain
+* Update log to one initial 'hero' commit 
 
 ## set-up
 
