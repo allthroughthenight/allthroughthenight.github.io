@@ -10,6 +10,11 @@
 * Remove unneeded features (RSS Feed, SEO, Google Analytics)
 * Use my own personal domain
 * Update log to one initial 'hero' commit 
+* Another meta?
+    * the nice interview prosess: one day, sudo code, hints and talk and problem solving
+    * better draft managemnet
+    * overall blog migration talking points
+    * linkeding vs about me? or maintain both? :notlikethis:
 
 ## set-up
 
