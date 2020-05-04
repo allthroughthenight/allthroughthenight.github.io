@@ -4,17 +4,12 @@
 
 * All-in-one command to set up VM (Ansible, Vagrant)
 * Better understanding overall of static site generators and less-copy-pasta of commands (ಠ_ಠ)
-* Convert 'What I've Learned So Far' and 'What I've Learned in 2020' to pure Markdown
+* Convert 'What I've Learned' posts to pure Markdown
 * Convert scattered inline HTML to pure Markdown
-* Close out [WordPress.com](ramblevalley.wordpress.com) site and account
+* Close [WordPress.com](ramblevalley.wordpress.com) site and account
 * Remove unneeded features (RSS Feed, SEO, Google Analytics)
-* Use my own personal domain
-* Update log to one initial 'hero' commit 
-* Another meta?
-    * the nice interview prosess: one day, sudo code, hints and talk and problem solving
-    * better draft managemnet
-    * overall blog migration talking points
-    * linkeding vs about me? or maintain both? :notlikethis:
+* Use a custom domain
+* Clean up git log to one initial 'hero' commit
 
 ## set-up
 
