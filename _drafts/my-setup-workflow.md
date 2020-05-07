@@ -1,3 +1,8 @@
+---
+layout: post
+title: "Work From Home Set-Up"
+---
+
 win10 with vagrant and git bash and vscode
 linux tbd
 ci/cd uhhh

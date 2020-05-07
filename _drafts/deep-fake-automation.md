@@ -1,3 +1,8 @@
+---
+layout: post
+title: "Automated Propoganda"
+---
+
 https://www.youtube.com/watch?v=JhfNJlnN_Bg
 "live deep fakes"
 automated youtube

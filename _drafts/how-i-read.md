@@ -1,3 +1,8 @@
+---
+layout: post
+title: "How I Read"
+---
+
 summaries
 flash cards
 internalize topics
