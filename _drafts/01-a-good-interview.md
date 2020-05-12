@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "A Good Tech Interview"
+title: "A Good Interview"
 ---
 
 I recently had an enjoyable technical interviwing expereince with a large enterprise tech company.
