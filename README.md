@@ -4,8 +4,6 @@
 
 * All-in-one command to set up VM (Ansible, Vagrant)
 * Better understanding overall of static site generators and less-copy-pasta of commands (ಠ_ಠ)
-* Convert 'What I've Learned' posts to pure Markdown
-* Convert scattered inline HTML to pure Markdown
 * Close [WordPress.com](ramblevalley.wordpress.com) site and account
 * Remove unneeded features (RSS Feed, SEO, Google Analytics)
 * Use a custom domain
