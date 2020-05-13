@@ -5,6 +5,7 @@
 * All-in-one command to set up VM (Ansible, Vagrant)
 * Better understanding overall of static site generators and less-copy-pasta of commands (ಠ_ಠ)
 * Close [WordPress.com](ramblevalley.wordpress.com) site and account
+* Fix inline HTML for YouTube videos and images, proabably best to move some 'locally' to assets
 * Remove unneeded features (RSS Feed, SEO, Google Analytics)
 * Use a custom domain
 * Clean up git log to one initial 'hero' commit
