@@ -3,12 +3,19 @@ layout: post
 title: "What I've Learned in 2020"
 ---
 
-https://saagarjha.com/blog/2020/05/10/why-we-at-famous-company-switched-to-hyped-technology/: TBD: lol
+# WIP
+
+Coders at Work
+* https://vlkan.com/blog/post/2016/10/04/coders-at-work/
+* https://jonwood.co/blog/2016/12/12/book-review-coders-at-work
+* https://oleb.net/blog/2010/02/book-review-coders-at-work/
+
+https://saagarjha.com/blog/2020/05/10/why-we-at-famous-company-switched-to-hyped-technology/
 
 # Introduction
-This is a follow-up to my [previous post](https://ramblevalley.wordpress.com/2020/01/20/what-ive-learned-so-far/), which I hope I can keep going as a regular series.
+This is a follow-up to my [previous post]({{site.baseurl}}/TBD)TBD, which I hope I can keep going as a regular series.
 
-Part-way into this year, I was wondering how this post was almost as long as the previous one, even though it was covering a lot less time. Going through it, I noticed that I'd been fixating on articles and posts that'd bemoan the strife from  working in tech. But I want to keep the tone of this positive, so I removed a bunch of that stuff, along with making sure everything is focused more squarely on tech, and avoiding anything *too* technical, so it can be a light read no matter the skill level.
+Part-way into the year, I was wondering how this post was almost as long as the previous one, though it was covering a lot less time. Going through it, I noticed that I'd been fixating on articles and posts that'd bemoan the strife from  working in tech. But I want to keep the tone of this positive, so I removed a bunch of that stuff, along with making sure everything is focused more squarely on tech.
 
 # Articles
 [Austin Amazon KFAUWI device randomly appeared under Network Device](https://www.thewindowsclub.com/amazon-kfauwi-appeared-network-device): The same motherboard maker for Amazon Fires and Kindles uses Linux source code for automatic device discovery. So any device running the same code will cause Windows to detect it as an Amazon Fire.
@@ -74,14 +81,13 @@ Part-way into this year, I was wondering how this post was almost as long as the
 # Pics and Posts
 [Deployed my blog on Kubernetes](https://twitter.com/dexhorthy/status/856639005462417409)
 
+[haha for loop go brr]({{site.baseurl}}/assets/loop-go-brrr.png)
+
 [I fucked up Git so bad it turned into Guitar Hero](https://twitter.com/HenryHoffman/status/694184106440200192)
 
 [Protecting Lives & Liberty](https://ncase.me/contact-tracing/)
 
-[That's not a full stack developer. That's an entire IT department](https://i.redd.it/kflfysh17d541.jpg)
-download to have locally, or just link post directly?
-
-[haha for loop go brr]("{{ site.baseurl }}/assets/loop-go-brrr.png")
+[That's not a full stack developer. That's an entire IT department]({{site.baseurl}}/assets/full-stack-dev.png)
 
 # Books
 
@@ -90,11 +96,6 @@ AI Superpowers: China, Silicon Valley, and the New World Order
 * China has lax data privacy and protection regulations so they can collect more data and use it more freely
 * Since the Chinese tech startup culture is more intense and with less IP protections, only strong business, not the best ideas, survive
 * Though the West has a head-start, Government backing of AI projects in China make it highly appealing and in a position to outpace the rest of the world
-
-Coders at Work (TBD/WIP)
-* https://vlkan.com/blog/post/2016/10/04/coders-at-work/
-* https://jonwood.co/blog/2016/12/12/book-review-coders-at-work
-* https://oleb.net/blog/2010/02/book-review-coders-at-work/
 
 Code Complete
 * Have plan before starting work. If requirements are constantly changing, efforts are wasted having to constantly context shift and multi-task
@@ -115,7 +116,6 @@ Deep Work: Rules for Focused Success in a Distracted World
   3. Quit Social Media - The quintessential example of shallow living. 
   4. Drain the Shallows - Reduce the effect of low-values tasks like replying emails, making phone calls, and attending meetings by batching them together or at predetermined times
 
-
 Prediction Machines: The Simple Economics of Artificial Intelligence
 * Prediction: Machines are good at consistency when compared to humans, and even marginal improvements are substantial since they can be replicated over time
 * Decision Making: Ideally, the more data and input you have, the better a decision you'll make. This is true for machines, but not for humans since we'll be overwhelmed or take to long. But humans are good at intuition, which machines (at this time) lack
@@ -135,7 +135,7 @@ The Big Nine
 * BAT: Baidu, Alibaba and Tencent
 * In the West, technology is used for a commercial advantage first, and the societal impacts are considered secondary
 * But AI advancements won't happen in a vacuum, so they'll have to be adaptable to stay relevant
-* *In China, technology is used for control and order, which is backed and supported by the government. And they're protected from outside competition and oversight
+* In China, technology is used for control and order, which is backed and supported by the government. And they're protected from outside competition and oversight
 * In both scenarios, the long term effects of decisions made now aren't considered. The next few decade will be a critical time for shaping the idea of how to control AI for the betterment or eventual destruction of humanity
 
 The DevOps Handbook
