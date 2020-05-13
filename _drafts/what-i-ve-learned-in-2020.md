@@ -3,6 +3,8 @@ layout: post
 title: "What I've Learned in 2020"
 ---
 
+https://saagarjha.com/blog/2020/05/10/why-we-at-famous-company-switched-to-hyped-technology/: TBD: lol
+
 # Introduction
 This is a follow-up to my [previous post](https://ramblevalley.wordpress.com/2020/01/20/what-ive-learned-so-far/), which I hope I can keep going as a regular series.
 
