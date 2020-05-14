@@ -3,6 +3,8 @@ layout: post
 title: "How I Read"
 ---
 
+How to Talk About Books You Haven't Read
+
 I like going through suggested books and readings lists on [Hacker News](https://news.ycombinator.com), and they're so popular that someone made a [program to make a definifitive list](https://towardsdatascience.com/hacker-news-book-suggestions-64b88099947).
 But unless you're an avid reader, it can be a bit of a chore. And as for me, most books have their main poitns in the chapter titles, then they just spend the body of the chapter supporting them.
 

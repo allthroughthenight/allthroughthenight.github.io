@@ -10,7 +10,7 @@ Coders at Work
 * https://jonwood.co/blog/2016/12/12/book-review-coders-at-work
 * https://oleb.net/blog/2010/02/book-review-coders-at-work/
 
-https://saagarjha.com/blog/2020/05/10/why-we-at-famous-company-switched-to-hyped-technology/
+How to Talk About Books You Haven't Read
 
 # Introduction
 This is a follow-up to my [previous post]({{site.baseurl}}/TBD)TBD, which I hope I can keep going as a regular series.
@@ -43,7 +43,7 @@ Part-way into the year, I was wondering how this post was almost as long as the 
 
 [Programming Trick Question](https://qntm.org/trick): Answers to three common programming interview questions.
 
-[The EARN IT Act: How to Ban End-to-End Encryption Without Actually Banning It]("https://cyberlaw.stanford.edu/blog/2020/01/earn-it-act-how-ban-end-end-encryption-without-actually-banning-it"): How to Ban End-to-End Encryption Without Actually Banning It: Tell companies that in order to keep their immunity offered in Section 230 of the Communications Decency Act of 1996 (that platform providers aren't liable for their users), they must comply with 'best practices' to prevent the exploitation of minors. These best practices will be outlined mostly by Law Enforcement Agencies, and partly by tech consultants.
+[The EARN IT Act: How to Ban End-to-End Encryption Without Actually Banning It]("https://cyberlaw.stanford.edu/blog/2020/01/earn-it-act-how-ban-end-end-encryption-without-actually-banning-it"): Tell companies that in order to keep their immunity offered in Section 230 of the Communications Decency Act of 1996 (that platform providers aren't liable for their users), they must comply with 'best practices' to prevent the exploitation of minors. These best practices will be outlined mostly by Law Enforcement Agencies that want weak encryption i.e. backdoors, and partly by tech consultants who're chosen by said LEAs.
 * [230, or not 230? That is the EARN IT question](https://signal.org/blog/earn-it/")
 * [EARN IT is a direct attack on end-to-end encryption](https://blog.cryptographyengineering.com/2020/03/06/earn-it-is-an-attack-on-encryption/")
 * [Senator Blumenthal Is Super Mad That Zoom Isn't Actually Offering The End To End Encryption His Law Will Outlaw](https://www.techdirt.com/articles/20200401/16571344217/senator-blumenthal-is-super-mad-that-zoom-isnt-actually-offering-end-to-end-encryption-his-law-will-outlaw.shtml")
@@ -53,7 +53,7 @@ Part-way into the year, I was wondering how this post was almost as long as the 
 
 [The Infinite Loop That Wasn't: A Holy Grail Bug Story]("https://mgba.io/2020/01/25/infinite-loop-holy-grail/"): The solution to a bug for a specific Hello Kitty game for a GameBoy Advanced emulator that took part of three years to understand and fix.
 
-[The 'Race To 5G' Is A Giant Pile Of Lobbyist Nonsense](https://www.techdirt.com/articles/20200116/08134343743/race-to-5g-is-giant-pile-lobbyist-nonsense.html): TelCo's realize that mobile device sales are down, and want a way to hype upgrades, while also presenting an 'Us vs China' mentality to secure free public government funding for private corporate infrastructure upgrades. Also considering that 3G coverage is still spotty in rural areas, and current 5G coverage maps aren't accurate, overall it's not the new hotness as it's being made out to be.
+[The 'Race To 5G' Is A Giant Pile Of Lobbyist Nonsense](https://www.techdirt.com/articles/20200116/08134343743/race-to-5g-is-giant-pile-lobbyist-nonsense.html): TelCo's realize that mobile device sales are down, and want a way to hype upgrades, while also presenting an 'USA vs China' narrative to secure government funding for infrastructure upgrades. Also considering that 3G coverage is still spotty in rural areas, and current 5G coverage maps aren't accurate, overall it's not the new hotness as it's being made out to be.
 
 [Things I Believe About Software Engineering](https://blog.wesleyac.com/posts/engineering-beliefs) *(excerpts)*:
 * Being aligned with teammates on what you're building is more important than building the right thing
@@ -76,7 +76,9 @@ Part-way into the year, I was wondering how this post was almost as long as the 
 
 [What To Do When You Reach Number 1 On Hacker News](https://www.jarednelsen.dev/posts/what-to-do-when-you-reach-number-1-on-hacker-news): A follow up to [The Horrifically Dystopian World of Software Engineering Interviews](https://www.jarednelsen.dev/posts/The-horrifically-dystopian-world-of-software-engineering-interviews) and the overall state of technical interviews.
 
-[Your statement is 100% correct but misses the entire point](http://nibblestew.blogspot.com/2020/04/your-statement-is-100-correct-but.html?m=1): Though most "Well, Actually..." comments, thought factually correct, will miss often the context of a problem.
+[Why we at $FAMOUS_COMPANY Switched to $HYPED_TECHNOLOGY](https://saagarjha.com/blog/2020/05/10/why-we-at-famous-company-switched-to-hyped-technology/): A satire article on how tech companies try to relate to developers, but comes off more like ["How Do You Do, Fellow Kids?"](https://knowyourmeme.com/memes/how-do-you-do-fellow-kids).
+
+[Your statement is 100% correct but misses the entire point](http://nibblestew.blogspot.com/2020/04/your-statement-is-100-correct-but.html?m=1): Though most ["Well, Actually..."](https://www.recurse.com/social-rules) comments, though factually correct, will miss often the context of a problem.
 
 # Pics and Posts
 [Deployed my blog on Kubernetes](https://twitter.com/dexhorthy/status/856639005462417409)
