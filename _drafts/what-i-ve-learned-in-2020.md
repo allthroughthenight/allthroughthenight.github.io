@@ -88,6 +88,7 @@ Originally, I was wondering how this post was almost as long as the previous one
 [Deployed my blog on Kubernetes](https://twitter.com/dexhorthy/status/856639005462417409)
 
 [haha for loop go brr]({{site.baseurl}}/assets/loop-go-brrr.png)
+##### [bonus: machine learning]({{site.baseurl}}/assets/tensy-flow.png)
 
 [I fucked up Git so bad it turned into Guitar Hero](https://twitter.com/HenryHoffman/status/694184106440200192)
 
