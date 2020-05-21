@@ -13,9 +13,9 @@ Coders at Work
 How to Talk About Books You Haven't Read
 
 # Introduction
-This is a follow-up to my [previous post]({{site.baseurl}}/TBD)TBD, which I hope I can keep going as a regular series.
+This is a follow-up to my [previous post]({{site.baseurl}}/TBD), which I hope I can keep going as a regular series.
 
-Part-way into the year, I was wondering how this post was almost as long as the previous one, though it was covering a lot less time. Going through it, I noticed that I'd been fixating on articles and posts that'd bemoan the strife from  working in tech. But I want to keep the tone of this positive, so I removed a bunch of that stuff, along with making sure everything is focused more squarely on tech.
+Originally, I was wondering how this post was almost as long as the previous one, though it was covering less time. Going through it, I noticed that I'd been fixating on articles that'd bemoan the strifes on working in tech. But I want to keep the tone of this positive, so I removed all that stuff, and made sure everything is focused more squarely on tech than just what I found interesting in general.
 
 # Articles
 [Austin Amazon KFAUWI device randomly appeared under Network Device](https://www.thewindowsclub.com/amazon-kfauwi-appeared-network-device): The same motherboard maker for Amazon Fires and Kindles uses Linux source code for automatic device discovery. So any device running the same code will cause Windows to detect it as an Amazon Fire.
@@ -42,6 +42,10 @@ Part-way into the year, I was wondering how this post was almost as long as the 
 [List of 2020 Leap Day Bugs](https://codeofmatt.com/list-of-2020-leap-day-bugs): A collection of various software bugs due to the extra day this year.
 
 [Programming Trick Question](https://qntm.org/trick): Answers to three common programming interview questions.
+
+[Sell yourself, Sell Your Work](https://www.solipsys.co.uk/new/SellYourselfSellYourWork.html?te20hn): Being able to talk about your technical accomplishments is important as it allows you to show your value to an organization.
+
+[The Bible for SWE Salary Negotiations](https://www.kalzumeus.com/2012/01/23/salary-negotiation/): Salary negotiations are between you and HR, not you and your Hiring Manager.
 
 [The EARN IT Act: How to Ban End-to-End Encryption Without Actually Banning It]("https://cyberlaw.stanford.edu/blog/2020/01/earn-it-act-how-ban-end-end-encryption-without-actually-banning-it"): Tell companies that in order to keep their immunity offered in Section 230 of the Communications Decency Act of 1996 (that platform providers aren't liable for their users), they must comply with 'best practices' to prevent the exploitation of minors. These best practices will be outlined mostly by Law Enforcement Agencies that want weak encryption i.e. backdoors, and partly by tech consultants who're chosen by said LEAs.
 * [230, or not 230? That is the EARN IT question](https://signal.org/blog/earn-it/")
@@ -90,6 +94,8 @@ Part-way into the year, I was wondering how this post was almost as long as the 
 [Protecting Lives & Liberty](https://ncase.me/contact-tracing/)
 
 [That's not a full stack developer. That's an entire IT department]({{site.baseurl}}/assets/full-stack-dev.png)
+
+[Hiring a Stack Overflow pro](https://www.reddit.com/r/ProgrammerHumor/comments/glboca/hiring_a_stack_overflow_pro/)
 
 # Books
 

@@ -4,7 +4,6 @@
 
 * All-in-one command to set up VM (Ansible, Vagrant)
 * Better understanding overall of static site generators and less-copy-pasta of commands (ಠ_ಠ)
-* Close [WordPress.com](ramblevalley.wordpress.com) site and account
 * Fix inline HTML for YouTube videos and images, proabably best to move 'locally' to assets as possible
 * Remove unneeded features (RSS Feed, SEO, Google Analytics)
 * Use a custom domain
@@ -49,7 +48,7 @@ bundle exec jekyll clean
 
 start the test site locally
 ```
-bundle exec jekyll serve --host <eth1>
+bundle exec jekyll serve --host <if-ip-addr>
 ```
 
 ## import `wordpress-export.xml`
