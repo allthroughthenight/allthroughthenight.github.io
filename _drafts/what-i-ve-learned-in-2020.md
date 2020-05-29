@@ -12,6 +12,8 @@ Coders at Work
 
 How to Talk About Books You Haven't Read
 
+[The 'AI Effect'](https://en.wikipedia.org/wiki/AI_effect): Once a task has been mastered by AI, the difficulty of the task is discounted and not a measure of 'True Intelligence'. See also: [Moving the Goalposts](https://www.logicallyfallacious.com/logicalfallacies/Moving-the-Goalposts) and [No True Scotsman](https://www.logicallyfallacious.com/logicalfallacies/No-True-Scotsman)
+
 # Introduction
 This is a follow-up to my [previous post]({{site.baseurl}}/TBD), which I hope I can keep going as a regular series.
 
