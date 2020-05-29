@@ -5,14 +5,16 @@ title: "What I've Learned in 2020"
 
 # WIP
 
+lol: https://daringfireball.net/2020/05/abovitz_magic_leap_translation
+
 Coders at Work
 * https://vlkan.com/blog/post/2016/10/04/coders-at-work/
 * https://jonwood.co/blog/2016/12/12/book-review-coders-at-work
 * https://oleb.net/blog/2010/02/book-review-coders-at-work/
 
 How to Talk About Books You Haven't Read
-
-[The 'AI Effect'](https://en.wikipedia.org/wiki/AI_effect): Once a task has been mastered by AI, the difficulty of the task is discounted and not a measure of 'True Intelligence'. See also: [Moving the Goalposts](https://www.logicallyfallacious.com/logicalfallacies/Moving-the-Goalposts) and [No True Scotsman](https://www.logicallyfallacious.com/logicalfallacies/No-True-Scotsman)
+* links
+* tbd
 
 # Introduction
 This is a follow-up to my [previous post]({{site.baseurl}}/TBD), which I hope I can keep going as a regular series.
@@ -46,6 +48,8 @@ Originally, I was wondering how this post was almost as long as the previous one
 [Programming Trick Question](https://qntm.org/trick): Answers to three common programming interview questions.
 
 [Sell yourself, Sell Your Work](https://www.solipsys.co.uk/new/SellYourselfSellYourWork.html?te20hn): Being able to talk about your technical accomplishments is important as it allows you to show your value to an organization.
+
+[The 'AI Effect'](https://en.wikipedia.org/wiki/AI_effect): Once a task has been mastered by AI, the difficulty of the task is discounted and not a measure of 'True Intelligence'. See also: [Moving the Goalposts](https://www.logicallyfallacious.com/logicalfallacies/Moving-the-Goalposts) and [No True Scotsman](https://www.logicallyfallacious.com/logicalfallacies/No-True-Scotsman)
 
 [The Bible for SWE Salary Negotiations](https://www.kalzumeus.com/2012/01/23/salary-negotiation/): Salary negotiations are between you and HR, not you and your Hiring Manager.
 
