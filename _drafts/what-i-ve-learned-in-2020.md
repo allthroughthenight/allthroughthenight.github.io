@@ -5,6 +5,7 @@ title: "What I've Learned in 2020"
 
 # WIP
 
+-https://news.ycombinator.com/item?id=23521606
 -https://almad.blog/essays/no-bugs-just-todos/
 -https://www.reddit.com/r/webdev/comments/gzr3cq/fyi_you_can_bypass_youtube_ads_by_adding_a_dot/ftimtjg/
 
