@@ -5,6 +5,9 @@ title: "What I've Learned in 2020"
 
 # WIP
 
+-https://almad.blog/essays/no-bugs-just-todos/
+-https://www.reddit.com/r/webdev/comments/gzr3cq/fyi_you_can_bypass_youtube_ads_by_adding_a_dot/ftimtjg/
+
 lol: https://daringfireball.net/2020/05/abovitz_magic_leap_translation
 
 Coders at Work
