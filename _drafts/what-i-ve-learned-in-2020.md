@@ -5,11 +5,11 @@ title: "What I've Learned in 2020"
 
 # WIP
 
+-https://josebrowne.com/on-coding-ego-and-attention/
 -https://news.ycombinator.com/item?id=23521606
 -https://almad.blog/essays/no-bugs-just-todos/
 -https://www.reddit.com/r/webdev/comments/gzr3cq/fyi_you_can_bypass_youtube_ads_by_adding_a_dot/ftimtjg/
-
-lol: https://daringfireball.net/2020/05/abovitz_magic_leap_translation
+-https://daringfireball.net/2020/05/abovitz_magic_leap_translation
 
 Coders at Work
 * https://vlkan.com/blog/post/2016/10/04/coders-at-work/
@@ -96,6 +96,8 @@ Originally, I was wondering how this post was almost as long as the previous one
 
 # Pics and Posts
 [Deployed my blog on Kubernetes](https://twitter.com/dexhorthy/status/856639005462417409)
+
+[Design electronics like it is 70's at CERN](https://photos.google.com/share/AF1QipNjVlcaYM4Fre6F_AGtX6Jw0K1BIylWILAPAXds9WwPalniCJwPFOX5v8h1T-CtoQ?key=OVBmbGlwa2dXUXg1a2JBUnpvYWotNVB6cUdyTkVR)
 
 [haha for loop go brr]({{site.baseurl}}/assets/loop-go-brrr.png)
 ##### [bonus: machine learning]({{site.baseurl}}/assets/tensy-flow.png)
