@@ -47,6 +47,11 @@ Originally, I was wondering how this post was almost as long as the previous one
 > 
 > \- Abraham Maslow
 
+[LEGO blocks and organ transplants](https://www.johndcook.com/blog/2011/02/03/lego-blocks-and-organ-transplants/):
+> "Integrating two software systems is usually more like performing a heart transplant than snapping together LEGO blocks. It can be done—if there’s a close enough match and the people doing it have enough skill—but the pieces don’t fit together trivially. And failure may not be immediately obvious; it may take a while to see signs of rejection."
+>
+> \- John Cook
+
 [List of 2020 Leap Day Bugs](https://codeofmatt.com/list-of-2020-leap-day-bugs): A collection of various software bugs due to the extra day this year.
 
 [Programming Trick Question](https://qntm.org/trick): Answers to three common programming interview questions.
