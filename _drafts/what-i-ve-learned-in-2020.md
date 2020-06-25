@@ -228,6 +228,8 @@ Working Effectively with Legacy Code
 
 [Building a simple Instagram Influencer bot Python tutorial](https://www.youtube.com/watch?v=pWiGfOIUeCo)
 
+[Detect Facetuned Instagram Posts Easily](https://www.youtube.com/watch?v=HR8wSlROf8I)
+
 [Doom Runs of Everything](https://www.youtube.com/watch?v=ZU4-7jltj0o)
 
 [Hacking on Simula (in Simula)](https://www.youtube.com/watch?v=FWLuwG91HnI)
