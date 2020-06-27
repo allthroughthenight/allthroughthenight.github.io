@@ -5,6 +5,7 @@ title: "What I've Learned in 2020"
 
 # WIP
 
+-https://www.reddit.com/r/specializedtools/comments/hgc07k/this_scale_matches_up_combinations_of_mushrooms/fw3prx4/
 -https://josebrowne.com/on-coding-ego-and-attention/
 -https://news.ycombinator.com/item?id=23521606
 -https://almad.blog/essays/no-bugs-just-todos/
