@@ -11,6 +11,7 @@ title: "What I've Learned in 2020"
 -https://almad.blog/essays/no-bugs-just-todos/
 -https://www.reddit.com/r/webdev/comments/gzr3cq/fyi_you_can_bypass_youtube_ads_by_adding_a_dot/ftimtjg/
 -https://daringfireball.net/2020/05/abovitz_magic_leap_translation
+-https://hamptonmoore.com/posts/weird-wifi-name-display/
 -[Why unemployment sites crash but Netflix doesn’t](https://www.youtube.com/watch?v=Ox_Wm6XQnxI)
 -[Has GitHub Been Down More Since Its Acquisition by Microsoft?](https://nimbleindustries.io/2020/06/04/has-github-been-down-more-since-its-acquisition-by-microsoft/)
 
