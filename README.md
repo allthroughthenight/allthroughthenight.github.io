@@ -8,6 +8,7 @@
 * Remove unneeded features (RSS Feed, SEO, Google Analytics)
 * Use a custom domain
 * Clean up git log to one initial 'hero' commit
+* Other pages for "About Me" and "Portfolio" maybe?
 
 ## set-up
 
