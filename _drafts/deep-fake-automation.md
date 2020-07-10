@@ -8,3 +8,4 @@ https://www.youtube.com/watch?v=JhfNJlnN_Bg
 automated youtube
 https://news.ycombinator.com/item?id=22120724
 https://news.ycombinator.com/item?id=23006967
+https://www.wired.com/story/covid-drives-real-businesses-deepfake-technology/
