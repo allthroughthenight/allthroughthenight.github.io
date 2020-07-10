@@ -5,6 +5,7 @@ title: "What I've Learned in 2020"
 
 # WIP
 
+-https://blog.pinboard.in/2020/07/pinboard_is_eleven/
 -https://www.tiktok.com/@hoppuman/video/6847513660613512453
 -https://support.google.com/calendar/thread/29336031?hl=en: i really have gcal and their new lines
 -https://www.reddit.com/r/specializedtools/comments/hgc07k/this_scale_matches_up_combinations_of_mushrooms/fw3prx4/
