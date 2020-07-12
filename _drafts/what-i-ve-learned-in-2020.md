@@ -5,7 +5,6 @@ title: "What I've Learned in 2020"
 
 # WIP
 
--https://www.youtube.com/watch?v=aHyNYfFfXlg
 -https://blog.pinboard.in/2020/07/pinboard_is_eleven/
 -https://www.tiktok.com/@hoppuman/video/6847513660613512453
 -https://support.google.com/calendar/thread/29336031?hl=en: i really have gcal and their new lines
@@ -62,6 +61,12 @@ Originally, I was wondering how this post was almost as long as the previous one
 > \- John Cook
 
 [List of 2020 Leap Day Bugs](https://codeofmatt.com/list-of-2020-leap-day-bugs): A collection of various software bugs due to the extra day this year.
+
+[Pinboard is Eleven](https://blog.pinboard.in/2020/07/pinboard_is_eleven/):
+> "Much of the core code on the site dated back to 2009-2010 and was written by Past Me, a vindictive, inscrutable nemesis who devoted his life to sabotaging Present Me."
+> 
+> \- maciej
+
 
 [Programming Trick Question](https://qntm.org/trick): Answers to three common programming interview questions.
 
@@ -246,6 +251,8 @@ Working Effectively with Legacy Code
 [How Crash Bandicoot Hacked The Original PlayStation](https://www.youtube.com/watch?v=izxXGuVL21o)
 
 [How I asked EVERY countrys embassy for flags](https://www.youtube.com/watch?v=Jbix9y8iV38)
+
+[I Built a REAL-LIFE Time Machine! 🕒⚡](https://www.youtube.com/watch?v=aHyNYfFfXlg)
 
 [Trolling Donald Trump's Twitter Using Python](https://www.youtube.com/watch?v=n5TgwdAbCFk)
 
