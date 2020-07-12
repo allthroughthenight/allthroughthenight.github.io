@@ -2,13 +2,11 @@
 
 ## TODOs
 
-* All-in-one command to set up VM (Ansible, Vagrant)
-* Better understanding overall of static site generators and less-copy-pasta of commands (ಠ_ಠ)
-* Fix inline HTML for YouTube videos and images, proabably best to move 'locally' to assets as possible
+* All-in-one VM set-up via Ansible and Vagrant
+* Better understanding of overall static site generators and less-copy-pasta of commands (ಠ_ಠ)
 * Remove unneeded features (RSS Feed, SEO, Google Analytics)
-* Use a custom domain
-* Clean up git log to one initial 'hero' commit
-* Other pages for "About Me" and "Portfolio" maybe?
+* Squash log into one 'hero' commit
+* "About Me" page with "all views are my own" disclaimer 
 
 ## set-up
 

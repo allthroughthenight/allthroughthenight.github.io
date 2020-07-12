@@ -3,7 +3,7 @@ layout: post
 title: "Networking Board"
 ---
 
-As a casual [homelabber](https://www.reddit.com/r/homelab), I've always had the dream of 'maxing out'. Daydreaming about my own personal 20U 19-inch rack, full of blade servers doing my bidding in a garage or basement. With a bespoke-built cooling solution that was power efficient but whisper quiet. The clients on my LAN would enjoy trasparent ad-blocking, and would stream locally stored HD media with blisteringly fast inter-connectivity from a multi terabyte NAS with [SFP](https://en.wikipedia.org/wiki/Small_form-factor_pluggable_transceiver) interfaces and switches. And to feed the network, I would have a fiber optic connection from my ISP, with no less than a gigabit connection. That, is the end game.
+As a casual [homelabber](https://www.reddit.com/r/homelab), I've always had the dream of 'maxing out'. Daydreaming about my own personal 20U 19-inch rack, full of blade servers doing my bidding in a garage or basement. With a bespoke-built cooling solution that was power efficient but whisper quiet. The clients on my LAN would enjoy transparent ad-blocking, and would stream locally stored HD media with blisteringly fast inter-connectivity from a multi terabyte NAS with [SFP](https://en.wikipedia.org/wiki/Small_form-factor_pluggable_transceiver) interfaces and switches. And to feed the network, I would have a fiber optic connection from my ISP, with no less than a gigabit connection. That, is the end game.
 
 But having lived life a bit, I've realized that simpler is usually better (and cheaper). But I do like having control over my domain, and saving a bit a money. So instead of renting my [SOHO](https://www.lifewire.com/soho-routers-and-networks-explained-3971344) router from my ISP, I'd set up my own.
 

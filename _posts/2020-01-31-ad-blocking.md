@@ -10,7 +10,7 @@ The set-up is straight forward:
 2. ssh with [default credentials](https://www.raspberrypi.org/forums/viewtopic.php?p=1107371#p1107371)
 3. Set-up [Pi-Hole](https://github.com/pi-hole/pi-hole/#one-step-automated-install)
 
-In case you can't hardwire your Raspberry Pi, see the exampled below for `/etc/wpa_supplicant/wpa_supplicant.conf` to connect to wifi:
+In case you can't hard wire your Raspberry Pi, see the exampled below for `/etc/wpa_supplicant/wpa_supplicant.conf` to connect to wifi:
 
 ```
 ctrl_interface=DIR=/var/run/wpa_supplicant GROUP=netdev

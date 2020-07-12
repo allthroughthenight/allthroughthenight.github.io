@@ -3,22 +3,6 @@ layout: post
 title: "What I've Learned in 2020"
 ---
 
-# WIP
-
--https://blog.pinboard.in/2020/07/pinboard_is_eleven/
--https://www.tiktok.com/@hoppuman/video/6847513660613512453
--https://support.google.com/calendar/thread/29336031?hl=en: i really have gcal and their new lines
--https://www.reddit.com/r/specializedtools/comments/hgc07k/this_scale_matches_up_combinations_of_mushrooms/fw3prx4/
--https://josebrowne.com/on-coding-ego-and-attention/
--https://news.ycombinator.com/item?id=23521606
--https://almad.blog/essays/no-bugs-just-todos/
--https://www.reddit.com/r/webdev/comments/gzr3cq/fyi_you_can_bypass_youtube_ads_by_adding_a_dot/ftimtjg/
--https://daringfireball.net/2020/05/abovitz_magic_leap_translation
--https://hamptonmoore.com/posts/weird-wifi-name-display/
--[elsamuko/Shirt-without-Stripes](https://github.com/elsamuko/Shirt-without-Stripes)
--[Why unemployment sites crash but Netflix doesn’t](https://www.youtube.com/watch?v=Ox_Wm6XQnxI)
--[Has GitHub Been Down More Since Its Acquisition by Microsoft?](https://nimbleindustries.io/2020/06/04/has-github-been-down-more-since-its-acquisition-by-microsoft/)
-
 Coders at Work
 * https://vlkan.com/blog/post/2016/10/04/coders-at-work/
 * https://jonwood.co/blog/2016/12/12/book-review-coders-at-work
@@ -29,20 +13,24 @@ How to Talk About Books You Haven't Read
 * tbd
 
 # Introduction
-This is a follow-up to my [previous post]({{site.baseurl}}/TBD), which I hope I can keep going as a regular series.
+This is a follow-up to my [previous post]({{site.baseurl}}/2020/01/20/what-ive-learned-so-far.html), which I hope I can keep going as a regular series.
 
-Originally, I was wondering how this post was almost as long as the previous one, though it was covering less time. Going through it, I noticed that I'd been fixating on articles that'd bemoan the strifes on working in tech. But I want to keep the tone of this positive, so I removed all that stuff, and made sure everything is focused more squarely on tech than just what I found interesting in general.
+When I first started, after a few months I was wondering how this post was almost as long as the previous one but covering less time. Going over it, I noticed that I fixated on articles that'd bemoan the strifes on working in tech. But I want to keep the tone of this positive, so I removed all that stuff, and made sure everything is focused more squarely on tech than just what I found interesting in general.
 
 # Articles
 [Austin Amazon KFAUWI device randomly appeared under Network Device](https://www.thewindowsclub.com/amazon-kfauwi-appeared-network-device): The same motherboard maker for Amazon Fires and Kindles uses Linux source code for automatic device discovery. So any device running the same code will cause Windows to detect it as an Amazon Fire.
 
-[Career advice for people with bad luck](https://chiefofstuff.substack.com/p/career-advice-for-people-with-bad): It’s okay to go for the safe job, it’s also okay to take risks. Overall, it all tends to work out, on average, eventually. And you’ll regret it either way.
+[Career advice for people with bad luck](https://chiefofstuff.substack.com/p/career-advice-for-people-with-bad): It’s okay to go for the safe job, it’s also okay to take risks, because you’ll regret it either way.
 
 [Do-nothing scripting: the key to gradual automation](https://blog.danslimmon.com/2019/07/15/do-nothing-scripting-the-key-to-gradual-automation/): Instead of trying to automate everything at once, write down what you'd do by hand first, then automate each step in the process.
 
 [Docker for Windows won't run if you have the Razer Synapse driver management tool running](https://threadreaderapp.com/thread/1229641258370355200.html): Both applications lock the wrong system-wide global check to ensure that only one instance of an application runs, but then neither of them can run at the same time.
 
+[extra line breaks on event description](https://support.google.com/calendar/thread/29336031?hl=en): An explination as to why I always have to use Notepad to normalize new lines whenever I edit events on Google Calendar.
+
 [Fire drill](https://medium.com/@mshmsh5000/fire-drills-for-software-teams-164ba48b10b1): In the same way you plan for a fire (or other disaster) by having drills, by doing the same for a software team, you can see how well they'll react and how your plan would work.
+
+[fyi: You can bypass youtube ads by adding a dot after the domain](https://www.reddit.com/r/webdev/comments/gzr3cq/fyi_you_can_bypass_youtube_ads_by_adding_a_dot/ftimtjg/): By using the entire Fully Qualified Domain Name, embedded ads won't load. 
 
 [Is non-deterministic the same as random?](https://www.quora.com/Is-non-deterministic-the-same-as-random): 
 * Random: a bunch of stuff happens that doesn't make sense
@@ -55,6 +43,8 @@ Originally, I was wondering how this post was almost as long as the previous one
 > 
 > \- Abraham Maslow
 
+[elsamuko/Shirt-without-Stripes](https://github.com/elsamuko/Shirt-without-Stripes): A collection of search result that show "shirts with stripes" when queried with "shirts without stripes".
+
 [LEGO blocks and organ transplants](https://www.johndcook.com/blog/2011/02/03/lego-blocks-and-organ-transplants/):
 > "Integrating two software systems is usually more like performing a heart transplant than snapping together LEGO blocks. It can be done—if there’s a close enough match and the people doing it have enough skill—but the pieces don’t fit together trivially. And failure may not be immediately obvious; it may take a while to see signs of rejection."
 >
@@ -62,31 +52,22 @@ Originally, I was wondering how this post was almost as long as the previous one
 
 [List of 2020 Leap Day Bugs](https://codeofmatt.com/list-of-2020-leap-day-bugs): A collection of various software bugs due to the extra day this year.
 
+[On Coding, Ego and Attention](https://josebrowne.com/on-coding-ego-and-attention/): Your ego keeps you from learning by tricking you to thinking you're too smart and there's nothing left to learn.
+
 [Pinboard is Eleven](https://blog.pinboard.in/2020/07/pinboard_is_eleven/):
 > "Much of the core code on the site dated back to 2009-2010 and was written by Past Me, a vindictive, inscrutable nemesis who devoted his life to sabotaging Present Me."
 > 
 > \- maciej
 
-
 [Programming Trick Question](https://qntm.org/trick): Answers to three common programming interview questions.
 
-[Sell yourself, Sell Your Work](https://www.solipsys.co.uk/new/SellYourselfSellYourWork.html?te20hn): Being able to talk about your technical accomplishments is important as it allows you to show your value to an organization.
+[Sell yourself, Sell Your Work](https://www.solipsys.co.uk/new/SellYourselfSellYourWork.html?te20hn): Being able to talk about your technical accomplishments is important, as it allows you to show your value to an organization.
 
 [The 'AI Effect'](https://en.wikipedia.org/wiki/AI_effect): Once a task has been mastered by AI, the difficulty of the task is discounted and not a measure of 'True Intelligence'. See also: [Moving the Goalposts](https://www.logicallyfallacious.com/logicalfallacies/Moving-the-Goalposts) and [No True Scotsman](https://www.logicallyfallacious.com/logicalfallacies/No-True-Scotsman)
 
 [The Bible for SWE Salary Negotiations](https://www.kalzumeus.com/2012/01/23/salary-negotiation/): Salary negotiations are between you and HR, not you and your Hiring Manager.
 
-[The EARN IT Act: How to Ban End-to-End Encryption Without Actually Banning It]("https://cyberlaw.stanford.edu/blog/2020/01/earn-it-act-how-ban-end-end-encryption-without-actually-banning-it"): Tell companies that in order to keep their immunity offered in Section 230 of the Communications Decency Act of 1996 (that platform providers aren't liable for their users), they must comply with 'best practices' to prevent the exploitation of minors. These best practices will be outlined mostly by Law Enforcement Agencies that want weak encryption i.e. backdoors, and partly by tech consultants who're chosen by said LEAs.
-* [230, or not 230? That is the EARN IT question](https://signal.org/blog/earn-it/")
-* [EARN IT is a direct attack on end-to-end encryption](https://blog.cryptographyengineering.com/2020/03/06/earn-it-is-an-attack-on-encryption/")
-* [Senator Blumenthal Is Super Mad That Zoom Isn't Actually Offering The End To End Encryption His Law Will Outlaw](https://www.techdirt.com/articles/20200401/16571344217/senator-blumenthal-is-super-mad-that-zoom-isnt-actually-offering-end-to-end-encryption-his-law-will-outlaw.shtml")
-* [The EARN IT Act Violates the Constitution](https://www.eff.org/deeplinks/2020/03/earn-it-act-violates-constitution")
-
 [The History of the URL](https://blog.cloudflare.com/the-history-of-the-url/): Partly about how URLs came to be, along with the Internet as a whole.
-
-[The Infinite Loop That Wasn't: A Holy Grail Bug Story]("https://mgba.io/2020/01/25/infinite-loop-holy-grail/"): The solution to a bug for a specific Hello Kitty game for a GameBoy Advanced emulator that took part of three years to understand and fix.
-
-[The 'Race To 5G' Is A Giant Pile Of Lobbyist Nonsense](https://www.techdirt.com/articles/20200116/08134343743/race-to-5g-is-giant-pile-lobbyist-nonsense.html): TelCo's realize that mobile device sales are down, and want a way to hype upgrades, while also presenting an 'USA vs China' narrative to secure government funding for infrastructure upgrades. Also considering that 3G coverage is still spotty in rural areas, and current 5G coverage maps aren't accurate, overall it's not the new hotness as it's being made out to be.
 
 [Things I Believe About Software Engineering](https://blog.wesleyac.com/posts/engineering-beliefs) *(excerpts)*:
 * Being aligned with teammates on what you're building is more important than building the right thing
@@ -99,17 +80,11 @@ Originally, I was wondering how this post was almost as long as the previous one
 >
 > \- Donald Knuth
 
-[Three weeks ago, I ordered a box of boxes from @PkgWholesalers, via @amazonca](https://threadreaderapp.com/thread/1225834920611848192.html): Since other sellers on amazon buy their boxes from the same seller, they ended up getting boxes that were full with a product.
-
-[Toil](https://landing.google.com/sre/sre-book/chapters/eliminating-toil/): Work that is manual, repetitive, automatable, reactive, or doesn't provide enduring value. In short, if the work it doesn't have a permanent improvement to a system when it's complete, then it should be considered toil.
-
 [Trunk-based Development vs. Git Flow](https://www.toptal.com/software/trunk-based-development-git-flow): A versioning process other than the ubiquitous GitFlow-esque method.
 
 [Up or Out: Solving the IT Turnover Crisis](http://thedailywtf.com/articles/Up-or-Out-Solving-the-IT-Turnover-Crisis): a.k.a. [The Dead Sea Effect](http://brucefwebster.com/2008/04/11/the-wetware-crisis-the-dead-sea-effect/). No matter what, top talent will leave an organization, while the under qualified will stay since they can't move on. Instead of instead of struggling to retain top talent, embrace the turn-over and learn to train top talent. Hire for attitude, train for aptitude.
 
 [What To Do When You Reach Number 1 On Hacker News](https://www.jarednelsen.dev/posts/what-to-do-when-you-reach-number-1-on-hacker-news): A follow up to [The Horrifically Dystopian World of Software Engineering Interviews](https://www.jarednelsen.dev/posts/The-horrifically-dystopian-world-of-software-engineering-interviews) and the overall state of technical interviews.
-
-[Why we at $FAMOUS_COMPANY Switched to $HYPED_TECHNOLOGY](https://saagarjha.com/blog/2020/05/10/why-we-at-famous-company-switched-to-hyped-technology/): A satire article on how tech companies try to relate to developers, but comes off more like ["How Do You Do, Fellow Kids?"](https://knowyourmeme.com/memes/how-do-you-do-fellow-kids).
 
 [Your statement is 100% correct but misses the entire point](http://nibblestew.blogspot.com/2020/04/your-statement-is-100-correct-but.html?m=1): Though most ["Well, Actually..."](https://www.recurse.com/social-rules) comments, though factually correct, will miss often the context of a problem.
 
@@ -240,20 +215,14 @@ Working Effectively with Legacy Code
 # Videos
 [Automate TINDER with Python tutorial](https://www.youtube.com/watch?v=lvFAuUcowT4)
 
-[Building a simple Instagram Influencer bot Python tutorial](https://www.youtube.com/watch?v=pWiGfOIUeCo)
-
-[Detect Facetuned Instagram Posts Easily](https://www.youtube.com/watch?v=HR8wSlROf8I)
-
 [Doom Runs of Everything](https://www.youtube.com/watch?v=ZU4-7jltj0o)
 
 [Hacking on Simula (in Simula)](https://www.youtube.com/watch?v=FWLuwG91HnI)
-
-[How Crash Bandicoot Hacked The Original PlayStation](https://www.youtube.com/watch?v=izxXGuVL21o)
 
 [How I asked EVERY countrys embassy for flags](https://www.youtube.com/watch?v=Jbix9y8iV38)
 
 [I Built a REAL-LIFE Time Machine! 🕒⚡](https://www.youtube.com/watch?v=aHyNYfFfXlg)
 
-[Trolling Donald Trump's Twitter Using Python](https://www.youtube.com/watch?v=n5TgwdAbCFk)
+[Why unemployment sites crash but Netflix doesn’t](https://www.youtube.com/watch?v=Ox_Wm6XQnxI)
 
 [Why You Can't Name A File CON In Windows](https://www.youtube.com/watch?v=bC6tngl0PTI)

@@ -1,0 +1,103 @@
+---
+layout: post
+title: "Computer Set-Up"
+---
+
+## Work From Home
+
+When I first graduated college, I had a an abundance of time, but was short on money. Since I couldn't afford anywhere to go, I had to figure out a way to stay sane while staying in place. At the time I was also living with my parents, so the only space I had to myself was my bed room, which turned into my everything room. At first this sounds great, you can eat, sleep, and play in the same space. 
+So efficient!
+When really, it sucks cause you can't differentiate between activities and everything blurs together.
+
+So early on I learned that if I'm going to do different things, I should do it in different places.
+Play games? Desktop with PC. Eat food? Living room dinner table. Exercise? Run to the park. Go to bed? Lay down in bed.
+It sounds simple when you say it, but this realization took me a while and contradicted my initial intuition.
+My idea was confirmed to me by CGPGrey with [this](https://www.youtube.com/watch?v=LO1mTELoj6o) video.
+And though my life wasn't that miserable, I was getting close.
+
+With the COVID-19 pandemic, this concept (different spaces for different activities) isn't widely known, but a lot of people felt the side effects of it.
+And as the pandemic continued, CGPGrey released another [video](https://www.youtube.com/watch?v=snAhsXyO3Ck) which echos the same advice.
+
+With my previous job, due to security reasons we had to be in the office to do our work.
+So I had a nice delineation between my work space and my recreational space.
+But with my new job, I was on-boarded remotely, and wasn't coming back into the office till next year at the earliest, so I had to relive my lessons. 
+
+## Set-Up
+
+My previous desktop set-up can be best explained with the following diagram:
+
+###### I never took a picture of it when I first set it up, so a diagram is the best I could do
+[draw.io]
+![]({{site.baseurl}}/assets/networking-board.jpg)
+
+Once I got my laptop for work, I knew I wanted to take advantage of all the hardware I have, so I changed things bit:
+
+###### Another diagram so show how everything is connected
+[draw.io]
+![]({{site.baseurl}}/assets/networking-board.jpg)
+
+###### An actual picture to see what it's like IRL
+[camera_picture]
+![]({{site.baseurl}}/assets/networking-board.jpg)
+
+Off the bat, I almost went for a full featured dual monitor Keyboard-Video-Mouse switch, but once I received my WFH package, it already included a mouse and keyboard.
+And since I knew I didn't want to use the same peripherals for personal and work use, I went with a simple HDMI switch.
+It's a hassle switching between two different mice and keyboards, but it provides nice separation when I'm off the clock.
+Since I use headphones at work, I didn't worry about switching the audio over either, and I rarely use my webcam so I leave it plugged directly into my work laptop.
+
+## Monitors
+
+For most people, one large-ish (22" to 24") monitor is more then enough for general work.
+Especially since OSX and Windows 10 allow for multiple desktops/workspaces.
+
+With two monitors, you now get the added ability to leave applications open on another monitor without having to switch programs, and can help with certain workflows, but is probably distracting for everyone else.
+
+Then finally we come to me and my triple monitor set up.
+I got a deal on the third monitor for only $40 on craigslist, with the intent to use it for Street Fighter 5 local meet-ups.
+But once the pandemic started the local meet-ups stopped, so I decided to put it to use.
+
+To be honest, I don't know what to do with all this monitor space.
+At my previous job I had three monitors, but I'd just fill them with malarkey to look busy, and really only cared for the main monitor, and the same could be same here at home.
+I might have discord on one screen and YouTube or Netflix on another, but I'll close them after a while cause it's just too much going on.
+
+## Ergonomics
+
+I wish more people I knew in tech took ergonomic seriously.
+Repetitive Stress Injury is like hearing loss: Progressive, Painless, and Permanent.
+I know I spent all my 'yung boi points' in college working on my laptop everywhere, and my neck and back are on their last leg.
+Ergonomics was a major driver for me putting my monitors on arms.
+Being able to reposition them and getting back a bunch of desk space was a nice side effect.
+
+I lucked out with the Microsoft Curve 4k and got it on sale for $25, when then usually retail for $50 or more.
+As for my trackball, I don't get why more people don't use the.
+I don't think it works for every task, but having it as your main pointing device, then a mouse as a back up is a nice in-between.
+And if you look at the picture above, you'll notice that I have them on separate sides.
+Again, by splitting the work between both my hands, it helps prevent RSI.
+I do the same with mice, so at work I'll use my mouse with my left hand, then at home I'll use it with my right hand.
+It also adds another layer of separation between my personal and work computer for my WFH set up
+
+When it came to the chair, I knew I wanted one with a headrest.
+But when it comes to office chairs, they're way over priced for the average consumer.
+Which makes sense because it's usually businesses that buy them.
+I knew my best bet for a budget high back chair would be a gaming racing seat kinda of one.
+And after about a year, even with all noise and wiggle it has, I think it's held together pretty well.
+It is lacking in a few features, but overall it does what I want, which is letting me lean back and supporting my head and neck.
+
+## Development Environment
+
+My personal development workflow is pretty basic, because when I say development, I mean working on this blog.
+Again, Vbox and Vagrant are my go to's again, along with Git for Windows.
+To start, I'll clone a repo and set-up my ssh key with GitHub.
+Then set up my VagrantFile to have a shared directory thats the repo.
+So now I'm able to use any text editor or IDE on the host machine.
+But when I have to build and test I can use a VM instead. 
+And by keeping the set-up on the host machine, I don't have to worry about managing dotfiles or ssh keys for every VM.
+
+###### Diagram of the Set-Up
+[draw.io]
+![]({{site.baseurl}}/assets/networking-board.jpg)
+
+## Conclusion
+
+If you plan to make your living working at a computer, you should consider in getting some quality gear.
+In the same way a carpenter organizes their work shop, or a mechanic and their garage, the same should be for techies and their computer.

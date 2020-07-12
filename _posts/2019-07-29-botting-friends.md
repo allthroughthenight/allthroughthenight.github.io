@@ -5,9 +5,9 @@ title: "Botting Friends"
 
 Considering the lacking features of current messaging apps, and the continued growth of the gaming industry, the market was ripe for a new 'Gamer' focused messaging app. Other online stores have tried to add on social media features, but those connection are locked into their platform, and are usually disconnected from the game's own social ecosystem.
 
-In comes [Discord](https://discordapp.com), with the ease of ability to jump in and out of voice chats when compared to Skype or Ventrilo, but still allows for tight moderation like Slack, without the corporate digma. Allowing scattered online communities to coalesce in one place.
+In comes [Discord](https://discordapp.com), with the ease of ability to jump in and out of voice chats when compared to Skype or Ventrilo, but still allows for tight moderation like Slack, without the corporate dogma. Allowing scattered online communities to coalesce in one place.
 
-For me and my friends, it's been a great way to keep in touch without having to force interaction, which can make maintaining friendships a burden or chore, which in turn causes them to fizzle out. An example for us is our `#lounge` voice channel. If you're just hanging out, but willing to chat, you can join the voice channel. Others will see you there, and can join casually. This is similar to what it's like with real world gather places by letting interaction happen naturally and organically instead of having to set up a call for one-on-one chats.
+For me and my friends, it's been a great way to keep in touch without having to force interactions, which can make maintaining friendships a burden or chore, which in turn causes them to fizzle out. An example for us is our `#lounge` voice channel. If you're just hanging out, but willing to chat, you can join the voice channel. Others will see you there, and can join casually. This is similar to what it's like with real world gather places by letting interaction happen naturally and organically instead of having to set up a call for one-on-one chats.
 
 Though I like to think that I keep my circle of friends small, it was a matter of time till I knew that others would be invited that I wouldn't know. To keep things lively, and help a bit with moderation, I looked for add-ons that'd help.
 

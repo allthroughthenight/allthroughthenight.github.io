@@ -13,15 +13,13 @@ I planned to make this "What I've Learned in 2019", but as I started working on 
 
 [Are Your Programmers Working Hard, Or Are They Lazy?](http://mikehadlow.blogspot.com/2013/12/are-your-programmers-working-hard-or.html): It's hard to measure the output of brainwork, and shouldn't be compared with other types.
 
-[Ask HN: I've been slacking off at Google for 6 years. How can I stop this?](https://news.ycombinator.com/item?id=21961560"): TBD
+[Ask HN: I've been slacking off at Google for 6 years. How can I stop this?](https://news.ycombinator.com/item?id=21961560): A current 'Google-er' has been skating by at work, and is worried that he doesn't have the skills to land a job when he leaves.
 
-[Do not Fall in Love with a Smart, Introverted Man](https://psiloveyou.xyz/do-not-fall-in-love-with-a-smart-introverted-man-8792ac8ca4cd): What you usually find quirky and unique at first in a relationship, can become annoying and unbearable once the butterflies are over.
-
-[Help - I think I may have screwed my career and possibly my life.](https://www.reddit.com/r/sysadmin/comments/q0wzq/help_i_think_i_may_have_screwed_my_career_and/): TBD
+[Help - I think I may have screwed my career and possibly my life.](https://www.reddit.com/r/sysadmin/comments/q0wzq/help_i_think_i_may_have_screwed_my_career_and/): An IT tech spent most of his work time deflecting responsibilities, playing games, and let his skills stagnate. Now that his wife want another kid and to move, he's worried he won't be able to get another job in the area.
 
 [I am absolutely mortified and embarrassed beyond belief and I have zero idea what to do](https://www.reddit.com/r/cscareerquestions/comments/95dgrx/i_am_absolutely_mortified_and_embarrassed_beyond/): They stepped on a puppy dog during a technical interview and killed it.
 
-[I got fired over a variable name....](https://www.reddit.com/r/cscareerquestions/comments/dpcfns/i_got_fired_over_a_variable_name/)</a>: A non-Native English Dev made a variable called `cumShot`.
+[I got fired over a variable name....](https://www.reddit.com/r/cscareerquestions/comments/dpcfns/i_got_fired_over_a_variable_name/): A non-Native English Dev made a variable called `cumShot`.
 
 [Operation Luigi: How I hacked my friend without her noticing](https://mango.pdf.zone/operation-luigi-how-i-hacked-my-friend-without-her-noticing): Le epic humorous write-up of a directed cyber attack.
 
@@ -29,7 +27,7 @@ I planned to make this "What I've Learned in 2019", but as I started working on 
 
 [The Bike Shed Effect](https://personalexcellence.co/blog/bike-shed-effect/): The less technical a decision is, the more opinionated input can be. To avoid this, just make a decision and move on, because the color of the bike shed probably doesn't matter.
 
-[The free coffee test, or Lefkowitz’s Law of Corporate Financial Health](https://jasonlefkowitz.net/2013/05/introducing-lefkowitzs-law-of-corporate-financial-health/): When an organization faces hardship, the take away little things that affect the average employee (free coffee, snacks, etc), instead addressign larger issues (budget, ) to handle finacial hardship.
+[The free coffee test, or Lefkowitz’s Law of Corporate Financial Health](https://jasonlefkowitz.net/2013/05/introducing-lefkowitzs-law-of-corporate-financial-health/): When an organization faces hardship, the take away little things that affect the average employee (free coffee, snacks, etc), instead addressing larger issues (budget, ) to handle financial hardship.
 
 [TIFU by getting Google to ban our entire company while on the toilet](https://www.reddit.com/r/tifu/comments/8kvias/tifu_by_getting_google_to_ban_our_entire_company/): Since the poster's personal Google account was connected to his work account, when they violated their ToS with a joke app, it ended up banning their entire office.
 
@@ -37,24 +35,11 @@ I planned to make this "What I've Learned in 2019", but as I started working on 
 
 [Waving a dead chicken (over it)](https://en.wikipedia.org/wiki/Waving_a_dead_chicken_(over_it)): A phrase used to describe a known (or suspected) useless procedure to remedy any software and/or hardware issue.
 
-[you don't bury survivors](http://www.codeslate.com/2007/01/you-dont-bury-survivors.html): Satire of the riddle type interview problems for tech positions in the late 90s and early 00s.
-
 # Topics
-
-Focus and Monotasking
-* [88% of Americans use a second screen while watching TV. Why?](https://arstechnica.com/gaming/2019/12/88-of-americans-use-a-second-screen-while-watching-tv-why/): We seek to be "distracted from distraction by distraction"
-* [\[DEVICE\] \[OC\] Devstation](https://www.reddit.com/r/unixporn/comments/dqhaup/device_oc_devstation/): "Minimal, focused dev setup to attempt to get myself into monotasking."
-* [How Focus Became More Valuable Than Intelligence](https://alexand.ro/2018/08/how-focus-became-more-valuable-than-intelligence): It doesn't matter how smart or clever or creative you are. If you can't focus your energy on a goal then it'll be for naught.
-* [I'm bored, what do I do?<](https://idiallo.com/blog/im-bored-what-do-i-do): Answer: Create things, producing is better than consuming
 
 Learning
 * [Announcing your plans makes you less motivated to accomplish them](https://sivers.org/zipit): By telling others about your goals, you get the same satisfaction, but without actually doing them.
 * [Flow](https://en.wikipedia.org/wiki/Flow_(psychology)): also known colloquially as being in the zone, is the mental state in which a person performing an activity is fully immersed. Its characterized by the complete absorption in the activity, and a resulting transformation in one's sense of time.
-* [No More Zero Days](https://www.reddit.com/r/getdisciplined/comments/1q96b5/i_just_dont_care_about_myself/cdah4af/)
-  * Do something every day to improve, no zero days
-  * Forgive yourself for making mistakes, but get back on and get going
-  * Thank your past self, be the best current self, do gift for your future self
-  * Exercise and read regularly
 * [Pomodoro Technique](https://en.wikipedia.org/wiki/Pomodoro_Technique): A time managment technique that has you work for 25 minutes, then break for 5, for a total of 30 minutes. After 2 hours, take a long break of 15 to 30 minutes.
 * [The Simple Genius of Checklists](https://blog.nuclino.com/the-simple-genius-of-checklists-from-b-17-to-the-apollo-missions): 
 > "Why do I love checklists? Because rather than letting my imagination run amok to my detriment, effective use of checklists allows me to direct my imagination to more productive purposes."
@@ -72,23 +57,6 @@ Learning
 
 * [Spaced Repetition](https://en.wikipedia.org/wiki/Spaced_repetition): An evidence-based learning technique that is usually performed with flashcards, like [Anki](https://en.wikipedia.org/wiki/Anki_(software)). Newly introduced and more difficult flashcards are shown more  frequently while older and less difficult flashcards are shown less frequently in order to exploit the psychological spacing effect.
 
-* [What Is the Most Valuable Thing You Can Learn in One Hour?](https://quanticdev.com/articles/most-valuable-thing-to-learn-in-one-hour/): It doesn't take as much time as you think to get started.
-
-DEF CON
-* [I Will Kill You](https://www.youtube.com/watch?v=9FdHq3WfJgs)
-* [Looping Surveillance Cameras through Live Editing](https://www.youtube.com/watch?v=RoOqznZUClI)
-* [Pwned By The Owner: What Happens When You Steal A Hacker's Computer](https://www.youtube.com/watch?v=Jwpg-AwJ0Jc)
-* [RFID Hacking: Live Free or RFID Hard](https://www.youtube.com/watch?v=4kDKZ5pZico)
-* [Steal Everything, Kill Everyone, Cause Total Financial Ruin!](https://www.youtube.com/watch?v=JsVtHqICeKE)
-
-Git
-* [A successful Git branching model](https://nvie.com/posts/a-successful-git-branching-model/)
-* [Git-pretty](http://justinhileman.info/article/git-pretty/)
-* [How to undo (almost) anything with Git](https://github.blog/2015-06-08-how-to-undo-almost-anything-with-git/)
-* [Introducing GitFlow](https://datasift.github.io/gitflow/IntroducingGitFlow.html)
-* [Oh Shit, Git!?!](https://ohshitgit.com/)
-* [The seven rules of a great Git commit message](https://chris.beams.io/posts/git-commit/#seven-rules)
-
 [How to Become a Better Software Developer: A Handbook on Personal Performance](https://www.7pace.com/blog/become-a-better-programmer-skills-development)
 * [Engineering Mindset](https://connect.blogs.xerox.com/2015/08/27/8-essential-components-to-the-engineers-mindset/)
 * Measure Performance (and set goals)
@@ -105,11 +73,6 @@ Git
   * Understand your strengths and weaknesses
   * Know your role
 * Know the Context
-
-Right to Repair
-* [For tech-weary Midwest farmers, 40-year-old tractors now a hot commodity](http://www.startribune.com/for-tech-weary-midwest-farmers-40-year-old-tractors-now-a-hot-commodity/566737082/)
-* [The Rogue Tesla Mechanic Resurrecting Salvaged Cars](https://www.youtube.com/watch?v=NuAMczraBIM)
-* [Tractor Hacking: The Farmers Breaking Big Tech's Repair Monopoly](https://www.youtube.com/watch?v=F8JCh0owT4w)
 
 # Books
 Crucial Conversations: Tools for Talking When Stakes Are High
@@ -199,7 +162,13 @@ Turn This Ship Around by Simon Sinek and [The Leader-Leader Approach](https://re
 # Videos
 [Deadly Truth of General AI?](https://www.youtube.com/watch?v=tcdVC4e6EV4)
 
+[I Will Kill You](https://www.youtube.com/watch?v=9FdHq3WfJgs)
+
+[Looping Surveillance Cameras through Live Editing](https://www.youtube.com/watch?v=RoOqznZUClI)
+
 [More adventures in replying to spam | James Veitch](https://www.youtube.com/watch?v=C4Uc-cztsJo)
+
+[Pwned By The Owner: What Happens When You Steal A Hacker's Computer](https://www.youtube.com/watch?v=Jwpg-AwJ0Jc)
 
 [Startup Funding Explained: Everything You Need to Know](https://www.youtube.com/watch?v=677ZtSMr4-4)
 

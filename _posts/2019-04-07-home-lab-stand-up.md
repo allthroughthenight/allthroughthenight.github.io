@@ -3,7 +3,7 @@ layout: post
 title: "Home Lab Stand-Up"
 ---
 
-If you enjoy tech, then you probably have a pile of old tech that's not obsolete, but you don't have a use for. They probably aren't worthless, but you don't use them any more so they'll just sit around until they find their way into the trash eventually.
+If you enjoy tech, then you probably have a pile of old tech that's not obsolete, but you don't have a use for. They probably aren't worthless, but you don't use them any more so they'll just sit around until they find their way into the trash.
 
 For myself, after doing a bunch of PC upgrades with [r/buildapcsales](https://www.reddit.com/r/buildapcsales) during the holiday season, I had an extra GPU and CPU. Since they were budget components, I knew that they'd become more irrelevant as time went on.
 

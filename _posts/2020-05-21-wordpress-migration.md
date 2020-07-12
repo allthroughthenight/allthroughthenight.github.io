@@ -5,7 +5,7 @@ title: "Wordpress Migration"
 
 It's been a long time coming, but I was finally able to migrate my blog from [Wordpress.com](https://www.wordpress.com) to [GitHub pages](https://pages.github.com/).
 I could've just started with GitHub pages to begin with, but in the beginning I just wanted to get going.
-And now that thigns have been going, I figured it was time to take the next step.
+And now that things have been going, I figured it was time to take the next step.
 
 My first move was to export my posts from Wordpress.
 Self-hosted Wordpress.org sites allow you to install your own add-ons, like [jekyll-exporter](https://wordpress.org/plugins/jekyll-exporter) but I using a free Wordpress.com site, so I'd need to pay for that. And instead I used their [built-in](https://wordpress.com/support/export) exporter.
