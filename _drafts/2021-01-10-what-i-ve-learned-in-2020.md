@@ -40,6 +40,8 @@ When I first started, after a few months I was wondering how this post was almos
 
 [On Coding, Ego and Attention](https://josebrowne.com/on-coding-ego-and-attention/): Your ego keeps you from learning by tricking you into thinking that "If you're so smart then this should be easy".
 
+[No Hello](https://www.nohello.com/): When asking a question in a text chat, include it with your greeting. Though it makes sense when speaking IRL, it saves time with text since typing saves time.
+
 [Programming Trick Question](https://qntm.org/trick): Answers to three common programming interview questions.
 
 [Sell yourself, Sell Your Work](https://www.solipsys.co.uk/new/SellYourselfSellYourWork.html?te20hn): Being able to talk about your technical accomplishments is important, as it allows you to show your value to an organization.
