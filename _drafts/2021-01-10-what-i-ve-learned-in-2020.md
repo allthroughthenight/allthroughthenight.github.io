@@ -3,15 +3,6 @@ layout: post
 title: "What I've Learned in 2020"
 ---
 
-Coders at Work
-* https://vlkan.com/blog/post/2016/10/04/coders-at-work/
-* https://jonwood.co/blog/2016/12/12/book-review-coders-at-work
-* https://oleb.net/blog/2010/02/book-review-coders-at-work/
-
-How to Talk About Books You Haven't Read
-* links
-* tbd
-
 # Introduction
 This is a follow-up to my [previous post]({{site.baseurl}}/2020/01/20/what-ive-learned-so-far.html), which I hope I can keep going as a regular series.
 
@@ -33,9 +24,9 @@ When I first started, after a few months I was wondering how this post was almos
 [fyi: You can bypass youtube ads by adding a dot after the domain](https://www.reddit.com/r/webdev/comments/gzr3cq/fyi_you_can_bypass_youtube_ads_by_adding_a_dot/ftimtjg/): By using the entire Fully Qualified Domain Name, embedded ads won't load. 
 
 [Is non-deterministic the same as random?](https://www.quora.com/Is-non-deterministic-the-same-as-random): 
-* Random: a bunch of stuff happens that doesn't make sense
-* Non-deterministic: something happens but there's no obvious reason as to why
-* Deterministic: we know what happens, and how to make it happen.
+* Random: A bunch of stuff happens that doesn't make sense
+* Non-deterministic: Something happens but there's no obvious reason as to why
+* Deterministic: We know what happens, and how to make it happen.
 * Random events can sometimes be non-deterministic, but non-deterministic does not mean random
 
 [Law of the Instrument](https://en.wikipedia.org/wiki/Law_of_the_instrument):
@@ -43,21 +34,11 @@ When I first started, after a few months I was wondering how this post was almos
 > 
 > \- Abraham Maslow
 
-[elsamuko/Shirt-without-Stripes](https://github.com/elsamuko/Shirt-without-Stripes): A collection of search result that show "shirts with stripes" when queried with "shirts without stripes".
-
-[LEGO blocks and organ transplants](https://www.johndcook.com/blog/2011/02/03/lego-blocks-and-organ-transplants/):
-> "Integrating two software systems is usually more like performing a heart transplant than snapping together LEGO blocks. It can be done—if there’s a close enough match and the people doing it have enough skill—but the pieces don’t fit together trivially. And failure may not be immediately obvious; it may take a while to see signs of rejection."
->
-> \- John Cook
+[elsamuko/Shirt-without-Stripes](https://github.com/elsamuko/Shirt-without-Stripes): A collection of incorrect search result when queried with "shirts without stripes".
 
 [List of 2020 Leap Day Bugs](https://codeofmatt.com/list-of-2020-leap-day-bugs): A collection of various software bugs due to the extra day this year.
 
-[On Coding, Ego and Attention](https://josebrowne.com/on-coding-ego-and-attention/): Your ego keeps you from learning by tricking you to thinking you're too smart and there's nothing left to learn.
-
-[Pinboard is Eleven](https://blog.pinboard.in/2020/07/pinboard_is_eleven/):
-> "Much of the core code on the site dated back to 2009-2010 and was written by Past Me, a vindictive, inscrutable nemesis who devoted his life to sabotaging Present Me."
-> 
-> \- maciej
+[On Coding, Ego and Attention](https://josebrowne.com/on-coding-ego-and-attention/): Your ego keeps you from learning by tricking you into thinking that "If you're so smart then this should be easy".
 
 [Programming Trick Question](https://qntm.org/trick): Answers to three common programming interview questions.
 
@@ -71,7 +52,6 @@ When I first started, after a few months I was wondering how this post was almos
 
 [Things I Believe About Software Engineering](https://blog.wesleyac.com/posts/engineering-beliefs) *(excerpts)*:
 * Being aligned with teammates on what you're building is more important than building the right thing
-* Thinking about things is a massively valuable and underutilized skill. Most people are trained to not apply this skill
 * How kind your teammates are has a larger impact on your effectiveness than the programming language you use
 * The amount of sleep that you get has a larger impact on your effectiveness than the programming language you use
 
@@ -79,8 +59,6 @@ When I first started, after a few months I was wondering how this post was almos
 > "I write an average of five new programs every week. Poets have to write poems. I have to write computer programs."
 >
 > \- Donald Knuth
-
-[Trunk-based Development vs. Git Flow](https://www.toptal.com/software/trunk-based-development-git-flow): A versioning process other than the ubiquitous GitFlow-esque method.
 
 [Up or Out: Solving the IT Turnover Crisis](http://thedailywtf.com/articles/Up-or-Out-Solving-the-IT-Turnover-Crisis): a.k.a. [The Dead Sea Effect](http://brucefwebster.com/2008/04/11/the-wetware-crisis-the-dead-sea-effect/). No matter what, top talent will leave an organization, while the under qualified will stay since they can't move on. Instead of instead of struggling to retain top talent, embrace the turn-over and learn to train top talent. Hire for attitude, train for aptitude.
 
@@ -91,18 +69,12 @@ When I first started, after a few months I was wondering how this post was almos
 # Pics and Posts
 [Deployed my blog on Kubernetes](https://twitter.com/dexhorthy/status/856639005462417409)
 
-[Design electronics like it is 70's at CERN](https://photos.google.com/share/AF1QipNjVlcaYM4Fre6F_AGtX6Jw0K1BIylWILAPAXds9WwPalniCJwPFOX5v8h1T-CtoQ?key=OVBmbGlwa2dXUXg1a2JBUnpvYWotNVB6cUdyTkVR)
-
 [haha for loop go brr]({{site.baseurl}}/assets/loop-go-brrr.png)
 ##### [bonus: machine learning]({{site.baseurl}}/assets/tensy-flow.png)
 
 [I fucked up Git so bad it turned into Guitar Hero](https://twitter.com/HenryHoffman/status/694184106440200192)
 
 [Protecting Lives & Liberty](https://ncase.me/contact-tracing/)
-
-[That's not a full stack developer. That's an entire IT department]({{site.baseurl}}/assets/full-stack-dev.png)
-
-[Hiring a Stack Overflow pro](https://www.reddit.com/r/ProgrammerHumor/comments/glboca/hiring_a_stack_overflow_pro/)
 
 # Books
 
@@ -214,10 +186,6 @@ Working Effectively with Legacy Code
 
 # Videos
 [Automate TINDER with Python tutorial](https://www.youtube.com/watch?v=lvFAuUcowT4)
-
-[Doom Runs of Everything](https://www.youtube.com/watch?v=ZU4-7jltj0o)
-
-[Hacking on Simula (in Simula)](https://www.youtube.com/watch?v=FWLuwG91HnI)
 
 [How I asked EVERY countrys embassy for flags](https://www.youtube.com/watch?v=Jbix9y8iV38)
 
