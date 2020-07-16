@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Computer Set-Up"
+title: "My Set-Up"
 ---
 
 ## Work From Home
@@ -26,19 +26,21 @@ But with my new job, I was on-boarded remotely, and wasn't coming back into the 
 
 My previous desktop set-up can be best explained with the following diagram:
 
-###### I never took a picture of it when I first set it up, so a diagram is the best I could do
+
 [draw.io]
-![]({{site.baseurl}}/assets/networking-board.jpg)
+![]({{site.baseurl}}/assets/desk-01.jpg)
+###### I never took a picture of it when I first set it up, so a diagram is the best I could do
 
 Once I got my laptop for work, I knew I wanted to take advantage of all the hardware I have, so I changed things bit:
 
+###### An actual picture to see what it's like IRL
+[desk.jpg]
+![]({{site.baseurl}}/assets/desk.jpg)
+
 ###### Another diagram so show how everything is connected
 [draw.io]
-![]({{site.baseurl}}/assets/networking-board.jpg)
+![]({{site.baseurl}}/assets/desk-02.jpg)
 
-###### An actual picture to see what it's like IRL
-[camera_picture]
-![]({{site.baseurl}}/assets/networking-board.jpg)
 
 Off the bat, I almost went for a full featured dual monitor Keyboard-Video-Mouse switch, but once I received my WFH package, it already included a mouse and keyboard.
 And since I knew I didn't want to use the same peripherals for personal and work use, I went with a simple HDMI switch.
