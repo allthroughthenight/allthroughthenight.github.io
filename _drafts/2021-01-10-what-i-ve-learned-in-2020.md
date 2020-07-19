@@ -193,6 +193,8 @@ Working Effectively with Legacy Code
 
 [I Built a REAL-LIFE Time Machine! 🕒⚡](https://www.youtube.com/watch?v=aHyNYfFfXlg)
 
+[If American Psycho were about Programmers](https://www.youtube.com/watch?v=uHt01D6rOLI)
+
 [Why unemployment sites crash but Netflix doesn’t](https://www.youtube.com/watch?v=Ox_Wm6XQnxI)
 
 [Why You Can't Name A File CON In Windows](https://www.youtube.com/watch?v=bC6tngl0PTI)
