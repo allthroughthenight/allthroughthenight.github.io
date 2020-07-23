@@ -71,6 +71,8 @@ When I first started, after a few months I was wondering how this post was almos
 # Pics and Posts
 [Deployed my blog on Kubernetes](https://twitter.com/dexhorthy/status/856639005462417409)
 
+[It was a bug now it's a feature]({{site.baseurl}}/assets/bug-feature.jpg)
+
 [haha for loop go brr]({{site.baseurl}}/assets/loop-go-brrr.png)
 ##### [bonus: machine learning]({{site.baseurl}}/assets/tensy-flow.png)
 
