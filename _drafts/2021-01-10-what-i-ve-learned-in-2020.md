@@ -80,6 +80,8 @@ When I first started, after a few months I was wondering how this post was almos
 
 [Protecting Lives & Liberty](https://ncase.me/contact-tracing/)
 
+[To replace programmers with Robots](https://twitter.com/BUDESCODE/status/1285279703193063426)
+
 # Books
 
 AI Superpowers: China, Silicon Valley, and the New World Order
@@ -113,6 +115,9 @@ Prediction Machines: The Simple Economics of Artificial Intelligence
 * Tools: Automation won't take over entire jobs overnight, but instead different aspects of a task
 * Strategy: For a business to see a good RoI on AI, it has to be prepared for it. If current prediction and forecasting methods are outdated, than AI solutions will clash with the status quo
 * Society: Society isn't ready for the inequality that will arise from broad AI adoption. While some will reap massive benefits, others will suffer due to no fault of their own
+
+Return on Investment (ROI) for Usability
+* tl;dr - If you invest 10% of a project's budget on research-based UX, then your ROI will be 85% - 135%.
 
 Test-Driven Development By Example
 * Test-Driven Development Patterns: Have a core 'TODO' list of what you know you'll have to test, tests should run independent of each other, and test data should make it obvious what the use case is
