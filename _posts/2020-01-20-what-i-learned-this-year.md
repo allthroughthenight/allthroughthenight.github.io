@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "What I've Learned So Far"
+title: "What I Learned This Year"
 ---
 
 # Introduction
 
-I planned to make this "What I've Learned in 2019", but as I started working on it I started blurring the line, going farther back, and the post got bloated. So instead I just made this post of everything I've learned since I started my CompSci undergrad up to the end of 2019.
+I though this post would only cover this year, but as I started working on it I started blurring the line, going farther back, and the post got bloated. So instead, this post covers most everything I've learned since I started my undergrad, up to the end of this year.
 
 # Articles
 

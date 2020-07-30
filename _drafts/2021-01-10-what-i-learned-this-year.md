@@ -1,15 +1,17 @@
 ---
 layout: post
-title: "What I've Learned in 2020"
+title: "What I Learned This Year"
 ---
 
 # Introduction
-This is a follow-up to my [previous post]({{site.baseurl}}/2020/01/20/what-ive-learned-so-far.html), which I hope I can keep going as a regular series.
+This is a follow-up to my [previous post]({{site.baseurl}}/2020/01/20/what-i-learned-this-year.html), which I hope I can keep going as a regular series.
 
 When I first started, after a few months I was wondering how this post was almost as long as the previous one but covering less time. Going over it, I noticed that I fixated on articles that'd bemoan the strifes on working in tech. But I want to keep the tone of this positive, so I removed all that stuff, and made sure everything is focused more squarely on tech than just what I found interesting in general.
 
 # Articles
 [Austin Amazon KFAUWI device randomly appeared under Network Device](https://www.thewindowsclub.com/amazon-kfauwi-appeared-network-device): The same motherboard maker for Amazon Fires and Kindles uses Linux source code for automatic device discovery. So any device running the same code will cause Windows to detect it as an Amazon Fire.
+
+[Brown M&Ms, or Why No One's Reading the Manual](https://blog.nuclino.com/brown-m-ms-or-why-no-one-s-reading-the-manual): Writing documentaion isn't enough; it's should be written so it can be easy to read and search for, and kept recent by letting anyone make changes.
 
 [Career advice for people with bad luck](https://chiefofstuff.substack.com/p/career-advice-for-people-with-bad): It’s okay to go for the safe job, it’s also okay to take risks, because you’ll regret it either way.
 
@@ -35,6 +37,11 @@ When I first started, after a few months I was wondering how this post was almos
 > \- Abraham Maslow
 
 [elsamuko/Shirt-without-Stripes](https://github.com/elsamuko/Shirt-without-Stripes): A collection of incorrect search result when queried with "shirts without stripes".
+
+[LEGO blocks and organ transplants](https://www.johndcook.com/blog/2011/02/03/lego-blocks-and-organ-transplants/):
+> "Integrating two software systems is usually more like performing a heart transplant than snapping together LEGO blocks. It can be done—if there’s a close enough match and the people doing it have enough skill—but the pieces don’t fit together trivially. And failure may not be immediately obvious; it may take a while to see signs of rejection."
+>
+> \- John Cook
 
 [List of 2020 Leap Day Bugs](https://codeofmatt.com/list-of-2020-leap-day-bugs): A collection of various software bugs due to the extra day this year.
 
