@@ -38,7 +38,7 @@ When I first started, after a few months I was wondering how this post was almos
 
 [elsamuko/Shirt-without-Stripes](https://github.com/elsamuko/Shirt-without-Stripes): A collection of incorrect search result when queried with "shirts without stripes".
 
-[FAlling Into The Pit of Success]():
+[Falling Into The Pit of Success](https://blog.codinghorror.com/falling-into-the-pit-of-success/):
 > "The Pit of Success: in stark contrast to a summit, a peak, or a journey across a desert to find victory through many trials and surprises, we want our customers to simply fall into winning practices by using our platform and frameworks."
 > 
 > \- -Rico Mariani, MS Research MindSwap Oct 2003.
@@ -49,6 +49,8 @@ When I first started, after a few months I was wondering how this post was almos
 > \- John Cook
 
 [List of 2020 Leap Day Bugs](https://codeofmatt.com/list-of-2020-leap-day-bugs): A collection of various software bugs due to the extra day this year.
+
+[My GPT-3 Blog Got 26 Thousand Visitors in 2 Weeks](https://liamp.substack.com/p/my-gpt-3-blog-got-26-thousand-visitors): A GPT-3 blog was able to get trending articles multiple times on Hacker News, which shows how Buzzfeed-like media companies could increase revenue by either: increasing output, or firing writers.
 
 [On Coding, Ego and Attention](https://josebrowne.com/on-coding-ego-and-attention/): Your ego keeps you from learning by tricking you into thinking that "If you're so smart then this should be easy".
 
