@@ -3,6 +3,10 @@ layout: post
 title: "What I Learned This Year"
 ---
 
+https://news.ycombinator.com/item?id=24538443
+https://defmacro.substack.com/p/how-to-get-promoted
+https://news.ycombinator.com/item?id=24617318
+
 # Introduction
 This is a follow-up to my [previous post]({{site.baseurl}}/2020/01/20/what-i-learned-this-year.html), which I hope I can keep going as a regular series.
 
