@@ -40,6 +40,11 @@ clone the repo
 git clone <repo>
 ```
 
+update jekyll
+```
+bundle update jekyll
+```
+
 remove any previous cached artifacts
 ```
 bundle exec jekyll clean
