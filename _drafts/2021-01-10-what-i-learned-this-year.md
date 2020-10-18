@@ -12,6 +12,7 @@ https://www.youtube.com/watch?v=ea6py9q46QU
 https://www.socialcooling.com/
 https://defmacro.substack.com/p/how-to-get-promoted
 https://triplebyte.com/blog/getting-noticed-as-a-remote-engineer-and-why-it-matters/?ref=hnpost
+https://apoorvagovind.substack.com/p/how-to-waste-your-career-one-comfortable
 
 # Introduction
 This is a follow-up to my [previous post]({{site.baseurl}}/2020/01/20/what-i-learned-this-year.html), which I hope I can keep going as a regular series.
