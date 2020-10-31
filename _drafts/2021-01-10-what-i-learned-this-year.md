@@ -18,6 +18,8 @@ https://twitter.com/ppathole/status/1092034892249079813
 https://danuker.go.ro/the-grand-unified-theory-of-software-architecture.html
 https://www.youtube.com/watch?v=US8QG9I1XW0
 https://birchtree.me/blog/a-guy-walks-into-an-apple-store/
+https://www.youtube.com/watch?v=_q-etWotnWg
+https://www.protocol.com/kelsey-hightower-google-cloud
 
 https://news.ycombinator.com/item?id=24896650
 https://news.ycombinator.com/item?id=24900382
