@@ -22,6 +22,7 @@ https://www.youtube.com/watch?v=_q-etWotnWg
 https://www.protocol.com/kelsey-hightower-google-cloud
 https://www.dampfkraft.com/ghost-characters.html
 https://www.iflscience.com/technology/ai-camera-ruins-soccar-game-for-fans-after-mistaking-referees-bald-head-for-ball/
+https://www.youtube.com/watch?v=9WfZuNceFDM
 
 https://news.ycombinator.com/item?id=24896650
 https://news.ycombinator.com/item?id=24900382
