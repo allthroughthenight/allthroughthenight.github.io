@@ -28,6 +28,8 @@ https://news.ycombinator.com/item?id=24896650
 https://news.ycombinator.com/item?id=24900382
 https://news.ycombinator.com/item?id=24919710
 https://news.ycombinator.com/item?id=24955706
+https://news.ycombinator.com/item?id=25013802
+https://news.ycombinator.com/item?id=25009258
 
 # Introduction
 This is a follow-up to my [previous post]({{site.baseurl}}/2020/01/20/what-i-learned-this-year.html), which I hope I can keep going as a regular series.
