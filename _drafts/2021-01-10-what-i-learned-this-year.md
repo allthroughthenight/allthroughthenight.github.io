@@ -3,33 +3,17 @@ layout: post
 title: "What I Learned This Year"
 ---
 
-https://eriktorenberg.substack.com/p/build-personal-moats
 https://www.hownormalami.eu/
-https://inre.me/why-privacy-is-the-most-important-concept-of-our-time/
-https://joel.net/how-one-guy-ruined-hacktoberfest2020-drama
 https://bert.org/2020/10/01/pressing-yubikeys/
 https://www.youtube.com/watch?v=ea6py9q46QU
-https://www.socialcooling.com/
-https://defmacro.substack.com/p/how-to-get-promoted
 https://triplebyte.com/blog/getting-noticed-as-a-remote-engineer-and-why-it-matters/?ref=hnpost
-https://apoorvagovind.substack.com/p/how-to-waste-your-career-one-comfortable
-https://boingboing.net/2012/08/23/civilwar.html
 https://twitter.com/ppathole/status/1092034892249079813
-https://danuker.go.ro/the-grand-unified-theory-of-software-architecture.html
-https://www.youtube.com/watch?v=US8QG9I1XW0
 https://birchtree.me/blog/a-guy-walks-into-an-apple-store/
 https://www.youtube.com/watch?v=_q-etWotnWg
 https://www.protocol.com/kelsey-hightower-google-cloud
 https://www.dampfkraft.com/ghost-characters.html
-https://www.iflscience.com/technology/ai-camera-ruins-soccar-game-for-fans-after-mistaking-referees-bald-head-for-ball/
-https://www.youtube.com/watch?v=9WfZuNceFDM
-
-https://news.ycombinator.com/item?id=24896650
-https://news.ycombinator.com/item?id=24900382
-https://news.ycombinator.com/item?id=24919710
 https://news.ycombinator.com/item?id=24955706
-https://news.ycombinator.com/item?id=25013802
-https://news.ycombinator.com/item?id=25009258
+https://twitter.com/zofrex/status/1319286955314614275
 
 # Introduction
 This is a follow-up to my [previous post]({{site.baseurl}}/2020/01/20/what-i-learned-this-year.html), which I hope I can keep going as a regular series.
