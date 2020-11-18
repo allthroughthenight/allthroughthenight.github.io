@@ -15,6 +15,8 @@ https://www.dampfkraft.com/ghost-characters.html
 https://news.ycombinator.com/item?id=24955706
 https://twitter.com/zofrex/status/1319286955314614275
 https://rg3.name/202011071352.html
+https://www.youtube.com/watch?v=csalhuSixQU
+https://noidea.dog/glue
 
 # Introduction
 This is a follow-up to my [previous post]({{site.baseurl}}/2020/01/20/what-i-learned-this-year.html), which I hope I can keep going as a regular series.
