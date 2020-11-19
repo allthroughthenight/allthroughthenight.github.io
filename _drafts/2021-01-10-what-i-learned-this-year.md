@@ -4,6 +4,7 @@ title: "What I Learned This Year"
 ---
 
 https://www.hownormalami.eu/
+https://sandimetz.com/blog/2016/1/20/the-wrong-abstraction
 https://bert.org/2020/10/01/pressing-yubikeys/
 https://www.youtube.com/watch?v=ea6py9q46QU
 https://triplebyte.com/blog/getting-noticed-as-a-remote-engineer-and-why-it-matters/?ref=hnpost
