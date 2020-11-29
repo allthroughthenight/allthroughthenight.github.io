@@ -19,6 +19,9 @@ https://rg3.name/202011071352.html
 https://www.youtube.com/watch?v=csalhuSixQU
 https://noidea.dog/glue
 http://blog.archive.org/2020/11/19/flash-animations-live-forever-at-the-internet-archive/
+https://rakhim.org/honestly-undefined/19/
+https://www.reddit.com/r/science/comments/k3asmk/study_links_mindfulness_and_meditation_to/ge1qduq/
+https://news.ycombinator.com/item?id=25202143
 
 # Introduction
 This is a follow-up to my [previous post]({{site.baseurl}}/2020/01/20/what-i-learned-this-year.html), which I hope I can keep going as a regular series.
