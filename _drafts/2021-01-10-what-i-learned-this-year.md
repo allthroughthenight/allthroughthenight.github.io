@@ -23,6 +23,7 @@ https://rakhim.org/honestly-undefined/19/
 https://www.reddit.com/r/science/comments/k3asmk/study_links_mindfulness_and_meditation_to/ge1qduq/
 https://news.ycombinator.com/item?id=25202143
 https://divinations.substack.com/p/linkedins-alternate-universe##
+https://news.ycombinator.com/item?id=25323036
 
 # Introduction
 This is a follow-up to my [previous post]({{site.baseurl}}/2020/01/20/what-i-learned-this-year.html), which I hope I can keep going as a regular series.
