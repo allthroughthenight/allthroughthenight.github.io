@@ -25,6 +25,8 @@ https://news.ycombinator.com/item?id=25202143
 https://divinations.substack.com/p/linkedins-alternate-universe##
 https://news.ycombinator.com/item?id=25323036
 https://mtlynch.io/code-review-love/
+https://threadreaderapp.com/thread/1336890442768547845.html
+https://www.gnu.org/fun/jokes/users-lightbulb.html
 
 # Introduction
 This is a follow-up to my [previous post]({{site.baseurl}}/2020/01/20/what-i-learned-this-year.html), which I hope I can keep going as a regular series.
