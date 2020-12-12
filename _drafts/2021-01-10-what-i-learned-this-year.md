@@ -31,6 +31,7 @@ https://www.youtube.com/watch?v=Z2ZXW2HBLPM&feature=youtu.be
 https://codingsans.com/blog/skip-level-meeting
 https://www.youtube.com/watch?v=IlU-zDU6aQ0
 https://www.youtube.com/watch?v=1cUUfMeOijg
+https://alaa0x2.medium.com/how-i-hacked-facebook-part-one-282bbb125a5d
 
 # Introduction
 This is a follow-up to my [previous post]({{site.baseurl}}/2020/01/20/what-i-learned-this-year.html), which I hope I can keep going as a regular series.
