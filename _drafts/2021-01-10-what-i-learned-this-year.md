@@ -27,6 +27,9 @@ https://news.ycombinator.com/item?id=25323036
 https://mtlynch.io/code-review-love/
 https://threadreaderapp.com/thread/1336890442768547845.html
 https://www.gnu.org/fun/jokes/users-lightbulb.html
+https://www.youtube.com/watch?v=Z2ZXW2HBLPM&feature=youtu.be
+https://codingsans.com/blog/skip-level-meeting
+https://www.youtube.com/watch?v=IlU-zDU6aQ0
 
 # Introduction
 This is a follow-up to my [previous post]({{site.baseurl}}/2020/01/20/what-i-learned-this-year.html), which I hope I can keep going as a regular series.
