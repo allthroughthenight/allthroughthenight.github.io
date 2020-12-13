@@ -3,35 +3,19 @@ layout: post
 title: "What I Learned This Year"
 ---
 
-https://www.hownormalami.eu/
-https://sandimetz.com/blog/2016/1/20/the-wrong-abstraction
 https://bert.org/2020/10/01/pressing-yubikeys/
 https://www.youtube.com/watch?v=ea6py9q46QU
 https://triplebyte.com/blog/getting-noticed-as-a-remote-engineer-and-why-it-matters/?ref=hnpost
-https://twitter.com/ppathole/status/1092034892249079813
 https://birchtree.me/blog/a-guy-walks-into-an-apple-store/
 https://www.youtube.com/watch?v=_q-etWotnWg
 https://www.protocol.com/kelsey-hightower-google-cloud
 https://www.dampfkraft.com/ghost-characters.html
 https://news.ycombinator.com/item?id=24955706
-https://twitter.com/zofrex/status/1319286955314614275
-https://rg3.name/202011071352.html
-https://www.youtube.com/watch?v=csalhuSixQU
-https://noidea.dog/glue
-http://blog.archive.org/2020/11/19/flash-animations-live-forever-at-the-internet-archive/
 https://rakhim.org/honestly-undefined/19/
 https://www.reddit.com/r/science/comments/k3asmk/study_links_mindfulness_and_meditation_to/ge1qduq/
-https://news.ycombinator.com/item?id=25202143
-https://divinations.substack.com/p/linkedins-alternate-universe##
-https://news.ycombinator.com/item?id=25323036
-https://mtlynch.io/code-review-love/
-https://threadreaderapp.com/thread/1336890442768547845.html
 https://www.gnu.org/fun/jokes/users-lightbulb.html
-https://www.youtube.com/watch?v=Z2ZXW2HBLPM&feature=youtu.be
-https://codingsans.com/blog/skip-level-meeting
-https://www.youtube.com/watch?v=IlU-zDU6aQ0
+https://www.youtube.com/watch?v=Z2ZXW2HBLPM
 https://www.youtube.com/watch?v=1cUUfMeOijg
-https://alaa0x2.medium.com/how-i-hacked-facebook-part-one-282bbb125a5d
 
 # Introduction
 This is a follow-up to my [previous post]({{site.baseurl}}/2020/01/20/what-i-learned-this-year.html), which I hope I can keep going as a regular series.
