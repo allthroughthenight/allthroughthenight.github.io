@@ -4,6 +4,9 @@ title: "What I Learned This Year"
 ---
 
 https://www.futureme.org/
+Armageddon Chart https://www.microwaves101.com/encyclopedias/microwave-slang
+synce dates across posts, fill in blog dates for more "normal"?
+https://taskandpurpose.com/mandatory-fun/worst-military-graphic-electronic-warfare/
 
 # Introduction
 
