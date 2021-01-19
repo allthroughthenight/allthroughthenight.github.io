@@ -93,18 +93,18 @@ When I first started, after a few months I was wondering how this post was almos
 [Your statement is 100% correct but misses the entire point](http://nibblestew.blogspot.com/2020/04/your-statement-is-100-correct-but.html?m=1): Though most ["Well, Actually..."](https://www.recurse.com/social-rules) comments, though factually correct, will miss often the context of a problem.
 
 # Pics and Posts
-[Deployed my blog on Kubernetes](https://twitter.com/dexhorthy/status/856639005462417409)
+[Deployed my blog on Kubernetes]({{site.baseurl}}/assets/2021-01-11-what-i-learned-this-year/kubernetes.png)
 
-[It was a bug now it's a feature]({{site.baseurl}}/assets/bug-feature.jpg)
+[It was a bug now it's a feature]({{site.baseurl}}/assets/2021-01-11-what-i-learned-this-year/bug-feature.jpg)
 
-[haha for loop go brr]({{site.baseurl}}/assets/loop-go-brrr.png)
-##### [bonus: machine learning]({{site.baseurl}}/assets/tensy-flow.png)
+[haha for loop go brr]({{site.baseurl}}/assets/2021-01-11-what-i-learned-this-year/loop-go-brrr.png)
+##### [bonus: machine learning]({{site.baseurl}}/assets/2021-01-11-what-i-learned-this-year/tensy-flow.png)
 
-[I fucked up Git so bad it turned into Guitar Hero](https://twitter.com/HenryHoffman/status/694184106440200192)
+[I fucked up Git so bad it turned into Guitar Hero]({{site.baseurl}}/assets/2021-01-11-what-i-learned-this-year/guitar-hero.png)
 
 [Protecting Lives & Liberty](https://ncase.me/contact-tracing/)
 
-[To replace programmers with Robots](https://twitter.com/BUDESCODE/status/1285279703193063426)
+[To replace programmers with Robots]({{site.baseurl}}/assets/2021-01-11-what-i-learned-this-year/robots.png)
 
 # Books
 

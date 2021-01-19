@@ -3,6 +3,8 @@ layout: post
 title: "What I Learned This Year"
 ---
 
+TODO should i change other what i learned post into inline images? have to try and see i guess
+
 https://www.futureme.org/
 Armageddon Chart https://www.microwaves101.com/encyclopedias/microwave-slang
 synce dates across posts, fill in blog dates for more "normal"?
@@ -36,22 +38,12 @@ I think this might be the smallest post so far, but I think it'll be less about 
 > A metric of my productivity is logged to the OKR database.
 > Nothing breaks, and nothing unexpected happens, as the universe is completely predictable. 
 
-[title](url):summary
-* lorem upsum
-* lorem ipsum
+[sudo !!](https://www.reddit.com/r/ProgrammerHumor/comments/l02kgj/every_single_time/): I feel like I always _kinda_ kinda knew about this command (from [the fuck](https://github.com/nvbn/thefuck)) but never put in the time to remember it.
 
 # Pics and Posts
-[lorem ipsum](https://twitter.com)
-
-[lorem ipsum]({{site.baseurl}}/assets/lorem ipsum.jpg)
-
-[lorem ipsum]({{site.baseurl}}/assets/lorem upsum.png)
+[https://github.com/gkoberger/stacksort/pull/4]({{site.baseurl}}/assets/2022-01-11-what-i-learned-this-year/you-home.png)
 
 # Books
-lorem upsum
-* lorem upsum
-  * lorem upsum
-  * lorem upsum
 lorem upsum
 * lorem upsum
   * lorem upsum

@@ -13,7 +13,7 @@ Virtual local area networks (VLAN) allow devices to logically be on the same bro
 
 The image below shows a simple example of devices that are physically separated, but by using VLANs, they're able to be grouped logically and communicate with each other as if they were.
 
-![]({{site.baseurl}}/assets/vlan-segments.jpg){:class="img-responsive"}
+![]({{site.baseurl}}/assets/2018-05-03-virtually-interviewed/vlan-segments.jpg){:class="img-responsive"}
 
 ###### source: [fs.com](https://www.fs.com/vlan-how-does-it-change-your-network-management-aid-601.html)
 
@@ -23,7 +23,7 @@ If you understand Ethernet frames and packet switching technology, then the tech
 
 The technical details are defined in IEEE 802.1Q, but the main take away is that tagging adds an extra field to an Ethernet frame. To end clients, this is completely transparent since it's added after it's received from a sender, and is removed when it's sent to the destination.
 
-![]({{site.baseurl}}/assets/ethernet-frame.png){:class="img-responsive"}
+![]({{site.baseurl}}/assets/2018-05-03-virtually-interviewed/ethernet-frame.png){:class="img-responsive"}
 
 ###### source: [Wikipedia](https://en.wikipedia.org/wiki/File:Ethernet_802.1Q_Insert.svg)
 
