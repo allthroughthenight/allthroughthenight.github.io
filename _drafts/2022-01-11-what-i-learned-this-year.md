@@ -10,6 +10,14 @@ Armageddon Chart https://www.microwaves101.com/encyclopedias/microwave-slang
 synce dates across posts, fill in blog dates for more "normal"?
 https://taskandpurpose.com/mandatory-fun/worst-military-graphic-electronic-warfare/
 
+fictional user interfaces
+* https://cantinacreative.com/
+* https://www.creativebloq.com/movies/user-interfaces-movie-history-11121389
+* https://www.provideocoalition.com/user-interfaces-in-the-movies-and-beyond/
+* https://www.saji8k.com/kit-fui/
+* https://thibault-friedrich.medium.com/the-10-scifi-human-computer-interfaces-becoming-reality-53193be203a3
+* https://www.vice.com/en/article/8xvz8g/how-the-fake-but-really-cool-computers-in-movies-get-made
+
 # Introduction
 
 Third year third post, to follow up on [2019]({{site.baseurl}}/2020/01/20/what-i-learned-this-year.html) and [2020]({{site.baseurl}}/2021/01/11/what-i-learned-this-year.html).
@@ -42,6 +50,7 @@ I think this might be the smallest post so far, but I think it'll be less about 
 
 # Pics and Posts
 [https://github.com/gkoberger/stacksort/pull/4]({{site.baseurl}}/assets/2022-01-11-what-i-learned-this-year/you-home.png)
+[Twilight - The Cold Ones](http://www.freezerstorageds.com/)
 
 # Books
 lorem upsum
