@@ -15,6 +15,8 @@ This year I restricted my reddit and hacker news access, nothing crazy, just a s
 I think this might be the smallest post so far, but I think it'll be less about link collecting, and I'll have less to clean up for this post.
 
 # Articles
+[An easy way to bypass the Windows 95 login.](https://www.reddit.com/r/hacking/comments/17kp3h/an_easy_way_to_bypass_the_windows_95_login/): Along with some other intersting log-in bypasses for older Windows versions.
+
 [new codebase, who dis? (How to Join a Team and Learn a Codebase)](https://www.samueltaylor.org/articles/how-to-learn-a-codebase.html):
 1. Locate the portion of code most relevant to the immediate task at hand.
 2. Understand that code enough to form a hypothesis about the change you need to make.
