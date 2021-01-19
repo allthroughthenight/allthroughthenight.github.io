@@ -7,6 +7,7 @@
 * Remove unneeded features (RSS Feed, SEO, Google Analytics)
 * Squash log into one 'hero' commit
 * "About Me" page with "all views are my own" disclaimer 
+* Need to normalize "what I learned this year" post structures, also image links or inline?
 
 ## set-up
 
