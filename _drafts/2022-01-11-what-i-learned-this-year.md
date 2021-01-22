@@ -12,6 +12,7 @@ https://taskandpurpose.com/mandatory-fun/worst-military-graphic-electronic-warfa
 https://www.reddit.com/r/coding/comments/ysfe5/what_language_is_this_code_written_in_and_what/
 https://github.com/linuxmint/cinnamon-screensaver/issues/354
 https://github.com/irevenko/what-anime-cli
+https://news.ycombinator.com/item?id=25850739
 
 fictional user interfaces
 * https://cantinacreative.com/
