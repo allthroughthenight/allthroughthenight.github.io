@@ -13,6 +13,8 @@ https://www.reddit.com/r/coding/comments/ysfe5/what_language_is_this_code_writte
 https://github.com/linuxmint/cinnamon-screensaver/issues/354
 https://github.com/irevenko/what-anime-cli
 https://news.ycombinator.com/item?id=25850739
+https://news.ycombinator.com/item?id=25865062
+https://hisham.hm/2021/01/18/again-on-0-based-vs-1-based-indexing/
 
 fictional user interfaces
 * https://cantinacreative.com/
