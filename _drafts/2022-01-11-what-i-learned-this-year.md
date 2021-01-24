@@ -15,6 +15,7 @@ https://github.com/irevenko/what-anime-cli
 https://news.ycombinator.com/item?id=25850739
 https://news.ycombinator.com/item?id=25865062
 https://hisham.hm/2021/01/18/again-on-0-based-vs-1-based-indexing/
+https://vole.wtf/coder-serial-killer-quiz/
 
 fictional user interfaces
 * https://cantinacreative.com/
