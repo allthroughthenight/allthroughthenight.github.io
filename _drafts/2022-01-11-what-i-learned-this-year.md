@@ -9,6 +9,7 @@ https://www.futureme.org/
 
 synce dates across posts, fill in blog dates for more "normal"?
 wfh hot take?
+learned after star trek?
 
 Armageddon Chart: https://taskandpurpose.com/mandatory-fun/worst-military-graphic-electronic-warfare/,  https://www.microwaves101.com/encyclopedias/microwave-slang
 what digemon language is this: https://www.reddit.com/r/coding/comments/ysfe5/what_language_is_this_code_written_in_and_what/
