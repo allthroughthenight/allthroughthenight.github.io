@@ -6,17 +6,18 @@ title: "What I Learned This Year"
 TODO should i change other what i learned post into inline images? have to try and see i guess
 
 https://www.futureme.org/
-Armageddon Chart https://www.microwaves101.com/encyclopedias/microwave-slang
+
 synce dates across posts, fill in blog dates for more "normal"?
-https://taskandpurpose.com/mandatory-fun/worst-military-graphic-electronic-warfare/
-https://www.reddit.com/r/coding/comments/ysfe5/what_language_is_this_code_written_in_and_what/
-https://github.com/linuxmint/cinnamon-screensaver/issues/354
-https://github.com/irevenko/what-anime-cli
-https://news.ycombinator.com/item?id=25850739
-https://news.ycombinator.com/item?id=25865062
-https://hisham.hm/2021/01/18/again-on-0-based-vs-1-based-indexing/
-https://vole.wtf/coder-serial-killer-quiz/
-https://gkoberger.github.io/stacksort/
+wfh hot take?
+
+Armageddon Chart: https://taskandpurpose.com/mandatory-fun/worst-military-graphic-electronic-warfare/,  https://www.microwaves101.com/encyclopedias/microwave-slang
+what digemon language is this: https://www.reddit.com/r/coding/comments/ysfe5/what_language_is_this_code_written_in_and_what/
+screensaver crash from randomly pressing buttons: https://github.com/linuxmint/cinnamon-screensaver/issues/354
+fun programming jokles: https://news.ycombinator.com/item?id=25850739
+zero vs one based indexing: https://hisham.hm/2021/01/18/again-on-0-based-vs-1-based-indexing/
+coder or serial killer: https://vole.wtf/coder-serial-killer-quiz/
+Stac sto from random stack overflow posts: https://gkoberger.github.io/stacksort/
+micheal scott theory of asencion: https://danco.substack.com/p/the-michael-scott-theory-of-social
 
 fictional user interfaces
 * https://cantinacreative.com/
@@ -71,4 +72,8 @@ lorem upsum
 * lorem ipsum
 
 # Videos
+[The Computer Chronicles](https://www.youtube.com/user/ComputerChroniclesYT)
+
 [The KGB, The Computer, and Me (Clifford Stoll: The Cuckoo's Egg)](https://www.youtube.com/watch?v=hTx9h3Sm29I)
+
+[Vintage Computer Pop-Up Book from 1984](https://www.youtube.com/watch?v=2NueRKhEwvY)
