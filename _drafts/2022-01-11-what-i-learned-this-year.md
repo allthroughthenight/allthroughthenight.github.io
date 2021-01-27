@@ -10,6 +10,12 @@ https://www.futureme.org/
 synce dates across posts, fill in blog dates for more "normal"?
 wfh hot take?
 learned after star trek?
+https://www.ventscape.life/
+https://mobile.twitter.com/EvyKassirer/status/1220556930675904516
+https://www.simplethread.com/why-does-it-take-so-long-to-build-software/
+https://en.m.wikipedia.org/wiki/Sealioning
+https://news.ycombinator.com/item?id=25917871
+
 
 Armageddon Chart: https://taskandpurpose.com/mandatory-fun/worst-military-graphic-electronic-warfare/,  https://www.microwaves101.com/encyclopedias/microwave-slang
 what digemon language is this: https://www.reddit.com/r/coding/comments/ysfe5/what_language_is_this_code_written_in_and_what/
