@@ -15,7 +15,7 @@ https://mobile.twitter.com/EvyKassirer/status/1220556930675904516
 https://www.simplethread.com/why-does-it-take-so-long-to-build-software/
 https://en.m.wikipedia.org/wiki/Sealioning
 https://news.ycombinator.com/item?id=25917871
-
+https://m-cacm.acm.org/opinion/articles/250078-lets-not-dumb-down-the-history-of-computer-science/fulltext
 
 Armageddon Chart: https://taskandpurpose.com/mandatory-fun/worst-military-graphic-electronic-warfare/,  https://www.microwaves101.com/encyclopedias/microwave-slang
 what digemon language is this: https://www.reddit.com/r/coding/comments/ysfe5/what_language_is_this_code_written_in_and_what/
