@@ -3,46 +3,29 @@ layout: post
 title: "What I Learned This Year"
 ---
 
-TODO should i change other what i learned post into inline images? have to try and see i guess
-
-https://www.futureme.org/
-
-synce dates across posts, fill in blog dates for more "normal"?
-wfh hot take?
-learned after star trek?
-https://www.ventscape.life/
-https://mobile.twitter.com/EvyKassirer/status/1220556930675904516
-https://www.simplethread.com/why-does-it-take-so-long-to-build-software/
-https://en.m.wikipedia.org/wiki/Sealioning
-https://news.ycombinator.com/item?id=25917871
-https://m-cacm.acm.org/opinion/articles/250078-lets-not-dumb-down-the-history-of-computer-science/fulltext
-https://my90stv.com/#k_wi3fY78ts
-
-Armageddon Chart: https://taskandpurpose.com/mandatory-fun/worst-military-graphic-electronic-warfare/,  https://www.microwaves101.com/encyclopedias/microwave-slang
-what digemon language is this: https://www.reddit.com/r/coding/comments/ysfe5/what_language_is_this_code_written_in_and_what/
-screensaver crash from randomly pressing buttons: https://github.com/linuxmint/cinnamon-screensaver/issues/354
-fun programming jokles: https://news.ycombinator.com/item?id=25850739
-zero vs one based indexing: https://hisham.hm/2021/01/18/again-on-0-based-vs-1-based-indexing/
-coder or serial killer: https://vole.wtf/coder-serial-killer-quiz/
-Stac sto from random stack overflow posts: https://gkoberger.github.io/stacksort/
-micheal scott theory of asencion: https://danco.substack.com/p/the-michael-scott-theory-of-social
-
-fictional user interfaces
-* https://cantinacreative.com/
-* https://www.creativebloq.com/movies/user-interfaces-movie-history-11121389
-* https://www.provideocoalition.com/user-interfaces-in-the-movies-and-beyond/
-* https://www.saji8k.com/kit-fui/
-* https://thibault-friedrich.medium.com/the-10-scifi-human-computer-interfaces-becoming-reality-53193be203a3
-* https://www.vice.com/en/article/8xvz8g/how-the-fake-but-really-cool-computers-in-movies-get-made
-
 # Introduction
 
-Third year third post, to follow up on [2019]({{site.baseurl}}/2020/01/20/what-i-learned-this-year.html) and [2020]({{site.baseurl}}/2021/01/11/what-i-learned-this-year.html).
+Third year and third post, to follow up on [2019]({{site.baseurl}}/2020/01/20/what-i-learned-this-year.html) and [2020]({{site.baseurl}}/2021/01/11/what-i-learned-this-year.html).
 This year I restricted my reddit and hacker news access, nothing crazy, just a simple add-on. I could still check it the site, but definetly wanted to break the 'fridge check' kind of reflex.
 I think this might be the smallest post so far, but I think it'll be less about link collecting, and I'll have less to clean up for this post.
 
 # Articles
+
+[A worry junior engineers and new hires frequently have is that they ask too many questions.](https://threadreaderapp.com/thread/1220556930675904516.html): A good way to as questions as a junior developer, along with how to encourage it.
+
+[Again on 0-based vs. 1-based indexing](https://hisham.hm/2021/01/18/again-on-0-based-vs-1-based-indexing/): Another angle on the debate of zero versus one based indexing.
+
 [An easy way to bypass the Windows 95 login.](https://www.reddit.com/r/hacking/comments/17kp3h/an_easy_way_to_bypass_the_windows_95_login/): Along with some other intersting log-in bypasses for older Windows versions.
+
+[Ask HN: Anyone know any funny programming jokes?](https://news.ycombinator.com/item?id=25850739): A thread of some great programming jokes.
+
+[Coder or Serial Killer](https://vole.wtf/coder-serial-killer-quiz/): Humorous quiz on if you're able to tell if someone is a programmer or serial killer based on their headshot.
+
+[How the Fake but Really Cool Computers in Movies Get Made](https://www.vice.com/en/article/8xvz8g/how-the-fake-but-really-cool-computers-in-movies-get-made): How  film makers aim to make fictional interfaces more accurate.
+
+[Let's Not Dumb Down the History of Computer Science](https://m-cacm.acm.org/opinion/articles/250078-lets-not-dumb-down-the-history-of-computer-science/fulltext): A lecture by Don Knuth on the importance of not ignorming the meta-history of computer science.
+
+[My 90s Tv](https://my90stv.com/#k_wi3fY78ts): Television programing from past decades.
 
 [new codebase, who dis? (How to Join a Team and Learn a Codebase)](https://www.samueltaylor.org/articles/how-to-learn-a-codebase.html):
 1. Locate the portion of code most relevant to the immediate task at hand.
@@ -63,7 +46,23 @@ I think this might be the smallest post so far, but I think it'll be less about 
 > A metric of my productivity is logged to the OKR database.
 > Nothing breaks, and nothing unexpected happens, as the universe is completely predictable. 
 
+[Screensaver lock by-pass via the virtual keyboard #354](https://github.com/linuxmint/cinnamon-screensaver/issues/354): A Linux Mint bug report on how random input from their child caused a screensaver crash.
+
+[Sealioning](https://en.m.wikipedia.org/wiki/Sealioning): A type of trolling or harassment that consists of pursuing people with persistent requests for evidence or repeated questions, while maintaining a pretense of civility and sincerity. It may take the form of "incessant, bad-faith invitations to engage in debate". The term originated with a 2014 strip of the webcomic Wondermark by David Malki.
+
+[stack_sort](https://gkoberger.github.io/stacksort/): Test various stack sort implmeentations from Stack Overflow.
+
 [sudo !!](https://www.reddit.com/r/ProgrammerHumor/comments/l02kgj/every_single_time/): I feel like I always _kinda_ kinda knew about this command (from [the fuck](https://github.com/nvbn/thefuck)) but never put in the time to remember it.
+
+[The Michael Scott Theory of Social Class](https://danco.substack.com/p/the-michael-scott-theory-of-social): A theory on why most middle management has similar characteristics.
+
+[This military graphic on electronic warfare should give everyone nightmares](https://taskandpurpose.com/mandatory-fun/worst-military-graphic-electronic-warfare/): The unique, and somewhat disturbing aspects of, of military design by committee effects, also known as [Armageddon Charts](https://www.microwaves101.com/encyclopedias/microwave-slang).
+
+[VentScape](https://www.ventscape.life/): Let it out int othe void, in real time, with others.
+
+[What language is this code written in and what does it do?](ttps://www.reddit.com/r/coding/comments/ysfe5/what_language_is_this_code_written_in_and_what/): A Reddit thread a pseudo-assembly language from Izzy's laptop in Digimon.
+
+[Why does it take so long to build software?](https://www.simplethread.com/why-does-it-take-so-long-to-build-software/): The impact of essential complexity, accidental complexity, along with outside shareholders and business requirements.
 
 # Pics and Posts
 [https://github.com/gkoberger/stacksort/pull/4]({{site.baseurl}}/assets/2022-01-11-what-i-learned-this-year/you-home.png)
