@@ -8,6 +8,7 @@ title: "What I Learned This Year"
 Third year and third post, to follow up on [2019]({{site.baseurl}}/2020/01/20/what-i-learned-this-year.html) and [2020]({{site.baseurl}}/2021/01/11/what-i-learned-this-year.html).
 This year I restricted my reddit and hacker news access, nothing crazy, just a simple add-on. I could still check it the site, but definetly wanted to break the 'fridge check' kind of reflex.
 I think this might be the smallest post so far, but I think it'll be less about link collecting, and I'll have less to clean up for this post.
+also write this to my self every year https://www.futureme.org/
 
 # Articles
 
