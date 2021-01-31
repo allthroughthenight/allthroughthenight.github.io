@@ -5,9 +5,11 @@
 * All-in-one VM set-up via Ansible and Vagrant
 * Better understanding of overall static site generators and less-copy-pasta of commands (ಠ_ಠ)
 * Remove unneeded features (RSS Feed, SEO, Google Analytics)
-* Squash log into one 'hero' commit
+* ~Squash log into one 'hero' commit~ meh, too late
 * "About Me" page with "all views are my own" disclaimer 
-* Need to normalize "what I learned this year" post structures, also image links or inline?
+* What I Learned This Year posts
+    * Normalize format and structure between them all
+    * Have images inline and link to web sources as possible
 
 ## set-up
 
