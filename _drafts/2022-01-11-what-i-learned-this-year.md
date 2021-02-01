@@ -22,6 +22,10 @@ also write this to my self every year https://www.futureme.org/
 
 [Coder or Serial Killer](https://vole.wtf/coder-serial-killer-quiz/): Humorous quiz on if you're able to tell if someone is a programmer or serial killer based on their headshot.
 
+[How to Increase Your Luck Surface Area](https://www.codusoperandi.com/posts/increasing-your-luck-surface-area)
+> Luck is what happens when preparation meets opportunity
+> - Seneca
+
 [How the Fake but Really Cool Computers in Movies Get Made](https://www.vice.com/en/article/8xvz8g/how-the-fake-but-really-cool-computers-in-movies-get-made): How  film makers aim to make fictional interfaces more accurate.
 
 [Let's Not Dumb Down the History of Computer Science](https://m-cacm.acm.org/opinion/articles/250078-lets-not-dumb-down-the-history-of-computer-science/fulltext): A lecture by Don Knuth on the importance of not ignorming the meta-history of computer science.
