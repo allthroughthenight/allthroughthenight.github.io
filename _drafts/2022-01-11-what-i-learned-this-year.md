@@ -5,6 +5,9 @@ title: "What I Learned This Year"
 
 also write this to my self every year https://www.futureme.org/
 https://laughingsquid.com/the-lonely-orbit/
+https://news.ycombinator.com/item?id=25995839
+https://news.ycombinator.com/item?id=25999437
+https://documentation.divio.com/
 
 # Introduction
 
