@@ -8,6 +8,7 @@ https://laughingsquid.com/the-lonely-orbit/
 https://news.ycombinator.com/item?id=25995839
 https://news.ycombinator.com/item?id=25999437
 https://documentation.divio.com/
+vice docuseries on videogame history: https://www.vicetv.com/en_us/show/reset
 check pat year stuff for this one: https://www.nytimes.com/2018/02/27/magazine/red-dots-badge-phones-notification.html and https://news.ycombinator.com/item?id=26011847
 https://news.ycombinator.com/item?id=26010927
 also go back and review and revise the blog tf bro
