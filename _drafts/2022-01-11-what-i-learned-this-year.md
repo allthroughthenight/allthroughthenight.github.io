@@ -18,6 +18,7 @@ https://news.ycombinator.com/item?id=26024049
 https://news.ycombinator.com/item?id=26051600
 https://news.ycombinator.com/item?id=25429940
 https://robotmoon.com/ssh-tunnels/
+https://www.reddit.com/r/ProgrammerHumor/comments/lempzp/why_cant_my_teachers_be_like_this/
 
 # Introduction
 
