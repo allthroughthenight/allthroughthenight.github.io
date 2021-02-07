@@ -12,7 +12,9 @@ vice docuseries on videogame history: https://www.vicetv.com/en_us/show/reset
 check pat year stuff for this one: https://www.nytimes.com/2018/02/27/magazine/red-dots-badge-phones-notification.html and https://news.ycombinator.com/item?id=26011847
 https://news.ycombinator.com/item?id=26010927
 also go back and review and revise the blog tf bro
-
+how to plan time with lists and docs and new year for blog topic
+ should probably start deleting all the other what i learned this year stuff since i never actually read them or plan to, along with just blog clean up and proof reading
+ 
 # Introduction
 
 Third year and third post, to follow up on [2019]({{site.baseurl}}/2020/01/20/what-i-learned-this-year.html) and [2020]({{site.baseurl}}/2021/01/11/what-i-learned-this-year.html).
