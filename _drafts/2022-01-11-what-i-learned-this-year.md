@@ -15,6 +15,7 @@ also go back and review and revise the blog tf bro
 how to plan time with lists and docs and new year for blog topic
  should probably start deleting all the other what i learned this year stuff since i never actually read them or plan to, along with just blog clean up and proof reading
 https://news.ycombinator.com/item?id=26024049
+https://news.ycombinator.com/item?id=26051600
 https://news.ycombinator.com/item?id=25429940
 
 # Introduction
