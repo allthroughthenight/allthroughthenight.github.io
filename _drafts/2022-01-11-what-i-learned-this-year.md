@@ -20,6 +20,7 @@ https://news.ycombinator.com/item?id=25429940
 https://news.ycombinator.com/item?id=26065594
 https://news.ycombinator.com/item?id=26066345
 https://robotmoon.com/ssh-tunnels/
+https://xkcd.com/889/
 https://www.reddit.com/r/ProgrammerHumor/comments/lempzp/why_cant_my_teachers_be_like_this/
 games beat last year, what to beat this year
 
