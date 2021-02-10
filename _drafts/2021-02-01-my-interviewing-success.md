@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "My Interviewing Successfulness"
+title: "My Interviewing Success"
 ---
 
 # Introduction
