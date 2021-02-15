@@ -27,9 +27,11 @@ linkedin_username: jixlux
 # Build settings
 markdown: kramdown
 theme: minima
-future: false
 plugins:
   - jekyll-feed
+
+# Toggle to set if posts with future dates should be rendered or not
+future: false
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
