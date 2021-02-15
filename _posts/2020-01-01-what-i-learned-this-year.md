@@ -77,13 +77,21 @@ Learning
 # Videos
 [Deadly Truth of General AI?](https://www.youtube.com/watch?v=tcdVC4e6EV4)
 
+[Google I/O 2010 - The joys of engineering leadership](https://www.youtube.com/watch?v=skD1fjxSRog)
+
 [I Will Kill You](https://www.youtube.com/watch?v=9FdHq3WfJgs)
+
+[Indistinguishable From Magic: Manufacturing Modern Computer Chips](https://www.youtube.com/watch?v=NGFhc8R_uO4)
+
+[Julie Pagano: It's Dangerous to Go Alone: Battling the Invisible Monsters in Tech](https://www.youtube.com/watch?v=1i8ylq4j_EY)
 
 [Looping Surveillance Cameras through Live Editing](https://www.youtube.com/watch?v=RoOqznZUClI)
 
 [More adventures in replying to spam \| James Veitch](https://www.youtube.com/watch?v=C4Uc-cztsJo)
 
 [Pwned By The Owner: What Happens When You Steal A Hacker's Computer](https://www.youtube.com/watch?v=Jwpg-AwJ0Jc)
+
+[Secrets Of Successful Teamwork: Insights From Google](https://www.youtube.com/watch?v=hHIikHJV9fI)
 
 [Startup Funding Explained: Everything You Need to Know](https://www.youtube.com/watch?v=677ZtSMr4-4)
 
@@ -92,12 +100,3 @@ Learning
 [Super Mario World Credits Warp Explained](https://www.youtube.com/watch?v=vAHXK2wut_I)
 
 [Watch hackers break into the US power grid](https://www.youtube.com/watch?v=pL9q2lOZ1Fw)
-
-# Talks
-[Google I/O 2010 - The joys of engineering leadership](https://www.youtube.com/watch?v=skD1fjxSRog)
-
-[Indistinguishable From Magic: Manufacturing Modern Computer Chips](https://www.youtube.com/watch?v=NGFhc8R_uO4)
-
-[Julie Pagano: It's Dangerous to Go Alone: Battling the Invisible Monsters in Tech](https://www.youtube.com/watch?v=1i8ylq4j_EY)
-
-[Secrets Of Successful Teamwork: Insights From Google](https://www.youtube.com/watch?v=hHIikHJV9fI)

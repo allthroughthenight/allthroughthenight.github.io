@@ -5,7 +5,7 @@ title: "What I Read This Year"
 
 # Introduction
 
-This is somewhat similar to my other post, but I'd like to keep my books reading separate from my casual online browsing.
+This is somewhat similar to my [other post]({{site.baseurl}}/2020/01/01/what-i-learned-this-year.html), but I want to keep books I've read separate from casual online browsing.
 
 # Books
 Crucial Conversations: Tools for Talking When Stakes Are High

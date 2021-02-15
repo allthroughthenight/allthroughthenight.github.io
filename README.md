@@ -1,15 +1,22 @@
 # allthroughthenight.github.io
 
+A basic blog for my basic post, all views are my own.
+
 ## TODOs
 
 * All-in-one VM set-up via Ansible and Vagrant
 * Better understanding of overall static site generators and less-copy-pasta of commands (ಠ_ಠ)
-* Remove unneeded features (RSS Feed, SEO, Google Analytics)
-* ~Squash log into one 'hero' commit~ meh, too late
-* "About Me" page with "all views are my own" disclaimer 
-* What I Learned This Year posts
-    * Normalize format and structure between them all
-    * Have images inline and link to web sources as possible
+
+## Formatting Notes
+
+```
+one hash title: # title
+6 hash image subtitle: ###### subtitle
+
+images: ![]({{site.baseurl}}/assets/2018-04-07-why/post.png)
+posts: [previous post]({{site.baseurl}}/2020/01/01/what-i-learned-this-year.html)
+links: [display](url)
+```
 
 ## set-up
 
