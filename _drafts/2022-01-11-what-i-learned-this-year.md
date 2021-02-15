@@ -21,6 +21,10 @@ https://news.ycombinator.com/item?id=26065594
 https://news.ycombinator.com/item?id=26066345
 https://robotmoon.com/ssh-tunnels/
 https://xkcd.com/889/
+https://www.shitbowl.com/
+https://youshallnotpass.glitch.me/
+resting with energy: https://developertea.com/episodes/f0512524-bacb-4569-a8d9-3e6287ab3afd
+https://daveeargle.com/2020/09/11/kobayashi-maru-proctorio-version/
 https://www.reddit.com/r/ProgrammerHumor/comments/lempzp/why_cant_my_teachers_be_like_this/
 games beat last year, what to beat this year
 

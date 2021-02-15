@@ -77,13 +77,11 @@ Learning
 # Videos
 [Deadly Truth of General AI?](https://www.youtube.com/watch?v=tcdVC4e6EV4)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tcdVC4e6EV4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 [I Will Kill You](https://www.youtube.com/watch?v=9FdHq3WfJgs)
 
 [Looping Surveillance Cameras through Live Editing](https://www.youtube.com/watch?v=RoOqznZUClI)
 
-[More adventures in replying to spam | James Veitch](https://www.youtube.com/watch?v=C4Uc-cztsJo)
+[More adventures in replying to spam \| James Veitch](https://www.youtube.com/watch?v=C4Uc-cztsJo)
 
 [Pwned By The Owner: What Happens When You Steal A Hacker's Computer](https://www.youtube.com/watch?v=Jwpg-AwJ0Jc)
 
