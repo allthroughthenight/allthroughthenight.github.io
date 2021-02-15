@@ -3,14 +3,12 @@ layout: post
 title: "Auto Download"
 ---
 
-I'm a big fan of virtualization for the average (tech) person because:
+I'm a big fan of virtualization for the average tech person because:
 
 * You're to not be tied to specific hardware
 * You learn good data back-up and storage habits
 
-One of the best virtualization tools available for free is [Virtual Box](https://www.virtualbox.org), which can be combined with [Vagrant](https://www.vagrantup.com), a headless hypervisor. Vagrant is really meant for making repeatable and predictable development, testing, and production environments, but since it's provisions normal virtual machines, you can do other work with them.
-
-As much as I'm a fan of virtualization, I'm not a fan of most streaming services. With the freedom of the internet constantly on the line, I'd much rather have the ability to keep my media off-line for consumption anywhere. Though torrenting is an option, most media can be found on YouTube. Considering it's the [second largest search engine](https://www.mushroomnetworks.com/infographics/youtube---the-2nd-largest-search-engine-infographic/), why not use a tool catered to scarping it. [Youtube-dl](https://youtube-dl.org) solves this problem and then some. By having to ability to run from the command line and operate from input files unattended, it offers a lot of freedom for bulk downloading.
+One of the best virtualization tools available for free is [Virtual Box](https://www.virtualbox.org), which can be combined with [Vagrant](https://www.vagrantup.com). As much as I'm a fan of virtualization, I'm not a fan of most streaming services. and would rather keep my media off-line to view whenever. Though torrenting is an option, most media can be found on YouTube. Considering it's the [second largest search engine](https://www.mushroomnetworks.com/infographics/youtube---the-2nd-largest-search-engine-infographic/), why not use a tool catered to scarping it. [Youtube-dl](https://youtube-dl.org) solves this problem and then some. By having to ability to run from the command line and operate from input files unattended, it offers a lot of freedom for bulk downloading.
 
 The basics steps are below:
 1. Collect URLs of things I want

@@ -15,7 +15,7 @@ When I first started, after a few months I was wondering how this post was almos
 
 [Austin Amazon KFAUWI device randomly appeared under Network Device](https://www.thewindowsclub.com/amazon-kfauwi-appeared-network-device): The same motherboard maker for Amazon Fires and Kindles uses Linux source code for automatic device discovery. So any device running the same code will cause Windows to detect it as an Amazon Fire.
 
-[Brown M&Ms, or Why No One's Reading the Manual](https://blog.nuclino.com/brown-m-ms-or-why-no-one-s-reading-the-manual): Writing documentaion isn't enough; it's should be written so it can be easy to read and search for, and kept recent by letting anyone make changes.
+[Brown M&Ms, or Why No One's Reading the Manual](https://blog.nuclino.com/brown-m-ms-or-why-no-one-s-reading-the-manual): Writing documentation isn't enough; it's should be written so it can be easy to read and search for, and kept recent by letting anyone make changes.
 
 [Career advice for people with bad luck](https://chiefofstuff.substack.com/p/career-advice-for-people-with-bad): It’s okay to go for the safe job, it’s also okay to take risks, because you’ll regret it either way.
 
@@ -23,7 +23,7 @@ When I first started, after a few months I was wondering how this post was almos
 
 [Docker for Windows won't run if you have the Razer Synapse driver management tool running](https://threadreaderapp.com/thread/1229641258370355200.html): Both applications lock the wrong system-wide global check to ensure that only one instance of an application runs, but then neither of them can run at the same time.
 
-[extra line breaks on event description](https://support.google.com/calendar/thread/29336031?hl=en): An explination as to why I always have to use Notepad to normalize new lines whenever I edit events on Google Calendar.
+[extra line breaks on event description](https://support.google.com/calendar/thread/29336031?hl=en): An explanation as to why I always have to use Notepad to normalize new lines whenever I edit events on Google Calendar.
 
 [elsamuko/Shirt-without-Stripes](https://github.com/elsamuko/Shirt-without-Stripes): A collection of incorrect search result when queried with "shirts without stripes".
 
