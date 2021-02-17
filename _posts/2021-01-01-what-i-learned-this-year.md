@@ -96,18 +96,20 @@ When I first started, after a few months I was wondering how this post was almos
 
 # Pics and Posts
 
-[Deployed my blog on Kubernetes]({{site.baseurl}}/assets/2021-01-11-what-i-learned-this-year/kubernetes.png)
+[Deployed my blog on Kubernetes](https://twitter.com/dexhorthy/status/856639005462417409?lang=en)
 
-[It was a bug now it's a feature]({{site.baseurl}}/assets/2021-01-11-what-i-learned-this-year/bug-feature.jpg)
+[Full Stack Developer](https://twitter.com/ern0plus4/status/1207322763184214017?lang=en)
 
-[haha for loop go brr]({{site.baseurl}}/assets/2021-01-11-what-i-learned-this-year/loop-go-brrr.png)
-###### [bonus: machine learning go brr]({{site.baseurl}}/assets/2021-01-11-what-i-learned-this-year/tensy-flow.png)
+[It was a bug and now it's a feature.](https://www.reddit.com/r/interestingasfuck/comments/hgpzhq/a_wasp_rolled_over_by_a_train/fw5wkwa/)
 
-[I fucked up Git so bad it turned into Guitar Hero]({{site.baseurl}}/assets/2021-01-11-what-i-learned-this-year/guitar-hero.png)
+[haha for loop go brr](https://www.reddit.com/r/ProgrammerHumor/comments/fokc7r/brrrrrrr/)
+###### [bonus: machine learning go brr](https://www.reddit.com/r/ProgrammerHumor/comments/frhwzh/linkedin_influencers_really_be_like_that/)
+
+[I fucked up Git so bad it turned into Guitar Hero](https://www.reddit.com/r/ProgrammerHumor/comments/43ug8t/i_fucked_up_git_so_bad_it_turned_into_guitar_hero/)
 
 [Protecting Lives & Liberty](https://ncase.me/contact-tracing/)
 
-[To replace programmers with Robots]({{site.baseurl}}/assets/2021-01-11-what-i-learned-this-year/robots.png)
+[To replace programmers with Robots](https://twitter.com/budescode/status/1285279703193063426)
 
 # Videos
 

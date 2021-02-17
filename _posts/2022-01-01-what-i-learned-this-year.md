@@ -83,9 +83,13 @@ I think this might be the smallest post so far, but I think it'll be less about 
 
 # Pics and Posts
 
-[Cupid Hackerman]({{site.baseurl}}/assets/2022-01-01-what-i-learned-this-year/cupid-hackerman.jpg)
+[Cupid Hackerman](https://twitter.com/iammesutkaya/status/1360963330219859968)
 
-[Sorry for rushing this a bit, but got home yet?]({{site.baseurl}}/assets/2022-01-01-what-i-learned-this-year/you-home.png)
+[How long to hard-boil an egg? \[duplicate\]](https://devhumor.com/media/why-i-stopped-posting-to-stackoverflow)
+
+[My decision tree for learning something new in tech.](https://twitter.com/dabit3/status/1351237873522114561)
+
+[Sorry for rushing this a bit, but got home yet?](https://github.com/gkoberger/stacksort/pull/4#issuecomment-747656340)
 
 [Twilight - The Cold Ones](http://www.freezerstorageds.com/)
 
