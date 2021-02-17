@@ -6,6 +6,7 @@ A basic blog for my basic post, all views are my own.
 
 * All-in-one VM set-up via Ansible and Vagrant
 * Better understanding of overall static site generators and less-copy-pasta of commands (ಠ_ಠ)
+* Change pics back to direct links since they're not gonna be embedded/inline
 
 ## Formatting Notes
 

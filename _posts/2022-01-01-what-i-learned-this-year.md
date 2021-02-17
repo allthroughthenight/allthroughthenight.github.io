@@ -5,11 +5,13 @@ title: "What I Learned This Year"
 
 # Introduction
 
-Third year and third post, to follow up on [2019]({{site.baseurl}}/2020/01/01/what-i-learned-this-year.html) and [2020]({{site.baseurl}}/2021/01/01/what-i-learned-this-year.html).
-This year I restricted my reddit and hacker news access, nothing crazy, just a simple add-on. I could still check it the site, but definetly wanted to break the 'fridge check' kind of reflex.
-I think this might be the smallest post so far, but I think it'll be less about link collecting, and I'll have less to clean up for this post.
+Third year and third post, to follow up on [2019]({{site.baseurl}}/2020/01/01/what-i-learned-this-year.html) and [2020]({{site.baseurl}}/2021/01/01/what-i-learned-this-year.html). This year I restricted my reddit and hacker news access with a simple add-on. I could still check them, but I wanted to break the 'fridge check' reflex. This might be the smallest post yet, but it'll be a lot less link collectingt.
 
 # Articles
+
+[433% Keyboard](https://relivesight.com/projects/433/)
+> 450 keys of solid non-mx-browness and 433% the size of a normal full size, what more could you ask for?
+> - ren ♡
 
 [A visual guide to SSH tunnels](https://robotmoon.com/ssh-tunnels/): How SSH works, and some of it's various flags. and features.
 
@@ -26,6 +28,8 @@ I think this might be the smallest post so far, but I think it'll be less about 
 [Don’t Underestimate the Power of a Walk](https://hbr.org/2021/02/dont-underestimate-the-power-of-a-walk)
 > “Above all, do not lose your desire to walk. Everyday, I walk myself into a state of well-being & walk away from every illness. I have walked myself into my best thoughts, and I know of no thought so burdensome that one cannot walk away from it. But by sitting still, & the more one sits still, the closer one comes to feeling ill. Thus if one just keeps on walking, everything will be all right.”
 > ― [Søren Kierkegaard](https://news.ycombinator.com/item?id=26066345)
+
+[guthib.com](https://guthib.com/): You spelled it wrong.
 
 [How to Increase Your Luck Surface Area](https://www.codusoperandi.com/posts/increasing-your-luck-surface-area)
 > Luck is what happens when preparation meets opportunity
@@ -54,26 +58,15 @@ I think this might be the smallest post so far, but I think it'll be less about 
 > A metric of my productivity is logged to the OKR database.
 > Nothing breaks, and nothing unexpected happens, as the universe is completely predictable. 
 
-[on: The computers rejecting job applications](https://news.ycombinator.com/item?id=26065594): A jab at the coming future AI war on automated job applications.
+[on: The computers rejecting job applications](https://news.ycombinator.com/item?id=26065594): A jab at the coming AI war on automated job applications.
 
-[Pick a New Password](https://youshallnotpass.glitch.me/): A joke website to make it impossible to choose a new password.
-
-[Screensaver lock by-pass via the virtual keyboard #354](https://github.com/linuxmint/cinnamon-screensaver/issues/354): A Linux Mint bug report on how random input from their child caused a screensaver crash.
+[You Shall Not Pass](https://youshallnotpass.glitch.me/): A joke website to make it impossible to choose a new password.
 
 [shitbowl](https://www.shitbowl.com/): The algorithmically powered in-home physical caching platform.
 
-[stack_sort](https://gkoberger.github.io/stacksort/): Test various stack sort implementations from Stack Overflow.
-
-[sudo !!](https://www.reddit.com/r/ProgrammerHumor/comments/l02kgj/every_single_time/): I feel like I always _kinda_ kinda knew about this command (from [the fuck](https://github.com/nvbn/thefuck)) but never put in the time to remember it.
-
-
 [Teaching Students how to Cheat During the Pandemic](https://daveeargle.com/2020/09/11/kobayashi-maru-proctorio-version/): Encouraging students on how to cheat, to understand how to imagine threats from adversarial perspectives.
 
-[The Michael Scott Theory of Social Class](https://danco.substack.com/p/the-michael-scott-theory-of-social): A theory on why most middle management has similar characteristics.
-
 [This military graphic on electronic warfare should give everyone nightmares](https://taskandpurpose.com/mandatory-fun/worst-military-graphic-electronic-warfare/): The unique, and somewhat disturbing aspects of, of military design by committee effects, also known as [Armageddon Charts](https://www.microwaves101.com/encyclopedias/microwave-slang).
-
-[VentScape](https://www.ventscape.life/): Let it out into the void, in real time, with others.
 
 [What language is this code written in and what does it do?](ttps://www.reddit.com/r/coding/comments/ysfe5/what_language_is_this_code_written_in_and_what/): A Reddit thread a pseudo-assembly language from Izzy's laptop in Digimon.
 
