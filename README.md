@@ -16,6 +16,11 @@ one hash title: # title
 images: ![]({{site.baseurl}}/assets/2018-04-07-why/post.png)
 posts: [previous post]({{site.baseurl}}/2020/01/01/what-i-learned-this-year.html)
 links: [display](url)
+
+---
+layout: post
+title: "post-title"
+---
 ```
 
 ## set-up
