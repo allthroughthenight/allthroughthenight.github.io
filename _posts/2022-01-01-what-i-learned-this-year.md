@@ -3,6 +3,21 @@ layout: post
 title: "What I Learned This Year"
 ---
 
+# TBD/WIP
+https://codingsans.com/blog/leadership-soft-skills
+
+- daily coding challenges mailing list
+https://www.teabreakchallenge.com/
+https://www.dailycodingproblem.com/stackabuse
+https://algodaily.com/
+https://www.algoexpert.io/product
+https://coderbyte.com
+https://www.interviewcake.com/
+https://www.hackerrank.com/
+https://www.codewars.com/
+https://github.com/gamontal/awesome-katas
+https://codebasil.com/
+
 # Introduction
 
 Third year and third post, to follow up on [2019]({{site.baseurl}}/2020/01/01/what-i-learned-this-year.html) and [2020]({{site.baseurl}}/2021/01/01/what-i-learned-this-year.html). This year I restricted my reddit and hacker news access with a simple add-on. I could still check them, but I wanted to break the 'fridge check' reflex. This might be the smallest post yet, but it'll be a lot less link collectingt.
