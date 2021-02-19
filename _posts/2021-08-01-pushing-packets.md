@@ -5,4 +5,4 @@ title: "Pushing Packets"
 
 # Introduction
 
-setting up openwrt, and new networking board
+setting up openwrt, and new networking board layout

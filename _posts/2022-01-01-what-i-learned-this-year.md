@@ -31,7 +31,7 @@ Third year and third post, to follow up on [2019]({{site.baseurl}}/2020/01/01/wh
 > 450 keys of solid non-mx-browness and 433% the size of a normal full size, what more could you ask for?
 > - ren ♡
 
-[A visual guide to SSH tunnels](https://robotmoon.com/ssh-tunnels/): How SSH works, and some of it's various flags. and features.
+[A visual guide to SSH tunnels](https://robotmoon.com/ssh-tunnels/): How SSH works, and some of it's various flags and features.
 
 [A worry junior engineers and new hires frequently have is that they ask too many questions.](https://threadreaderapp.com/thread/1220556930675904516.html): A good way to as questions as a junior developer, along with how to encourage it.
 
@@ -55,7 +55,7 @@ Third year and third post, to follow up on [2019]({{site.baseurl}}/2020/01/01/wh
 
 [How the Fake but Really Cool Computers in Movies Get Made](https://www.vice.com/en/article/8xvz8g/how-the-fake-but-really-cool-computers-in-movies-get-made): How  film makers aim to make fictional interfaces more accurate.
 
-[My 90s Tv](https://my90stv.com/#k_wi3fY78ts): Television programing from past decades.
+[My 90s Tv](https://my90stv.com): Television programing from the 90s, 80s, and 70s.
 
 [new codebase, who dis? (How to Join a Team and Learn a Codebase)](https://www.samueltaylor.org/articles/how-to-learn-a-codebase.html):
 1. Locate the portion of code most relevant to the immediate task at hand.
@@ -81,6 +81,8 @@ Third year and third post, to follow up on [2019]({{site.baseurl}}/2020/01/01/wh
 [You Shall Not Pass](https://youshallnotpass.glitch.me/): A joke website to make it impossible to choose a new password.
 
 [shitbowl](https://www.shitbowl.com/): The algorithmically powered in-home physical caching platform.
+
+[Skyline – Your GitHub story in 3D ](https://skyline.github.com/): View a 3D model of your GitHub contribution graph. Share it, print it, and more!
 
 [Teaching Students how to Cheat During the Pandemic](https://daveeargle.com/2020/09/11/kobayashi-maru-proctorio-version/): Encouraging students on how to cheat, to understand how to imagine threats from adversarial perspectives.
 
