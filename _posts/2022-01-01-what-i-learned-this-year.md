@@ -18,11 +18,12 @@ https://www.codewars.com/
 https://github.com/gamontal/awesome-katas
 https://codebasil.com/
 
-https://web.eecs.utk.edu/~azh/blog/yestercode.html
+- https://web.eecs.utk.edu/~azh/blog/yestercode.html
+- https://vocal.media/futurism/who-are-the-steely-eyed-men-of-sci-fi
 
 # Introduction
 
-Third year and third post, to follow up on [2019]({{site.baseurl}}/2020/01/01/what-i-learned-this-year.html) and [2020]({{site.baseurl}}/2021/01/01/what-i-learned-this-year.html). This year I restricted my reddit and hacker news access with a simple add-on. I could still check them, but I wanted to break the 'fridge check' reflex. This might be the smallest post yet, but it'll be a lot less link collectingt.
+Third year and third post, to follow up on [2019]({{site.baseurl}}/2020/01/01/what-i-learned-this-year.html) and [2020]({{site.baseurl}}/2021/01/01/what-i-learned-this-year.html). This year I restricted my reddit and hacker news access with a simple add-on. I could still check them, but I wanted to break the 'fridge check' reflex. This might be the smallest post yet, but it'll be a lot less link collecting.
 
 # Articles
 
