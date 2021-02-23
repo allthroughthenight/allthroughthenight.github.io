@@ -20,6 +20,7 @@ https://codebasil.com/
 
 - https://web.eecs.utk.edu/~azh/blog/yestercode.html
 - https://vocal.media/futurism/who-are-the-steely-eyed-men-of-sci-fi
+- https://css-tricks.com/mistakes-ive-made-as-an-engineering-manager/
 
 -[I created a fake company to play around with spammers](https://threadreaderapp.com/thread/1360208504544444417.html): similar to [Lenny](https://www.vice.com/en/article/d3b7na/the-story-of-lenny-the-internets-favorite-telemarketing-troll) but for email.
 
