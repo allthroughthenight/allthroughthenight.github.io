@@ -4,6 +4,8 @@ title: "What I Learned This Year"
 ---
 
 # TBD/WIP
+- https://www.free-for.dev: like the list i tried, but better
+
 https://codingsans.com/blog/leadership-soft-skills
 
 - daily coding challenges mailing list
