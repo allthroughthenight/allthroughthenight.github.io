@@ -5,28 +5,26 @@ title: "My Interviewing Success"
 
 # Introduction
 
-It's been a while since I've done an interview blitz, but I've kept a some what meticulous record of my past success and failures. I initially planned on interviewing more, then when I got the job I have now I stopped and focused on the new position. 
-
-In true [r/cscareerquestion](https://www.reddit.com/r/cscareerquestions/) fashion, I made a [sankey diagram](http://sankeymatic.com/build/) to visualize how everything went.
+I've have a [few](https://allthroughthenight.github.io/2018/04/11/jump-start.html) [past](https://allthroughthenight.github.io/2018/05/03/virtually-interviewed.html) [posts](https://allthroughthenight.github.io/2020/07/11/a-good-interview.html) about my interviewing experiences, so recently I sat down and tried to remember my overall success and failures, if for no other reason, then to share that it's not uncommon to get rejected. And in true [r/cscareerquestion](https://www.reddit.com/r/cscareerquestions/) fashion, I made a [sankey diagram](http://sankeymatic.com/build/) to visualize how everything went.
 
 # 2017 Intership
 
 ![]({{site.baseurl}}/assets/2021-03-01-my-interviewing-success/2016-internship-applications.png)
 
-For the summer between my senior semesters in college I was trying hard to get an internship anywhere to have some experience before I graduated in the fall.
+For my senior summer in college, I tried for an internship anywhere to have some experience before I graduated in the Fall. I didn't know how competitive it was and I should've applied to more. I was past the half-way point with a [three-letter agency](https://www.urbandictionary.com/define.php?term=Three-letter%20Agencies), but instead I went with an offer I got from NASA at Johnson Space Center.
 
 # 2018 New Grad
 
 ![]({{site.baseurl}}/assets/2021-03-01-my-interviewing-success/2017-new-grad-job-hunt.png)
 
-My job search out of college was pretty rough, but I was glad when I landed the position that I did after working with a recruiter, and set my trajectory upwards and kick started my career.
+Looking for a job as a new grad fresh out of college was rough. Luckily I was able to get a Software Engineer position by working with a recruiter.
 
 # 2020 New Job
 
 ![]({{site.baseurl}}/assets/2021-03-01-my-interviewing-success/2020-job-search.png)
 
-The position that started me off wasn't that great once I got settled, so I started shopping around and ended up landing a position thanks to a referral from a friends
+My first SWE position was a learning experience, but for the wrong reasons. When I started shopping on my own I didn't have much success, then a friend reached out and refereed me and I was able to move to a better position and company.
 
 # Overall
 
-Considering the two major position I got were from referrals, my best advice would be to stay in touch with your contacts and network. You never know when it'll pay off.
+Since the two major job I landed were from referrals, my best advice would be to stay in touch with your contacts and network. You never know when it'll pay off.
