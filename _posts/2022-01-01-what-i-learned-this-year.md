@@ -5,9 +5,13 @@ title: "What I Learned This Year"
 
 # TBD/WIP
 - https://www.free-for.dev: like the list i tried, but better
-
-https://codingsans.com/blog/leadership-soft-skills
-
+- https://codingsans.com/blog/leadership-soft-skills
+- https://web.eecs.utk.edu/~azh/blog/yestercode.html
+- https://vocal.media/futurism/who-are-the-steely-eyed-men-of-sci-fi
+- https://css-tricks.com/mistakes-ive-made-as-an-engineering-manager/
+-[How I cut GTA Online loading times by 70%](https://nee.lv/2021/02/28/How-I-cut-GTA-Online-loading-times-by-70/)
+-[Netcode: Explaining how fighting games use delay-based and rollback netcode](https://ki.infil.net/w02-netcode.html) also [this](https://www.youtube.com/watch?v=1RI5scXYhK0) and [this](https://www.youtube.com/watch?v=0NLe4IpdS1w)
+-[I created a fake company to play around with spammers](https://threadreaderapp.com/thread/1360208504544444417.html): similar to [Lenny](https://www.vice.com/en/article/d3b7na/the-story-of-lenny-the-internets-favorite-telemarketing-troll) but for email.
 - daily coding challenges mailing list
 https://www.teabreakchallenge.com/
 https://www.dailycodingproblem.com/stackabuse
@@ -19,13 +23,6 @@ https://www.hackerrank.com/
 https://www.codewars.com/
 https://github.com/gamontal/awesome-katas
 https://codebasil.com/
-
-- https://web.eecs.utk.edu/~azh/blog/yestercode.html
-- https://vocal.media/futurism/who-are-the-steely-eyed-men-of-sci-fi
-- https://css-tricks.com/mistakes-ive-made-as-an-engineering-manager/
--[How I cut GTA Online loading times by 70%](https://nee.lv/2021/02/28/How-I-cut-GTA-Online-loading-times-by-70/)
--[Netcode: Explaining how fighting games use delay-based and rollback netcode](https://ki.infil.net/w02-netcode.html) also [this](https://www.youtube.com/watch?v=1RI5scXYhK0) and [this](https://www.youtube.com/watch?v=0NLe4IpdS1w)
--[I created a fake company to play around with spammers](https://threadreaderapp.com/thread/1360208504544444417.html): similar to [Lenny](https://www.vice.com/en/article/d3b7na/the-story-of-lenny-the-internets-favorite-telemarketing-troll) but for email.
 
 # Introduction
 
