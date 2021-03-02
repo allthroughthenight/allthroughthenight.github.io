@@ -6,12 +6,9 @@ title: "What I Learned This Year"
 # TBD/WIP
 - https://www.free-for.dev: like the list i tried, but better
 - https://codingsans.com/blog/leadership-soft-skills
-- https://web.eecs.utk.edu/~azh/blog/yestercode.html
 - https://vocal.media/futurism/who-are-the-steely-eyed-men-of-sci-fi
 - https://css-tricks.com/mistakes-ive-made-as-an-engineering-manager/
--[How I cut GTA Online loading times by 70%](https://nee.lv/2021/02/28/How-I-cut-GTA-Online-loading-times-by-70/)
--[Netcode: Explaining how fighting games use delay-based and rollback netcode](https://ki.infil.net/w02-netcode.html) also [this](https://www.youtube.com/watch?v=1RI5scXYhK0) and [this](https://www.youtube.com/watch?v=0NLe4IpdS1w)
--[I created a fake company to play around with spammers](https://threadreaderapp.com/thread/1360208504544444417.html): similar to [Lenny](https://www.vice.com/en/article/d3b7na/the-story-of-lenny-the-internets-favorite-telemarketing-troll) but for email.
+
 - daily coding challenges mailing list
 https://www.teabreakchallenge.com/
 https://www.dailycodingproblem.com/stackabuse
@@ -58,7 +55,9 @@ Third year and third post, to follow up on [2019]({{site.baseurl}}/2020/01/01/wh
 
 [How the Fake but Really Cool Computers in Movies Get Made](https://www.vice.com/en/article/8xvz8g/how-the-fake-but-really-cool-computers-in-movies-get-made): How  film makers aim to make fictional interfaces more accurate.
 
-[My 90s Tv](https://my90stv.com): Television programing from the 90s, 80s, and 70s.
+[I created a fake company to play around with spammers](https://threadreaderapp.com/thread/1360208504544444417.html): Like [Lenny](https://www.vice.com/en/article/d3b7na/the-story-of-lenny-the-internets-favorite-telemarketing-troll) but for email.
+
+[Netcode: Explaining how fighting games use delay-based and rollback netcode](https://ki.infil.net/w02-netcode.html): How fighting games use a different method for online netcode compared to other multiplayer games. See [this](https://www.youtube.com/watch?v=1RI5scXYhK0) and [this](https://www.youtube.com/watch?v=0NLe4IpdS1w) related videos.
 
 [new codebase, who dis? (How to Join a Team and Learn a Codebase)](https://www.samueltaylor.org/articles/how-to-learn-a-codebase.html):
 1. Locate the portion of code most relevant to the immediate task at hand.
@@ -80,8 +79,6 @@ Third year and third post, to follow up on [2019]({{site.baseurl}}/2020/01/01/wh
 > Nothing breaks, and nothing unexpected happens, as the universe is completely predictable. 
 
 [on: The computers rejecting job applications](https://news.ycombinator.com/item?id=26065594): A jab at the coming AI war on automated job applications.
-
-[You Shall Not Pass](https://youshallnotpass.glitch.me/): A joke website to make it impossible to choose a new password.
 
 [shitbowl](https://www.shitbowl.com/): The algorithmically powered in-home physical caching platform.
 

@@ -10,7 +10,8 @@ This year I focused on completing all my open world games. I finished one late i
 # Games
 
 * 3 out of 10: A tongue-in-cheek series made by game devs, for game devs, about being a game dev.
-* Abzu: Less of a game and more of an interactive demo, but still enjoyable.
-* Star Wars Battlefront 2: Another epic Star Wars shooter with a good mix between each faction, with mission on-foot and in vehicles.
+* Abzu: Less of a game and more of an interactive demo, but still relaxing and enjoyable.
+* Star Wars Battlefront 2: Another epic Star Wars shooter with a good mix getting to play as the Rebels and Empire, and various mission on-foot and in vehicles.
 * SUPERHOT: You have to check out this game. It's the most innovative shooter I've played in years.
-* Tom Clancy's Ghost Recon - Wildlands: A great 3rd person shooter, with solid mechanics and handling, and an open world that can stand on it's own.
+* Tom Clancy's Ghost Recon - Wildlands: A solid 3rd person tactical shooting with solid mechanics, and an open world worth exploring.
+* Watch_Dogs 2: If GTA V was in San Francisco, with a focus on stealth and puzzle solving instead of combat and shooting.
