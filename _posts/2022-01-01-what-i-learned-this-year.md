@@ -9,6 +9,7 @@ title: "What I Learned This Year"
 - https://vocal.media/futurism/who-are-the-steely-eyed-men-of-sci-fi
 - https://css-tricks.com/mistakes-ive-made-as-an-engineering-manager/
 - https://mikedebo.com/work/2021/03/02/terse-guide-on-hiring-an-engineering-manager/
+- http://www.goatops.com/
 
 # Introduction
 
