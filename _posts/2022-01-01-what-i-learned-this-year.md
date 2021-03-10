@@ -90,6 +90,8 @@ Third year and third post, to follow up on [2019]({{site.baseurl}}/2020/01/01/wh
 
 [How long to hard-boil an egg? \[duplicate\]](https://devhumor.com/media/why-i-stopped-posting-to-stackoverflow)
 
+[looks good](https://twitter.com/girayozil/status/306836785739210752)
+
 [My decision tree for learning something new in tech.](https://twitter.com/dabit3/status/1351237873522114561)
 
 [Sorry for rushing this a bit, but got home yet?](https://github.com/gkoberger/stacksort/pull/4#issuecomment-747656340)
