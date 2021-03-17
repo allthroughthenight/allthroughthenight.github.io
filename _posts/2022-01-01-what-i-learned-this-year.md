@@ -11,6 +11,8 @@ title: "What I Learned This Year"
 - https://mikedebo.com/work/2021/03/02/terse-guide-on-hiring-an-engineering-manager/
 - http://www.goatops.com/
 - https://twitter.com/SwiftOnSecurity/status/1371183849712009219
+- https://zoomescaper.com/
+- https://junglecoder.com/blog/learning-without-burnout
 
 # Introduction
 

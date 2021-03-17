@@ -15,6 +15,7 @@ This year I focused on completing all my open world games, along with the games 
 * Batman - Arkham City: This game really makes you feel like Batman.
 * Inner Space: An exploration game that happens to involve flying.
 * Lifeless planet: Another take at exploring at post-apocalyptic earth.
+* Megaman X4: A childhood dream 100% completed, and it was still as hard as I remembered it.
 * Pikuniku: Cute and fun, and also a decent plaformer.
 * Sludge Life: If only digging through the garbage was this fun in real life.
 * Star Wars Battlefront 2: Another epic Star Wars shooter with a good mix getting to play as the Rebels and Empire, and various mission on-foot and in vehicles.
