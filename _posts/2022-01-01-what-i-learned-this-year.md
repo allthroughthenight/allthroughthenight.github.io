@@ -16,6 +16,8 @@ title: "What I Learned This Year"
 - https://cookieconsentspeed.run/
 - https://news.ycombinator.com/item?id=26474947
 - https://news.ycombinator.com/item?id=26487854
+- https://twitter.com/Foone/status/1372766463556083715
+- https://www.juxtapoz.com/news/film/the-art-of-warez-documents-the-lost-ansi-art-scene/
 
 # Introduction
 
