@@ -13,6 +13,9 @@ title: "What I Learned This Year"
 - https://twitter.com/SwiftOnSecurity/status/1371183849712009219
 - https://zoomescaper.com/
 - https://junglecoder.com/blog/learning-without-burnout
+- https://cookieconsentspeed.run/
+- https://news.ycombinator.com/item?id=26474947
+- https://news.ycombinator.com/item?id=26487854
 
 # Introduction
 
