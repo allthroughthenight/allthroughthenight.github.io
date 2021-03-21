@@ -24,4 +24,4 @@ This year I focused on completing all my open world games, along with the games 
 * The Messenger: A great platformer with a cool twist, but still didn't win me over as a metro-vania.
 * Tom Clancy's Ghost Recon - Wildlands: A solid 3rd person tactical shooting with solid mechanics, and an open world worth exploring.
 * Watch_Dogs 2: If GTA V was in San Francisco, with a focus on stealth and puzzle solving instead of combat and shooting.
-* Wolfenstien - The Old Blood: Another old school shooter sequel redone for modern times.
+* Wolfenstien - The Old Blood: Another boomer-shooter sequel revamped for modern times.

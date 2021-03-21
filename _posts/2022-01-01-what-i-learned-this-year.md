@@ -4,27 +4,13 @@ title: "What I Learned This Year"
 ---
 
 # TBD/WIP
-- https://www.free-for.dev: like the list i tried, but better
 - https://codingsans.com/blog/leadership-soft-skills
-- https://vocal.media/futurism/who-are-the-steely-eyed-men-of-sci-fi
 - https://css-tricks.com/mistakes-ive-made-as-an-engineering-manager/
 - https://mikedebo.com/work/2021/03/02/terse-guide-on-hiring-an-engineering-manager/
-- http://www.goatops.com/
-- https://twitter.com/SwiftOnSecurity/status/1371183849712009219
-- https://zoomescaper.com/
-- https://junglecoder.com/blog/learning-without-burnout
-- https://cookieconsentspeed.run/
-- https://news.ycombinator.com/item?id=26474947
-- https://news.ycombinator.com/item?id=26487854
-- https://news.ycombinator.com/item?id=26518290
-- https://news.ycombinator.com/item?id=26519244
-- https://billwadge.wordpress.com/2019/03/24/laws-of-the-universe-and-teaching/
-- https://twitter.com/Foone/status/1372766463556083715
-- https://www.juxtapoz.com/news/film/the-art-of-warez-documents-the-lost-ansi-art-scene/
 
 # Introduction
 
-Third year and third post, to follow up on [2019]({{site.baseurl}}/2020/01/01/what-i-learned-this-year.html) and [2020]({{site.baseurl}}/2021/01/01/what-i-learned-this-year.html). This year I restricted my reddit and hacker news access with a simple add-on. I could still check them, but I wanted to break the 'fridge check' reflex. This might be the smallest post yet, but it'll be a lot less link collecting.
+Third year and third post, to follow up on [2019]({{site.baseurl}}/2020/01/01/what-i-learned-this-year.html) and [2020]({{site.baseurl}}/2021/01/01/what-i-learned-this-year.html). I tried restricting my reddit and hacker news reflex with [LecchBlock](https://addons.mozilla.org/en-US/firefox/addon/leechblock-ng/), then I noticed I'd leave it disabled for days at a time, but it did help break the habit. Also this year I didn't read as many technical write-ups, and instead read more stuff on soft skills. With my new position I'm learning a lot on the job already, so I spend most of my free reading points on the meta of being in tech.
 
 # Articles
 
@@ -42,11 +28,15 @@ Third year and third post, to follow up on [2019]({{site.baseurl}}/2020/01/01/wh
 
 [Ask HN: Anyone know any funny programming jokes?](https://news.ycombinator.com/item?id=25850739): A thread of some great programming jokes.
 
-[Coder or Serial Killer](https://vole.wtf/coder-serial-killer-quiz/): Humorous quiz on if you're able to tell if someone is a programmer or serial killer based on their headshot.
+[Cookie Consent Speed run](https://cookieconsentspeed.run/): How fast can you consent to a cookie banner?
 
 [Don’t Underestimate the Power of a Walk](https://hbr.org/2021/02/dont-underestimate-the-power-of-a-walk)
 > “Above all, do not lose your desire to walk. Everyday, I walk myself into a state of well-being & walk away from every illness. I have walked myself into my best thoughts, and I know of no thought so burdensome that one cannot walk away from it. But by sitting still, & the more one sits still, the closer one comes to feeling ill. Thus if one just keeps on walking, everything will be all right.”
 > ― [Søren Kierkegaard](https://news.ycombinator.com/item?id=26066345)
+
+[Free for developers](https://free-for.dev/#/): Like a [list](https://github.com/allthroughthenight/projects/commit/77de81dcb3466ebbec8f29af587a3f4517d6ade8) I tried to make, but way better.
+
+[Goat Ops](http://www.goatops.com/): A guide on owning a farm with goats in case a career in tech doesn't pan out.
 
 [guthib.com](https://guthib.com/): You spelled it wrong.
 
@@ -54,9 +44,9 @@ Third year and third post, to follow up on [2019]({{site.baseurl}}/2020/01/01/wh
 > Luck is what happens when preparation meets opportunity
 > - Seneca
 
-[How the Fake but Really Cool Computers in Movies Get Made](https://www.vice.com/en/article/8xvz8g/how-the-fake-but-really-cool-computers-in-movies-get-made): How  film makers aim to make fictional interfaces more accurate.
-
 [I created a fake company to play around with spammers](https://threadreaderapp.com/thread/1360208504544444417.html): Like [Lenny](https://www.vice.com/en/article/d3b7na/the-story-of-lenny-the-internets-favorite-telemarketing-troll) but for email.
+
+[If you want a 12 hour break from Twitter just tweet this city name and you will be immediately locked ](https://threadreaderapp.com/thread/1371183849712009219.html): A bug in Twitter would flag accounts that tweeted about Memphis.
 
 [Netcode: Explaining how fighting games use delay-based and rollback netcode](https://ki.infil.net/w02-netcode.html): How fighting games use a different method for online netcode compared to other multiplayer games. See [this](https://www.youtube.com/watch?v=1RI5scXYhK0) and [this](https://www.youtube.com/watch?v=0NLe4IpdS1w) related videos.
 
@@ -79,7 +69,9 @@ Third year and third post, to follow up on [2019]({{site.baseurl}}/2020/01/01/wh
 > A metric of my productivity is logged to the OKR database.
 > Nothing breaks, and nothing unexpected happens, as the universe is completely predictable. 
 
-[on: The computers rejecting job applications](https://news.ycombinator.com/item?id=26065594): A jab at the coming AI war on automated job applications.
+[on: The computers rejecting job applications](https://news.ycombinator.com/item?id=26065594):
+> The next logical step would be to train an adversarial AI against the hiring AI. You'd have the system generate your resume and application to maximize your chances. Then the hiring AI would need to be re-trained to account for this. And so on.
+> In the far future, this feedback loop creates an economy where every job application is total gibberish. No human can possibly explain why their resume is a recipe for carne asada, an excerpt from Moby Dick, and a bunch of windings. But supposedly it's predicted to increase final offer salary by 13.54%, so nobody questions it. Anybody who still writes out their resume by hand is considered a luddite weirdo, and definitely not someone you'd want to have join your company. 
 
 [shitbowl](https://www.shitbowl.com/): The algorithmically powered in-home physical caching platform.
 
@@ -91,7 +83,9 @@ Third year and third post, to follow up on [2019]({{site.baseurl}}/2020/01/01/wh
 
 [What language is this code written in and what does it do?](ttps://www.reddit.com/r/coding/comments/ysfe5/what_language_is_this_code_written_in_and_what/): A Reddit thread a pseudo-assembly language from Izzy's laptop in Digimon.
 
-[Why does it take so long to build software?](https://www.simplethread.com/why-does-it-take-so-long-to-build-software/): The impact of essential complexity, accidental complexity, along with outside shareholders and business requirements.
+[Who Are the Steely-Eyed Men of Sci-Fi?](https://vocal.media/futurism/who-are-the-steely-eyed-men-of-sci-fi): The history behind the line from The Martian.
+
+[Why does it take so long to build software?](https://www.simplethread.com/why-does-it-take-so-long-to-build-software/): The impact of essential complexity, accidental complexity, outside shareholders, and business requirements.
 
 [Write a letter to the future you](https://www.futureme.org/): I've been using this regularly for the past three years, and it's a great way to see how much you change each year.
 
@@ -115,6 +109,6 @@ Third year and third post, to follow up on [2019]({{site.baseurl}}/2020/01/01/wh
 
 [The KGB, The Computer, and Me (Clifford Stoll: The Cuckoo's Egg)](https://www.youtube.com/watch?v=hTx9h3Sm29I)
 
-[The Lonely Orbit](https://laughingsquid.com/the-lonely-orbit/): A wayward satellite causes worldwide chaos after a lonely technician neglects his job duties.
+[The Lonely Orbit](https://laughingsquid.com/the-lonely-orbit/)
 
 [Vintage Computer Pop-Up Book from 1984](https://www.youtube.com/watch?v=2NueRKhEwvY)
