@@ -9,6 +9,7 @@ title: "What I Learned This Year"
 - https://mikedebo.com/work/2021/03/02/terse-guide-on-hiring-an-engineering-manager/
 - https://news.ycombinator.com/item?id=26500021
 - https://blog.ploeh.dk/2021/03/22/the-dispassionate-developer/
+- https://news.ycombinator.com/item?id=26584724
 
 # Introduction
 
