@@ -12,6 +12,7 @@ title: "What I Learned This Year"
 - https://news.ycombinator.com/item?id=26584724 and https://brianschrader.com/archive/why-all-my-servers-have-an-8gb-empty-file/
 - http://permission.site/
 - https://clickclickclick.click/
+- https://hbr.org/2016/12/if-your-boss-could-do-your-job-youre-more-likely-to-be-happy-at-work
 
 # Introduction
 
