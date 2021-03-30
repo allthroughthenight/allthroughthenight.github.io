@@ -13,6 +13,7 @@ title: "What I Learned This Year"
 - http://permission.site/
 - https://clickclickclick.click/
 - https://hbr.org/2016/12/if-your-boss-could-do-your-job-youre-more-likely-to-be-happy-at-work
+- http://www.catb.org/jargon/html/M/molly-guard.html
 
 # Introduction
 
