@@ -14,6 +14,12 @@ title: "What I Learned This Year"
 - https://clickclickclick.click/
 - https://hbr.org/2016/12/if-your-boss-could-do-your-job-youre-more-likely-to-be-happy-at-work
 - http://www.catb.org/jargon/html/M/molly-guard.html
+- https://news.ycombinator.com/item?id=26647717
+- https://blog.codinghorror.com/international-backup-awareness-day/
+-- http://www.worldbackupday.com/
+-- https://blog.codinghorror.com/international-backup-awareness-day/
+-- https://faq.nearlyfreespeech.net/q/backups
+-- http://taobackup.com/
 
 # Introduction
 
