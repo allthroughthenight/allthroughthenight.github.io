@@ -20,6 +20,10 @@ title: "What I Learned This Year"
 -- https://blog.codinghorror.com/international-backup-awareness-day/
 -- https://faq.nearlyfreespeech.net/q/backups
 -- http://taobackup.com/
+- https://thehosk.medium.com/software-development-is-a-losers-game-fc68bb30d7eb
+- https://multithreaded.stitchfix.com/blog/2021/04/01/move-slow-make-things/
+- https://news.ycombinator.com/item?id=26668408
+- https://www.microsoftcoffee.org/
 
 # Introduction
 
