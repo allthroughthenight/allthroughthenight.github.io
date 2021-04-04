@@ -10,3 +10,4 @@ kallen hallen be purposefull with free time since you've earned it https://www.y
 you spend a lot of your working time thinking about once you're off, then the time you spend off is just doing nothing 
 https://buzz-caribbean.com/life/five-types-of-hobbies-you-need/
 https://dev.to/developertea/friday-refill-stop-your-weekend-half-thinking
+https://news.ycombinator.com/item?id=26500021

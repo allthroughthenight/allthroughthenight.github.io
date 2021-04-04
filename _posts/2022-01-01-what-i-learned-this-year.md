@@ -3,31 +3,9 @@ layout: post
 title: "What I Learned This Year"
 ---
 
-# TBD/WIP
-- https://codingsans.com/blog/leadership-soft-skills
-- https://css-tricks.com/mistakes-ive-made-as-an-engineering-manager/
-- https://mikedebo.com/work/2021/03/02/terse-guide-on-hiring-an-engineering-manager/
-- https://news.ycombinator.com/item?id=26500021
-- https://blog.ploeh.dk/2021/03/22/the-dispassionate-developer/
-- https://news.ycombinator.com/item?id=26584724 and https://brianschrader.com/archive/why-all-my-servers-have-an-8gb-empty-file/
-- http://permission.site/
-- https://clickclickclick.click/
-- https://hbr.org/2016/12/if-your-boss-could-do-your-job-youre-more-likely-to-be-happy-at-work
-- http://www.catb.org/jargon/html/M/molly-guard.html
-- https://news.ycombinator.com/item?id=26647717
-- https://blog.codinghorror.com/international-backup-awareness-day/
--- http://www.worldbackupday.com/
--- https://blog.codinghorror.com/international-backup-awareness-day/
--- https://faq.nearlyfreespeech.net/q/backups
--- http://taobackup.com/
-- https://thehosk.medium.com/software-development-is-a-losers-game-fc68bb30d7eb
-- https://multithreaded.stitchfix.com/blog/2021/04/01/move-slow-make-things/
-- https://news.ycombinator.com/item?id=26668408
-- https://www.microsoftcoffee.org/
-
 # Introduction
 
-Third year and third post, to follow up on [2019]({{site.baseurl}}/2020/01/01/what-i-learned-this-year.html) and [2020]({{site.baseurl}}/2021/01/01/what-i-learned-this-year.html). I tried restricting my reddit and hacker news reflex with [LecchBlock](https://addons.mozilla.org/en-US/firefox/addon/leechblock-ng/), then I noticed I'd leave it disabled for days at a time, but it did help break the habit. Also this year I didn't read as many technical write-ups, and instead read more stuff on soft skills. With my new position I'm learning a lot on the job already, so I spend most of my free reading points on the meta of being in tech.
+Third year, third post, to follow up on [2019]({{site.baseurl}}/2020/01/01/what-i-learned-this-year.html) and [2020]({{site.baseurl}}/2021/01/01/what-i-learned-this-year.html). I tried restricting my reddit and hacker news reflex with [LecchBlock](https://addons.mozilla.org/en-US/firefox/addon/leechblock-ng/), then I noticed I'd leave it disabled for days at a time, but it did help break the habit. Also this year I didn't read as many technical write-ups, and instead read more stuff on soft skills. With my new position I'm learning a lot on the job already, so I spend most of my free reading points on the meta of being in tech.
 
 # Articles
 
@@ -35,13 +13,9 @@ Third year and third post, to follow up on [2019]({{site.baseurl}}/2020/01/01/wh
 > 450 keys of solid non-mx-browness and 433% the size of a normal full size, what more could you ask for?
 > - ren ♡
 
-[A visual guide to SSH tunnels](https://robotmoon.com/ssh-tunnels/): How SSH works, and some of it's various flags and features.
-
 [A worry junior engineers and new hires frequently have is that they ask too many questions.](https://threadreaderapp.com/thread/1220556930675904516.html): A good way to as questions as a junior developer, along with how to encourage it.
 
-[Again on 0-based vs. 1-based indexing](https://hisham.hm/2021/01/18/again-on-0-based-vs-1-based-indexing/): Another angle on the debate of zero versus one based indexing.
-
-[An easy way to bypass the Windows 95 login.](https://www.reddit.com/r/hacking/comments/17kp3h/an_easy_way_to_bypass_the_windows_95_login/): Along with some other interesting log-in bypasses for older Windows.
+[An easy way to bypass the Windows 95 login.](https://www.reddit.com/r/hacking/comments/17kp3h/an_easy_way_to_bypass_the_windows_95_login/): Along with other interesting log-in bypasses for older Windows versions.
 
 [Ask HN: Anyone know any funny programming jokes?](https://news.ycombinator.com/item?id=25850739): A thread of some great programming jokes.
 
@@ -51,7 +25,7 @@ Third year and third post, to follow up on [2019]({{site.baseurl}}/2020/01/01/wh
 > “Above all, do not lose your desire to walk. Everyday, I walk myself into a state of well-being & walk away from every illness. I have walked myself into my best thoughts, and I know of no thought so burdensome that one cannot walk away from it. But by sitting still, & the more one sits still, the closer one comes to feeling ill. Thus if one just keeps on walking, everything will be all right.”
 > ― [Søren Kierkegaard](https://news.ycombinator.com/item?id=26066345)
 
-[Free for developers](https://free-for.dev/#/): Like a [list](https://github.com/allthroughthenight/projects/commit/77de81dcb3466ebbec8f29af587a3f4517d6ade8) I tried to make, but way better.
+[Free for developers](https://free-for.dev/#/): A better version of my [attempt](https://github.com/allthroughthenight/projects/commit/77de81dcb3466ebbec8f29af587a3f4517d6ade8) at a similar list.
 
 [Goat Ops](http://www.goatops.com/): A guide on owning a farm with goats in case a career in tech doesn't pan out.
 
@@ -61,9 +35,19 @@ Third year and third post, to follow up on [2019]({{site.baseurl}}/2020/01/01/wh
 > Luck is what happens when preparation meets opportunity
 > - Seneca
 
-[I created a fake company to play around with spammers](https://threadreaderapp.com/thread/1360208504544444417.html): Like [Lenny](https://www.vice.com/en/article/d3b7na/the-story-of-lenny-the-internets-favorite-telemarketing-troll) but for email.
+[I created a fake company to play around with spammers](https://threadreaderapp.com/thread/1360208504544444417.html): Like [Lenny](https://www.vice.com/en/article/d3b7na/the-story-of-lenny-the-internets-favorite-telemarketing-troll) but for emails.
 
 [If you want a 12 hour break from Twitter just tweet this city name and you will be immediately locked ](https://threadreaderapp.com/thread/1371183849712009219.html): A bug in Twitter would flag accounts that tweeted about Memphis.
+
+[Leadership Soft Skills: Master Your Own Mind to Lead Your Team to Success](https://codingsans.com/blog/leadership-soft-skills): Common shortcomings and fixes to address them.
+
+[Mistakes I've Made as an Enginering manager](https://css-tricks.com/mistakes-ive-made-as-an-engineering-manager/):
+1. Thinking people give feedback the way they want to receive it
+2. Trying to do everything yourself as a manager is the best way to help
+3. Communicating something one time is enough
+4. You have to have everything together all the time
+
+[molly-guard](http://www.catb.org/jargon/html/M/molly-guard.html): A shield to prevent tripping of some Big Red Switch by clumsy or ignorant hands.
 
 [Netcode: Explaining how fighting games use delay-based and rollback netcode](https://ki.infil.net/w02-netcode.html): How fighting games use a different method for online netcode compared to other multiplayer games. See [this](https://www.youtube.com/watch?v=1RI5scXYhK0) and [this](https://www.youtube.com/watch?v=0NLe4IpdS1w) related videos.
 
@@ -92,7 +76,7 @@ Third year and third post, to follow up on [2019]({{site.baseurl}}/2020/01/01/wh
 
 [shitbowl](https://www.shitbowl.com/): The algorithmically powered in-home physical caching platform.
 
-[Skyline – Your GitHub story in 3D ](https://skyline.github.com/): View a 3D model of your GitHub contribution graph. Share it, print it, and more!
+[The Tao of Backup](http://taobackup.com/): The best practices for data backups, told in a narrative format, to help promote the [worldwide holiday](http://www.worldbackupday.com/).
 
 [Teaching Students how to Cheat During the Pandemic](https://daveeargle.com/2020/09/11/kobayashi-maru-proctorio-version/): Encouraging students on how to cheat, to understand how to imagine threats from adversarial perspectives.
 
@@ -100,7 +84,7 @@ Third year and third post, to follow up on [2019]({{site.baseurl}}/2020/01/01/wh
 
 [What language is this code written in and what does it do?](ttps://www.reddit.com/r/coding/comments/ysfe5/what_language_is_this_code_written_in_and_what/): A Reddit thread a pseudo-assembly language from Izzy's laptop in Digimon.
 
-[Who Are the Steely-Eyed Men of Sci-Fi?](https://vocal.media/futurism/who-are-the-steely-eyed-men-of-sci-fi): The history behind the line from The Martian.
+[Why All My Servers Have an 8GB Empty File](https://brianschrader.com/archive/why-all-my-servers-have-an-8gb-empty-file/): A simple hack to prevent full disc errors.
 
 [Why does it take so long to build software?](https://www.simplethread.com/why-does-it-take-so-long-to-build-software/): The impact of essential complexity, accidental complexity, outside shareholders, and business requirements.
 
