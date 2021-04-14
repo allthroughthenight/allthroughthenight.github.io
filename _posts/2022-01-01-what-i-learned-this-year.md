@@ -6,6 +6,9 @@ title: "What I Learned This Year"
 # TBD
 
 https://jacobian.org/2021/apr/7/embrace-the-grind/
+https://jacobian.org/2018/may/2/engmanager-reading-list/
+https://www.businessinsider.com/larry-page-the-untold-story-2014-4
+
 
 # Introduction
 
