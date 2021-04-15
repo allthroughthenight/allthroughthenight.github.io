@@ -5,16 +5,9 @@ title: "What I Learned This Year"
 
 # TBD
 
-https://jacobian.org/2021/apr/7/embrace-the-grind/
-https://jacobian.org/2018/may/2/engmanager-reading-list/
-https://threadreaderapp.com/thread/1382351985584721926.html
-https://www.businessinsider.com/larry-page-the-untold-story-2014-4
-https://suricrasia.online/iceberg/
-https://www.youtube.com/watch?v=XakfJ2spb3w
-https://news.ycombinator.com/item?id=26772565
-https://jerseyfonseca.com/blogs/wewatch
+https://jerseyfonseca.com/blogs/wewatch: me and bae got it, pretty neat! https://news.ycombinator.com/item?id=26765128
 https://www.dinopass.com/
-blog: how i changed my planning, from todo list to calendar to gdrive, changelog curl hn threat and email
+changelog curl hn threat and email: https://changelog.com/podcast/436, https://news.ycombinator.com/item?id=15225274, https://daniel.haxx.se/blog/2021/03/30/howto-backdoor-curl/
 
 # Introduction
 
