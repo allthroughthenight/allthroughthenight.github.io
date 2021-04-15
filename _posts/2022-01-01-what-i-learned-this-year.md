@@ -12,6 +12,8 @@ https://www.businessinsider.com/larry-page-the-untold-story-2014-4
 https://suricrasia.online/iceberg/
 https://www.youtube.com/watch?v=XakfJ2spb3w
 https://news.ycombinator.com/item?id=26772565
+https://jerseyfonseca.com/blogs/wewatch
+blog: how i changed my planning, from todo list to calendar to gdrive, changelog curl hn threat and email
 
 # Introduction
 
