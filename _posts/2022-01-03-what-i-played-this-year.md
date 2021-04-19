@@ -9,6 +9,8 @@ This year I focused on completing all my open world games, along with the games 
 
 # Games
 
+gods trigger, aztec, darksiders, tomb raider, enter the gungeon
+
 * 3 out of 10: A tongue-in-cheek series made by game devs, for game devs, about being a game dev.
 * A Short Hike: Another mountain climbing game with PSX style and charm.
 * Abzu: Less of a game and more of an interactive demo, but still relaxing and enjoyable.

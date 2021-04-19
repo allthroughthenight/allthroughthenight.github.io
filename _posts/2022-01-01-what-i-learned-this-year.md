@@ -8,6 +8,7 @@ title: "What I Learned This Year"
 https://jerseyfonseca.com/blogs/wewatch: me and bae got it, pretty neat! https://news.ycombinator.com/item?id=26765128
 https://www.dinopass.com/
 changelog curl hn threat and email: https://changelog.com/podcast/436, https://news.ycombinator.com/item?id=15225274, https://daniel.haxx.se/blog/2021/03/30/howto-backdoor-curl/
+https://news.ycombinator.com/item?id=26845811
 
 # Introduction
 
