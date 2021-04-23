@@ -10,6 +10,7 @@ https://www.dinopass.com/
 changelog curl hn threat and email: https://changelog.com/podcast/436, https://news.ycombinator.com/item?id=15225274, https://daniel.haxx.se/blog/2021/03/30/howto-backdoor-curl/
 https://news.ycombinator.com/item?id=26845811
 https://www.youtube.com/watch?v=K9gnRs33NOk
+https://signal.org/blog/cellebrite-vulnerabilities/
 
 # Introduction
 
