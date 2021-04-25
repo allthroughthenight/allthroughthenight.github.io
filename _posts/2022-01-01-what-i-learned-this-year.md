@@ -5,12 +5,13 @@ title: "What I Learned This Year"
 
 # TBD
 
-https://jerseyfonseca.com/blogs/wewatch: me and bae got it, pretty neat! https://news.ycombinator.com/item?id=26765128
-https://www.dinopass.com/
+me and bae got it, pretty neat: https://jerseyfonseca.com/blogs/wewatch, https://news.ycombinator.com/item?id=26765128
+cool password manager i use all the time https://www.dinopass.com/ also with temp-mail.org
 changelog curl hn threat and email: https://changelog.com/podcast/436, https://news.ycombinator.com/item?id=15225274, https://daniel.haxx.se/blog/2021/03/30/howto-backdoor-curl/
-https://news.ycombinator.com/item?id=26845811
-https://www.youtube.com/watch?v=K9gnRs33NOk
-https://signal.org/blog/cellebrite-vulnerabilities/
+everything easy is hard https://frankchimero.com/blog/2018/everything-easy/
+the dwindling sanity of valve devs https://www.youtube.com/watch?v=k238XpMMn38
+how pakistan broke the internet https://www.youtube.com/watch?v=K9gnRs33NOk
+phone data colllector doesn't avalidate and allows for arbitraty code execution https://signal.org/blog/cellebrite-vulnerabilities/
 
 # Introduction
 
