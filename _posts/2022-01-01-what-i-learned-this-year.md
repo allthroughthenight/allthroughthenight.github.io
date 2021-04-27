@@ -9,13 +9,14 @@ me and bae got it, pretty neat: https://jerseyfonseca.com/blogs/wewatch, https:/
 cool password manager i use all the time https://www.dinopass.com/ also with temp-mail.org
 changelog curl hn threat and email: https://changelog.com/podcast/436, https://news.ycombinator.com/item?id=15225274, https://daniel.haxx.se/blog/2021/03/30/howto-backdoor-curl/
 everything easy is hard https://frankchimero.com/blog/2018/everything-easy/
-the dwindling sanity of valve devs https://www.youtube.com/watch?v=k238XpMMn38
 how pakistan broke the internet https://www.youtube.com/watch?v=K9gnRs33NOk
-phone data colllector doesn't avalidate and allows for arbitraty code execution https://signal.org/blog/cellebrite-vulnerabilities/
+phone data collector doesn't validate and allows for arbitrary code execution https://signal.org/blog/cellebrite-vulnerabilities/
+mcdonalds ice cream machine: hn thread https://news.ycombinator.com/item?id=24861623 and related in depth video https://www.youtube.com/watch?v=SrDEtSlqJC4
+[This is inside the TF2 game files as "coconut.jpg". Why](https://www.reddit.com/r/tf2/comments/il8yyq/this_is_inside_the_tf2_game_files_as_coconutjpg/): It's in the title, along with [this](https://www.reddit.com/r/ProgrammerHumor/comments/mydmww/yeah_this_seems_about_right/) discussion about it.
 
 # Introduction
 
-Third year, third post, to follow up on [2019]({{site.baseurl}}/2020/01/01/what-i-learned-this-year.html) and [2020]({{site.baseurl}}/2021/01/01/what-i-learned-this-year.html). I tried restricting my reddit and hacker news reflex with [LecchBlock](https://addons.mozilla.org/en-US/firefox/addon/leechblock-ng/), then I noticed I'd leave it disabled for days at a time, but it did help break the habit. Also this year I didn't read as many technical write-ups, and instead read more stuff on soft skills. With my new position I'm learning a lot on the job already, so I spend most of my free reading points on the meta of being in tech.
+Third year, third post, to follow up on [2019]({{site.baseurl}}/2020/01/01/what-i-learned-this-year.html) and [2020]({{site.baseurl}}/2021/01/01/what-i-learned-this-year.html). I tried restricting my reddit and hacker news reflex with [LecchBlock](https://addons.mozilla.org/en-US/firefox/addon/leechblock-ng/), then I noticed I'd leave it disabled for days at a time, but it did help break the habit. Also this year I didn't read as many technical write-ups, and instead read more stuff on soft skills. With my new position I'm learning a lot on the job already, so I most of my free reading was about the meta of being in tech.
 
 # Articles
 
