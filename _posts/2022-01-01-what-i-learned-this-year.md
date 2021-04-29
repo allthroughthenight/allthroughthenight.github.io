@@ -8,6 +8,7 @@ title: "What I Learned This Year"
 me and bae got it, pretty neat: https://jerseyfonseca.com/blogs/wewatch, https://news.ycombinator.com/item?id=26765128
 cool password manager i use all the time https://www.dinopass.com/ also with temp-mail.org
 changelog curl hn threat and email: https://changelog.com/podcast/436, https://news.ycombinator.com/item?id=15225274, https://daniel.haxx.se/blog/2021/03/30/howto-backdoor-curl/
+reverse enginering for easter eggs https://benstoneonline.com/posts/microsoft-bob-easter-egg/
 everything easy is hard https://frankchimero.com/blog/2018/everything-easy/
 how pakistan broke the internet https://www.youtube.com/watch?v=K9gnRs33NOk
 phone data collector doesn't validate and allows for arbitrary code execution https://signal.org/blog/cellebrite-vulnerabilities/
