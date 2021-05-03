@@ -37,7 +37,7 @@ Third year, third post, to follow up on [2019]({{site.baseurl}}/2020/01/01/what-
 > “Above all, do not lose your desire to walk. Everyday, I walk myself into a state of well-being & walk away from every illness. I have walked myself into my best thoughts, and I know of no thought so burdensome that one cannot walk away from it. But by sitting still, & the more one sits still, the closer one comes to feeling ill. Thus if one just keeps on walking, everything will be all right.”
 > ― [Søren Kierkegaard](https://news.ycombinator.com/item?id=26066345)
 
-[Free for developers](https://free-for.dev/#/): A better version of my [attempt](https://github.com/allthroughthenight/projects/commit/77de81dcb3466ebbec8f29af587a3f4517d6ade8) at a similar list.
+[Free for developers](https://free-for.dev/#/): Also [this](https://github.com/255kb/stack-on-a-budget) similar site. Both are a better version of my [attempt](https://github.com/allthroughthenight/projects/commit/77de81dcb3466ebbec8f29af587a3f4517d6ade8) at a similar list.
 
 [Goat Ops](http://www.goatops.com/): A guide on owning a farm with goats in case a career in tech doesn't pan out.
 
