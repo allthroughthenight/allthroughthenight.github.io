@@ -3,19 +3,6 @@ layout: post
 title: "What I Learned This Year"
 ---
 
-# TBD
-
-me and bae got it, pretty neat: https://jerseyfonseca.com/blogs/wewatch, https://news.ycombinator.com/item?id=26765128
-cool password manager i use all the time https://www.dinopass.com/ also with temp-mail.org
-changelog curl hn threat and email: https://changelog.com/podcast/436, https://news.ycombinator.com/item?id=15225274, https://daniel.haxx.se/blog/2021/03/30/howto-backdoor-curl/
-can't be working all the time else stuff goes bad https://fs.blog/2021/05/slack/
-reverse enginering for easter eggs https://benstoneonline.com/posts/microsoft-bob-easter-egg/
-everything easy is hard https://frankchimero.com/blog/2018/everything-easy/
-how pakistan broke the internet https://www.youtube.com/watch?v=K9gnRs33NOk
-phone data collector doesn't validate and allows for arbitrary code execution https://signal.org/blog/cellebrite-vulnerabilities/
-mcdonalds ice cream machine: hn thread https://news.ycombinator.com/item?id=24861623 and related in depth video https://www.youtube.com/watch?v=SrDEtSlqJC4
-[This is inside the TF2 game files as "coconut.jpg". Why](https://www.reddit.com/r/tf2/comments/il8yyq/this_is_inside_the_tf2_game_files_as_coconutjpg/): It's in the title, along with [this](https://www.reddit.com/r/ProgrammerHumor/comments/mydmww/yeah_this_seems_about_right/) discussion about it.
-
 # Introduction
 
 Third year, third post, to follow up on [2019]({{site.baseurl}}/2020/01/01/what-i-learned-this-year.html) and [2020]({{site.baseurl}}/2021/01/01/what-i-learned-this-year.html). I tried restricting my reddit and hacker news reflex with [LecchBlock](https://addons.mozilla.org/en-US/firefox/addon/leechblock-ng/), then I noticed I'd leave it disabled for days at a time, but it did help break the habit. Also this year I didn't read as many technical write-ups, and instead read more stuff on soft skills. With my new position I'm learning a lot on the job already, so I most of my free reading was about the meta of being in tech.
@@ -26,9 +13,7 @@ Third year, third post, to follow up on [2019]({{site.baseurl}}/2020/01/01/what-
 > 450 keys of solid non-mx-browness and 433% the size of a normal full size, what more could you ask for?
 > - ren ♡
 
-[A worry junior engineers and new hires frequently have is that they ask too many questions.](https://threadreaderapp.com/thread/1220556930675904516.html): A good way to as questions as a junior developer, along with how to encourage it.
-
-[An easy way to bypass the Windows 95 login.](https://www.reddit.com/r/hacking/comments/17kp3h/an_easy_way_to_bypass_the_windows_95_login/): Along with other interesting log-in bypasses for older Windows versions.
+[A worry junior engineers and new hires frequently have is that they ask too many questions.](https://threadreaderapp.com/thread/1220556930675904516.html): A good way to ask questions as a junior developer, along with how to encourage it.
 
 [Ask HN: Anyone know any funny programming jokes?](https://news.ycombinator.com/item?id=25850739): A thread of some great programming jokes.
 
@@ -38,7 +23,11 @@ Third year, third post, to follow up on [2019]({{site.baseurl}}/2020/01/01/what-
 > “Above all, do not lose your desire to walk. Everyday, I walk myself into a state of well-being & walk away from every illness. I have walked myself into my best thoughts, and I know of no thought so burdensome that one cannot walk away from it. But by sitting still, & the more one sits still, the closer one comes to feeling ill. Thus if one just keeps on walking, everything will be all right.”
 > ― [Søren Kierkegaard](https://news.ycombinator.com/item?id=26066345)
 
-[Free for developers](https://free-for.dev/#/): Also [this](https://github.com/255kb/stack-on-a-budget) similar site. Both are a better version of my [attempt](https://github.com/allthroughthenight/projects/commit/77de81dcb3466ebbec8f29af587a3f4517d6ade8) at a similar list.
+[Efficiency is the Enemy](https://fs.blog/2021/05/slack/): By trying to work 100% of the time, you actually end up doing less.
+
+[Exploiting vulnerabilities in Cellebrite UFED and Physical Analyzer from an app's perspective](https://signal.org/blog/cellebrite-vulnerabilities/): Phone data collection device used by law enforncement allows for arbitrary code execution.
+
+[Free for developers](https://free-for.dev/#/): Also [this](https://github.com/255kb/stack-on-a-budget) similar site, both are better versions of my [attempt](https://github.com/allthroughthenight/projects/commit/77de81dcb3466ebbec8f29af587a3f4517d6ade8).
 
 [Goat Ops](http://www.goatops.com/): A guide on owning a farm with goats in case a career in tech doesn't pan out.
 
@@ -50,7 +39,7 @@ Third year, third post, to follow up on [2019]({{site.baseurl}}/2020/01/01/what-
 
 [I created a fake company to play around with spammers](https://threadreaderapp.com/thread/1360208504544444417.html): Like [Lenny](https://www.vice.com/en/article/d3b7na/the-story-of-lenny-the-internets-favorite-telemarketing-troll) but for emails.
 
-[If you want a 12 hour break from Twitter just tweet this city name and you will be immediately locked ](https://threadreaderapp.com/thread/1371183849712009219.html): A bug in Twitter would flag accounts that tweeted about Memphis.
+[I made a mobile app for my significant other and she won't use it](https://jerseyfonseca.com/blogs/wewatch): It's like Tinder, but for movies.
 
 [Leadership Soft Skills: Master Your Own Mind to Lead Your Team to Success](https://codingsans.com/blog/leadership-soft-skills): Common shortcomings and fixes to address them.
 
@@ -93,13 +82,13 @@ Third year, third post, to follow up on [2019]({{site.baseurl}}/2020/01/01/what-
 
 [Teaching Students how to Cheat During the Pandemic](https://daveeargle.com/2020/09/11/kobayashi-maru-proctorio-version/): Encouraging students on how to cheat, to understand how to imagine threats from adversarial perspectives.
 
-[This military graphic on electronic warfare should give everyone nightmares](https://taskandpurpose.com/mandatory-fun/worst-military-graphic-electronic-warfare/): The unique, and somewhat disturbing aspects of, of military design by committee effects, also known as [Armageddon Charts](https://www.microwaves101.com/encyclopedias/microwave-slang).
+[This is inside the TF2 game files as "coconut.jpg". Why](https://www.reddit.com/r/tf2/comments/il8yyq/this_is_inside_the_tf2_game_files_as_coconutjpg/): It's in the title, along with [this](https://www.reddit.com/r/ProgrammerHumor/comments/mydmww/yeah_this_seems_about_right/) discussion about it.
 
-[What language is this code written in and what does it do?](ttps://www.reddit.com/r/coding/comments/ysfe5/what_language_is_this_code_written_in_and_what/): A Reddit thread a pseudo-assembly language from Izzy's laptop in Digimon.
+[This military graphic on electronic warfare should give everyone nightmares](https://taskandpurpose.com/mandatory-fun/worst-military-graphic-electronic-warfare/): The unique, and somewhat disturbing aspects, of military design-by-committee effects, also known as [Armageddon Charts](https://www.microwaves101.com/encyclopedias/microwave-slang).
+
+[What language is this code written in and what does it do?](https://www.reddit.com/r/coding/comments/ysfe5/what_language_is_this_code_written_in_and_what/): A Reddit thread a pseudo-assembly language from Izzy's laptop in Digimon.
 
 [Why All My Servers Have an 8GB Empty File](https://brianschrader.com/archive/why-all-my-servers-have-an-8gb-empty-file/): A simple hack to prevent full disc errors.
-
-[Why does it take so long to build software?](https://www.simplethread.com/why-does-it-take-so-long-to-build-software/): The impact of essential complexity, accidental complexity, outside shareholders, and business requirements.
 
 [Write a letter to the future you](https://www.futureme.org/): I've been using this regularly for the past three years, and it's a great way to see how much you change each year.
 
@@ -111,18 +100,18 @@ Third year, third post, to follow up on [2019]({{site.baseurl}}/2020/01/01/what-
 
 [looks good](https://twitter.com/girayozil/status/306836785739210752)
 
-[My decision tree for learning something new in tech.](https://twitter.com/dabit3/status/1351237873522114561)
-
 [Sorry for rushing this a bit, but got home yet?](https://github.com/gkoberger/stacksort/pull/4#issuecomment-747656340)
 
 [Twilight - The Cold Ones](http://www.freezerstorageds.com/)
 
 # Videos
 
+[How Pakistan Broke YouTube Globally for Two Hours](https://www.youtube.com/watch?v=K9gnRs33NOk)
+
 [The Computer Chronicles](https://www.youtube.com/user/ComputerChroniclesYT)
 
 [The KGB, The Computer, and Me (Clifford Stoll: The Cuckoo's Egg)](https://www.youtube.com/watch?v=hTx9h3Sm29I)
 
-[The Lonely Orbit](https://laughingsquid.com/the-lonely-orbit/)
+[The REAL Reason McDonalds Ice Cream Machines Are Always Broken](https://www.youtube.com/watch?v=SrDEtSlqJC4)
 
 [Vintage Computer Pop-Up Book from 1984](https://www.youtube.com/watch?v=2NueRKhEwvY)
