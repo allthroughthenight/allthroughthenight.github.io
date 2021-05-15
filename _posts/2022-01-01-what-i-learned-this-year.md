@@ -98,6 +98,8 @@ Third year, third post, to follow up on [2019]({{site.baseurl}}/2020/01/01/what-
 
 [How long to hard-boil an egg? \[duplicate\]](https://devhumor.com/media/why-i-stopped-posting-to-stackoverflow)
 
+[i made doge in like 2 hours i didn't consider anything](https://twitter.com/BillyM2k/status/1392952014854778883)
+
 [looks good](https://twitter.com/girayozil/status/306836785739210752)
 
 [Sorry for rushing this a bit, but got home yet?](https://github.com/gkoberger/stacksort/pull/4#issuecomment-747656340)
