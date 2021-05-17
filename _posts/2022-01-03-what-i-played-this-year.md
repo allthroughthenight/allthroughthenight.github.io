@@ -19,6 +19,7 @@ gods trigger, aztec, darksiders, tomb raider, enter the gungeon
 * Lifeless planet: Another take at exploring at post-apocalyptic earth.
 * Megaman X4: A childhood dream 100% completed, and it was still as hard as I remembered it.
 * Pikuniku: Cute and fun, and also a decent plaformer.
+* Shadow Warrior 2: Reviving an older franchise, but it doesn't work with the same hurmor and jokes.
 * Sludge Life: If only digging through the garbage was this fun in real life.
 * Star Wars Battlefront 2: Another epic Star Wars shooter with a good mix getting to play as the Rebels and Empire, and various mission on-foot and in vehicles.
 * SUPERHOT: You have to check out this game. It's the most innovative shooter I've played in years.
