@@ -103,6 +103,10 @@ https://www.reddit.com/r/army/comments/nsb6z4/i_automated_some_xo_toc_tasks/
 
 [looks good](https://twitter.com/girayozil/status/306836785739210752)
 
+[our github bot just got a job offer](https://twitter.com/mattrickard/status/941065444919840769)
+
+[So this just happened](https://twitter.com/gabro27/status/1173547934132178944)
+
 [Sorry for rushing this a bit, but got home yet?](https://github.com/gkoberger/stacksort/pull/4#issuecomment-747656340)
 
 [Twilight - The Cold Ones](http://www.freezerstorageds.com/)
