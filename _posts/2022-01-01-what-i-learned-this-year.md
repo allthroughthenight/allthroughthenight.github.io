@@ -3,6 +3,8 @@ layout: post
 title: "What I Learned This Year"
 ---
 
+https://news.ycombinator.com/item?id=27589127
+
 # Introduction
 
 Third year, third post, to follow up on [2019]({{site.baseurl}}/2020/01/01/what-i-learned-this-year.html) and [2020]({{site.baseurl}}/2021/01/01/what-i-learned-this-year.html). I tried restricting my reddit and hacker news reflex with [LecchBlock](https://addons.mozilla.org/en-US/firefox/addon/leechblock-ng/), then I noticed I'd leave it disabled for days at a time, but it did help break the habit. Also this year I didn't read as many technical write-ups, and instead read more stuff on soft skills. With my new position I'm learning a lot on the job already, so I most of my free reading was about the meta of being in tech.
