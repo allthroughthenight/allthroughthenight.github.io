@@ -107,6 +107,8 @@ https://www.reddit.com/r/army/comments/nsb6z4/i_automated_some_xo_toc_tasks/
 
 [our github bot just got a job offer](https://twitter.com/mattrickard/status/941065444919840769)
 
+[Smart Meter Hacking - Decoding GPS Coordinates](https://www.youtube.com/watch?v=Y_sh605Q7oA)
+
 [So this just happened](https://twitter.com/gabro27/status/1173547934132178944)
 
 [Sorry for rushing this a bit, but got home yet?](https://github.com/gkoberger/stacksort/pull/4#issuecomment-747656340)
