@@ -113,6 +113,8 @@ https://www.reddit.com/r/army/comments/nsb6z4/i_automated_some_xo_toc_tasks/
 
 [Sorry for rushing this a bit, but got home yet?](https://github.com/gkoberger/stacksort/pull/4#issuecomment-747656340)
 
+[The Machine](https://existentialcomics.com/comic/1)
+
 [Twilight - The Cold Ones](http://www.freezerstorageds.com/)
 
 # Videos
