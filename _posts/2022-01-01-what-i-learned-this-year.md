@@ -128,3 +128,5 @@ https://www.reddit.com/r/army/comments/nsb6z4/i_automated_some_xo_toc_tasks/
 [The REAL Reason McDonalds Ice Cream Machines Are Always Broken](https://www.youtube.com/watch?v=SrDEtSlqJC4)
 
 [Vintage Computer Pop-Up Book from 1984](https://www.youtube.com/watch?v=2NueRKhEwvY)
+
+[We Recreated the Windows XP Wallpaper 'Bliss'](https://www.youtube.com/watch?v=9FoC2xKqAAo)
