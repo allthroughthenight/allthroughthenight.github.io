@@ -15,6 +15,10 @@ https://www.theregister.com/2021/07/05/infinidash/
 
 https://www.reddit.com/r/army/comments/nsb6z4/i_automated_some_xo_toc_tasks/
 
+https://www.youtube.com/watch?v=YcpSvHpbHQ4
+
+https://news.ycombinator.com/item?id=27803146
+
 # Articles
 
 [433% Keyboard](https://relivesight.com/projects/433/)
