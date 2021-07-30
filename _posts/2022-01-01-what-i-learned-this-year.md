@@ -19,6 +19,8 @@ https://www.youtube.com/watch?v=YcpSvHpbHQ4
 
 https://news.ycombinator.com/item?id=27803146
 
+https://unix.stackexchange.com/questions/405783/why-does-man-print-gimme-gimme-gimme-at-0030
+
 # Articles
 
 [433% Keyboard](https://relivesight.com/projects/433/)
