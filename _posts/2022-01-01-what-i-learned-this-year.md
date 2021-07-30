@@ -21,6 +21,8 @@ https://news.ycombinator.com/item?id=27803146
 
 https://unix.stackexchange.com/questions/405783/why-does-man-print-gimme-gimme-gimme-at-0030
 
+https://math.stackexchange.com/questions/4207222/why-does-turn-turn-turn-equal-241217-524881
+
 # Articles
 
 [433% Keyboard](https://relivesight.com/projects/433/)
