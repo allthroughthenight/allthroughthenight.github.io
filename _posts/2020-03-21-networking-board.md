@@ -11,10 +11,10 @@ I started by looking for compatible devices, and set a budget based on average p
 
 My next goal is to flash my Linksys WRT with [openWRT](https://openwrt.org), but I've only had it for a few months, so I'd like to enjoy everything working for a bit before I risk bricking it. I didn't bother with cable management either since I know I'll change everything in a few months, and make it easier to change later.
 
+![]({{site.baseurl}}/assets/2020-03-21-networking-board/network-diagram.png)
+
+###### Device diagram
+
 ![]({{site.baseurl}}/assets/2020-03-21-networking-board/network-board.jpg)
 
 ###### The completed build
-
-![]({{site.baseurl}}/assets/2020-03-21-networking-board/network-diagram.png)
-
-###### Device diagram 
