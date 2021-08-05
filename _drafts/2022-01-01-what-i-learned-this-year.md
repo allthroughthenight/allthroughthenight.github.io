@@ -23,6 +23,14 @@ https://unix.stackexchange.com/questions/405783/why-does-man-print-gimme-gimme-g
 
 https://math.stackexchange.com/questions/4207222/why-does-turn-turn-turn-equal-241217-524881
 
+https://www.hanselman.com/blog/whats-the-difference-between-a-console-a-terminal-and-a-shell
+
+https://news.ycombinator.com/item?id=28052190
+
+https://news.ycombinator.com/item?id=28058816
+
+https://news.ycombinator.com/item?id=28054789
+
 # Articles
 
 [433% Keyboard](https://relivesight.com/projects/433/)
