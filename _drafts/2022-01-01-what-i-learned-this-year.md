@@ -33,6 +33,8 @@ https://news.ycombinator.com/item?id=28054789
 
 https://www.youtube.com/watch?v=elqAh3GWRpA
 
+https://www.sans.org/newsletters/ouch/
+
 # Articles
 
 [433% Keyboard](https://relivesight.com/projects/433/)
