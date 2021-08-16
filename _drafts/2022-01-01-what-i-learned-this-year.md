@@ -3,39 +3,9 @@ layout: post
 title: "What I Learned This Year"
 ---
 
-https://news.ycombinator.com/item?id=27589127
-
 # Introduction
 
 Third year, third post, to follow up on [2019]({{site.baseurl}}/2020/01/01/what-i-learned-this-year.html) and [2020]({{site.baseurl}}/2021/01/01/what-i-learned-this-year.html). I tried restricting my reddit and hacker news reflex with [LecchBlock](https://addons.mozilla.org/en-US/firefox/addon/leechblock-ng/), then I noticed I'd leave it disabled for days at a time, but it did help break the habit. Also this year I didn't read as many technical write-ups, and instead read more stuff on soft skills. With my new position I'm learning a lot on the job already, so I most of my free reading was about the meta of being in tech.
-
-https://www.reddit.com/r/halo/comments/kn5zxu/in_the_18_years_ive_played_halo_i_have_never_seen/ghj2a8x/
-
-https://www.theregister.com/2021/07/05/infinidash/
-
-https://www.reddit.com/r/army/comments/nsb6z4/i_automated_some_xo_toc_tasks/
-
-https://www.youtube.com/watch?v=YcpSvHpbHQ4
-
-https://news.ycombinator.com/item?id=27803146
-
-https://unix.stackexchange.com/questions/405783/why-does-man-print-gimme-gimme-gimme-at-0030
-
-https://math.stackexchange.com/questions/4207222/why-does-turn-turn-turn-equal-241217-524881
-
-https://www.hanselman.com/blog/whats-the-difference-between-a-console-a-terminal-and-a-shell
-
-https://news.ycombinator.com/item?id=28052190
-
-https://news.ycombinator.com/item?id=28058816
-
-https://news.ycombinator.com/item?id=28054789
-
-https://www.youtube.com/watch?v=elqAh3GWRpA
-
-https://www.sans.org/newsletters/ouch/
-
-https://kidpix.app/
 
 # Articles
 
@@ -45,7 +15,11 @@ https://kidpix.app/
 
 [A worry junior engineers and new hires frequently have is that they ask too many questions.](https://threadreaderapp.com/thread/1220556930675904516.html): A good way to ask questions as a junior developer, along with how to encourage it.
 
+[A sewing page that never closed its font size HTML tags](https://web.archive.org/web/20140310190221/http://www.sewingandembroiderywarehouse.com/embtrb.htm): A humorous effect from some typos, but rendering also depends on your web browser.
+
 [Ask HN: Anyone know any funny programming jokes?](https://news.ycombinator.com/item?id=25850739): A thread of some great programming jokes.
+
+[Bye CUPS: Printing with netcat](https://retrohacker.substack.com/p/bye-cups-printing-with-netcat): Sending a file to a printer via it's IP address and netcat.
 
 [Cookie Consent Speed run](https://cookieconsentspeed.run/): How fast can you consent to a cookie banner? [This](https://termsandconditions.game/) is also related.
 
@@ -67,9 +41,18 @@ https://kidpix.app/
 > Luck is what happens when preparation meets opportunity
 > - Seneca
 
+[I automated some XO / TOC tasks](https://www.reddit.com/r/army/comments/nsb6z4/i_automated_some_xo_toc_tasks/): A high-speed soldier's project to automatically submit trip tickets Trip Tickets.
+
 [I created a fake company to play around with spammers](https://threadreaderapp.com/thread/1360208504544444417.html): Like [Lenny](https://www.vice.com/en/article/d3b7na/the-story-of-lenny-the-internets-favorite-telemarketing-troll) but for emails.
 
+[I have never seen an elite do this](https://www.reddit.com/r/halo/comments/kn5zxu/in_the_18_years_ive_played_halo_i_have_never_seen/ghj2a8x/): A game modder explains the script of a Halo 2 easter egg from when they decompiled it.
+
 [I made a mobile app for my significant other and she won't use it](https://jerseyfonseca.com/blogs/wewatch): It's like Tinder, but for movies.
+
+[Inverse Moore's Lay](https://news.ycombinator.com/item?id=27589127)
+>  We've entered Inverse Moore's Law: every two years single core performance drops 20% as optimizations exploits are mitigated. 
+
+[KidPix js](https://kidpix.app/): A browser implementation of the classic program.
 
 [Leadership Soft Skills: Master Your Own Mind to Lead Your Team to Success](https://codingsans.com/blog/leadership-soft-skills): Common shortcomings and fixes to address them.
 
@@ -90,6 +73,8 @@ https://kidpix.app/
 4. If your hypothesis was incorrect, return to step 2. Understand why that change didn't do what you thought it would, and develop a new hypothesis.
 5. Once you have working code, improve its quality. Write a test (or a few) that document the changes in behavior you made. Refactor your code for clarity and style.
 
+[New mystery AWS product 'Infinidash' goes viral — despite being entirely fictional](https://www.theregister.com/2021/07/05/infinidash/): A joke AWS service goes viral.
+
 [on: Maximizing Developer Effectiveness](https://news.ycombinator.com/item?id=25800830):
 > Here I am, a productive developer eager to deliver maximum value to my customers and apply my innovation to company goals.
 > Open up JIRA and pick up a unit of work to produce today -- gotta stay faithful to those story points!
@@ -106,6 +91,10 @@ https://kidpix.app/
 > The next logical step would be to train an adversarial AI against the hiring AI. You'd have the system generate your resume and application to maximize your chances. Then the hiring AI would need to be re-trained to account for this. And so on.
 > In the far future, this feedback loop creates an economy where every job application is total gibberish. No human can possibly explain why their resume is a recipe for carne asada, an excerpt from Moby Dick, and a bunch of windings. But supposedly it's predicted to increase final offer salary by 13.54%, so nobody questions it. Anybody who still writes out their resume by hand is considered a luddite weirdo, and definitely not someone you'd want to have join your company. 
 
+[OUCH! Newsletter](https://www.sans.org/newsletters/ouch/): A simple tech newsletter for anyone not in tech.
+
+[Print a WiFi Login Card](https://wificard.io/): Generate a QR code to join a WiFi network.
+
 [shitbowl](https://www.shitbowl.com/): The algorithmically powered in-home physical caching platform.
 
 [The Tao of Backup](http://taobackup.com/): The best practices for data backups, told in a narrative format, to help promote the [worldwide holiday](http://www.worldbackupday.com/).
@@ -118,7 +107,11 @@ https://kidpix.app/
 
 [What language is this code written in and what does it do?](https://www.reddit.com/r/coding/comments/ysfe5/what_language_is_this_code_written_in_and_what/): A Reddit thread a pseudo-assembly language from Izzy's laptop in Digimon.
 
+[What's the difference between a console, a terminal, and a shell?](https://www.hanselman.com/blog/whats-the-difference-between-a-console-a-terminal-and-a-shell): The history behind the pedantic semantics.
+
 [Why All My Servers Have an 8GB Empty File](https://brianschrader.com/archive/why-all-my-servers-have-an-8gb-empty-file/): A simple hack to prevent full disc errors.
+
+[Why does man print “gimme gimme gimme” at 00:30?](https://unix.stackexchange.com/questions/405783/why-does-man-print-gimme-gimme-gimme-at-0030): The explination (and fix) for a timed based easter egg.
 
 [Write a letter to the future you](https://www.futureme.org/): I've been using this regularly for the past three years, and it's a great way to see how much you change each year.
 
@@ -146,6 +139,8 @@ https://kidpix.app/
 
 # Videos
 
+[Explanation of cracking a combo lock in 8 attempts or less!](https://www.youtube.com/watch?v=qkolWO6pAL8)
+
 [How Pakistan Broke YouTube Globally for Two Hours](https://www.youtube.com/watch?v=K9gnRs33NOk)
 
 [The Computer Chronicles](https://www.youtube.com/user/ComputerChroniclesYT)
@@ -153,6 +148,8 @@ https://kidpix.app/
 [The KGB, The Computer, and Me (Clifford Stoll: The Cuckoo's Egg)](https://www.youtube.com/watch?v=hTx9h3Sm29I)
 
 [The REAL Reason McDonalds Ice Cream Machines Are Always Broken](https://www.youtube.com/watch?v=SrDEtSlqJC4)
+
+[The Fall of Minecraft's 2b2t](https://www.youtube.com/watch?v=elqAh3GWRpA)
 
 [Vintage Computer Pop-Up Book from 1984](https://www.youtube.com/watch?v=2NueRKhEwvY)
 
