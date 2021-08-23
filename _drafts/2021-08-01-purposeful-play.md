@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Planned Play"
+title: "Purposeful Play"
 ---
 
 # Introduction
