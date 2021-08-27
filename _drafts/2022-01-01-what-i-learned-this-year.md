@@ -13,6 +13,8 @@ https://soflete.com/blogs/knowledge/why-high-performers-feel-awkward
 
 https://growth.design/case-studies/
 
+https://news.ycombinator.com/item?id=28312632
+
 [433% Keyboard](https://relivesight.com/projects/433/)
 > 450 keys of solid non-mx-browness and 433% the size of a normal full size, what more could you ask for?
 > - ren ♡
