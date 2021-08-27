@@ -11,6 +11,8 @@ Third year, third post, to follow up on [2019]({{site.baseurl}}/2020/01/01/what-
 
 https://soflete.com/blogs/knowledge/why-high-performers-feel-awkward
 
+https://growth.design/case-studies/
+
 [433% Keyboard](https://relivesight.com/projects/433/)
 > 450 keys of solid non-mx-browness and 433% the size of a normal full size, what more could you ask for?
 > - ren ♡
