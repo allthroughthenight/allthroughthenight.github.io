@@ -13,6 +13,8 @@ https://soflete.com/blogs/knowledge/why-high-performers-feel-awkward
 
 https://growth.design/case-studies/
 
+https://ux.stackexchange.com/questions/11229/is-this-rotating-cube-interface-user-friendly
+
 https://news.ycombinator.com/item?id=28312632
 
 [433% Keyboard](https://relivesight.com/projects/433/)
