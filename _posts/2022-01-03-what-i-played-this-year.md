@@ -3,18 +3,17 @@ layout: post
 title: "What I Played This Year"
 ---
 
-# Introduction
-
-This year I focused on completing all my open world games, along with the games that are more like interactive experiences that you can finish in an afternoon. I finished one late in the year that I played way earlier, so I figured I'd have the momentum to continue into this year. Along with the free games that Epic gives out for my Home Theater PC so I can still game but away from my desktop computer.
+This year I focused on completing all my open world games, along with the games that are more like interactive experiences that you can finish in one day. I also played a lot of free games from Epic Games that worked on my Home Theater PC, so I was able to play away from my desktop computer.
 
 # Games
-
-gods trigger, aztec, darksiders, tomb raider, enter the gungeon
 
 * 3 out of 10: A tongue-in-cheek series made by game devs, for game devs, about being a game dev.
 * A Short Hike: Another mountain climbing game with PSX style and charm.
 * Abzu: Less of a game and more of an interactive demo, but still relaxing and enjoyable.
+* Aztez: Side scrolling combo combat that rewards execution and creativity.
 * Batman - Arkham City: This game really makes you feel like Batman.
+* Darksiders: A great example of a 7th gen 3rd person action adventure platformer.
+* Gods Trigger: Twin stick shooter action with flair to spare.
 * Inner Space: An exploration game that happens to involve flying.
 * Lifeless planet: Another take at exploring at post-apocalyptic earth.
 * Megaman X4: A childhood dream 100% completed, and it was still as hard as I remembered it.
@@ -26,5 +25,6 @@ gods trigger, aztec, darksiders, tomb raider, enter the gungeon
 * The Alto Collection: Zen snowboarding and lamas for a chilled out experience.
 * The Messenger: A great platformer with a cool twist, but still didn't win me over as a metro-vania.
 * Tom Clancy's Ghost Recon - Wildlands: A solid 3rd person tactical shooting with solid mechanics, and an open world worth exploring.
+* Tomb Raider (2013): A gritty reimagining of the classic adventure heroine.
 * Watch_Dogs 2: If GTA V was in San Francisco, with a focus on stealth and puzzle solving instead of combat and shooting.
 * Wolfenstien - The Old Blood: Another boomer-shooter sequel revamped for modern times.

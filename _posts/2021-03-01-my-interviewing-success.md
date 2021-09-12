@@ -3,8 +3,6 @@ layout: post
 title: "My Interviewing Success"
 ---
 
-# Introduction
-
 I've have a [few](https://allthroughthenight.github.io/2018/04/11/jump-start.html) [past](https://allthroughthenight.github.io/2018/05/03/virtually-interviewed.html) [posts](https://allthroughthenight.github.io/2020/07/11/a-good-interview.html) about my interviewing experiences, so recently I sat down and tried to remember my overall success and failures, if for no other reason, then to share that it's not uncommon to get rejected. And in true [r/cscareerquestion](https://www.reddit.com/r/cscareerquestions/) fashion, I made a [sankey diagram](http://sankeymatic.com/build/) to visualize how everything went.
 
 # 2017 Intership
@@ -27,4 +25,4 @@ My first SWE position was a learning experience, but for the wrong reasons. When
 
 # Overall
 
-Since the two major job I landed were from referrals, my best advice would be to stay in touch with your contacts and network. You never know when it'll pay off.
+Since the two major job I landed were from referrals, my best advice would is stay in touch with your contacts and tap your network when needed.

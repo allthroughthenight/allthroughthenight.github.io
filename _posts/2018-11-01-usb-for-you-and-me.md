@@ -2,6 +2,7 @@
 layout: post
 title: "USB for You and Me"
 ---
+
 My workhorse laptop, an X230 Thinkpad, had gotten me through my undergrad, two jobs, and an internship. Since buying it I've double the RAM (from 4 to 8 GB), and swapped the hybrid 500GB HDD for a 128 SSD. Both were well spent and increased performance.
 
 During my move into a new place for my new job, I damaged my desktop PC's power supply. At the time the symptoms seemed more like it could've been the motherboard or even the CPU. But instead of ordering any parts, it'd be easier to do an hour drive to the nearest Fry's electronics store and troubleshoot there. But my budget at the time was air tight, so I decided to wait a few paychecks. In the meantime it was just me and my X230. No games, just the terminal and web surfing.

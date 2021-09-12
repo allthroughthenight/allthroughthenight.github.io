@@ -3,15 +3,11 @@ layout: post
 title: "What I Learned This Year"
 ---
 
-# Introduction
-
 This is a follow-up to my [previous post]({{site.baseurl}}/2020/01/01/what-i-learned-this-year.html), which I hope I can keep going as a regular series.
 
 When I first started, after a few months I was wondering how this post was almost as long as the previous one but covering less time. Going over it, I noticed that I fixated on articles that'd bemoan the strifes on working in tech. But I want to keep the tone of this positive, so I removed all that stuff, and made sure everything is focused more on tech than just what I found interesting in general.
 
 # Articles
-
-[A Guy Walks Into an Apple Store](https://birchtree.me/blog/a-guy-walks-into-an-apple-store/): How to know if you're getting the true and entire Apple experience.
 
 [A Spectre is Haunting Unicode](https://www.dampfkraft.com/ghost-characters.html): How errors are still present in Japanese Kanji font encodings from when they were first transcribed in the 70s.
 
@@ -26,8 +22,6 @@ When I first started, after a few months I was wondering how this post was almos
 [Docker for Windows won't run if you have the Razer Synapse driver management tool running](https://threadreaderapp.com/thread/1229641258370355200.html): Both applications lock the wrong system-wide global check to ensure that only one instance of an application runs, but then neither of them can run at the same time.
 
 [extra line breaks on event description](https://support.google.com/calendar/thread/29336031?hl=en): An explanation as to why I always have to use Notepad to normalize new lines whenever I edit events on Google Calendar.
-
-[elsamuko/Shirt-without-Stripes](https://github.com/elsamuko/Shirt-without-Stripes): A collection of incorrect search result when queried with "shirts without stripes".
 
 [Falling Into The Pit of Success](https://blog.codinghorror.com/falling-into-the-pit-of-success/):
 > "The Pit of Success: in stark contrast to a summit, a peak, or a journey across a desert to find victory through many trials and surprises, we want our customers to simply fall into winning practices by using our platform and frameworks."
@@ -65,8 +59,6 @@ When I first started, after a few months I was wondering how this post was almos
 [No Hello](https://www.nohello.com/): When asking a question in a text chat, include it with your greeting. Though it makes sense when speaking IRL, it saves time with text since typing saves time.
 
 [Pressing YubiKeys](https://bert.org/2020/10/01/pressing-yubikeys/): A complex solution, to the simple problem of pressing a button with another button.
-
-[Programming Trick Question](https://qntm.org/trick): Answers to three common programming interview questions.
 
 [Sell yourself, Sell Your Work](https://www.solipsys.co.uk/new/SellYourselfSellYourWork.html?te20hn): Being able to talk about your technical accomplishments is important, as it allows you to show your value to an organization.
 
@@ -118,8 +110,6 @@ When I first started, after a few months I was wondering how this post was almos
 [How I asked EVERY countrys embassy for flags](https://www.youtube.com/watch?v=Jbix9y8iV38)
 
 [I Built a REAL-LIFE Time Machine! 🕒⚡](https://www.youtube.com/watch?v=aHyNYfFfXlg)
-
-[If American Psycho were about Programmers](https://www.youtube.com/watch?v=uHt01D6rOLI)
 
 [Pack.PNG has been FOUND! - Here's how they did it.](https://www.youtube.com/watch?v=ea6py9q46QU)
 

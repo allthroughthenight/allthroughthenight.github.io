@@ -3,9 +3,7 @@ layout: post
 title: "What I Played This Year"
 ---
 
-# Introduction
-
-Gaming isn't that unique to tech, but I've gotten better at completing games and wanted to share. If I could summarize the past year, it was the year of platformers. I won't deep dive about each game and just give a short line about them, and if it's here then I like it.
+Gaming isn't unique to tech, but I've gotten better at working on my backlog, and i short, it was the year of platformers.
 
 # Games
 

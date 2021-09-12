@@ -3,9 +3,7 @@ layout: post
 title: "What I Learned This Year"
 ---
 
-# Introduction
-
-I though this post would just interesting articles I read this year, but as I started working on it I blurred the line, going farther back, and the post got bloated. So instead, this post covers most everything I've learned since I started my undergrad, up to the end of this year.
+I though this post would just interesting articles I read this year, but as I started working on it I blurred the line, going farther back, and the post got bloated. So instead, this post covers from when I started my undergrad, up to the end of last year.
 
 # Articles
 

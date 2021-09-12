@@ -3,9 +3,7 @@ layout: post
 title: "What I Read This Year"
 ---
 
-# Introduction
-
-The title is self explanatory, but if you want more details you can read [this]({{site.baseurl}}/2020/01/02/what-i-read-this-year.html) and [thist]({{site.baseurl}}/2020/10/01/how-i-read.html) post can explain this list. Enjoy!
+The title is self explanatory, but these [two]({{site.baseurl}}/2020/01/02/what-i-read-this-year.html) [posts]({{site.baseurl}}/2020/10/01/how-i-read.html) give context.
 
 # Books
 
