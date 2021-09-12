@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Merge It"
+title: "Just Gonna Merge It"
 ---
 
 In a previous software job, I was asked to integrate work from a previous team. Due to the complexity of the system, it'd boil down to reading a diff of every changed file, then copy-pasting the lines of code over as needed. 
