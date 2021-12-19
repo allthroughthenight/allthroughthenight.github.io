@@ -7,6 +7,13 @@ A basic blog for my basic post, all views are my own.
 * All-in-one VM set-up via Ansible and Vagrant
 * Better understanding of overall static site generators and less-copy-pasta of commands (ಠ_ಠ)
 
+## Topics
+
+* openwrt: blog post pushing packet pushers
+* https://www.gfisk.com/disk-clone-windows-activation-0xc004c008/
+  * seems like mscft knows when windows is installed on more than one disc
+* how i back-up and stuff now with gdrive instead of rclone anymore
+
 ## Formatting Notes
 
 ```
