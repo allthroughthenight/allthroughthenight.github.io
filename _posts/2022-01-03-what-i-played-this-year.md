@@ -3,7 +3,7 @@ layout: post
 title: "What I Played This Year"
 ---
 
-This year I focused on completing all my open world games, along with the games that are more like interactive experiences that you can finish in one day. I also played a lot of free games from Epic Games that worked on my Home Theater PC, so I was able to play away from my desktop computer.
+This year I focused on completing most of my open world games, along with the games that are more like interactive experiences that you can finish in one day. I also played a lot of free games from Epic Games that worked on my Home Theater PC, so I was able to play away from my desktop computer.
 
 # Games
 
@@ -12,6 +12,8 @@ This year I focused on completing all my open world games, along with the games 
 * Abzu: Less of a game and more of an interactive demo, but still relaxing and enjoyable.
 * Aztez: Side scrolling combo combat that rewards execution and creativity.
 * Batman - Arkham City: This game really makes you feel like Batman.
+* Control: It felt more like an homage to Cold-War era government than a 3rd person action game.
+* Cyberpunk 2077: It not the same calibur as CDPR's other open-world games, but waiting a year for all the bugs to be fixed was worth it.
 * Darksiders: A great example of a 7th gen 3rd person action adventure platformer.
 * Gods Trigger: Twin stick shooter action with flair to spare.
 * Inner Space: An exploration game that happens to involve flying.
@@ -21,6 +23,7 @@ This year I focused on completing all my open world games, along with the games 
 * Shadow Warrior 2: Reviving an older franchise, but it doesn't work with the same hurmor and jokes.
 * Sludge Life: If only digging through the garbage was this fun in real life.
 * Star Wars Battlefront 2: Another epic Star Wars shooter with a good mix getting to play as the Rebels and Empire, and various mission on-foot and in vehicles.
+* Super Mario Odyssey: Classic 3-D Mario makes for another Nintendo classic.
 * SUPERHOT: You have to check out this game. It's the most innovative shooter I've played in years.
 * The Alto Collection: Zen snowboarding and lamas for a chilled out experience.
 * The Messenger: A great platformer with a cool twist, but still didn't win me over as a metro-vania.

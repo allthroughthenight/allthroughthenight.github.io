@@ -15,6 +15,8 @@ The next step was a [split mechanical keyboard](https://github.com/diimdeep/awes
 
 #### Needs pictures ma dewd
 
+default layout: https://docs.keeb.io/assets/files/keymap_Iris_rev5-d4bcf1f19bc0d06c9bd96e9bd73efbd0.pdf
+
 My future plans for my Iris aren't ambitious, just want to be able to tent it and get some nicer keycaps. My real end goal is a [Dactyl Manuform](https://github.com/abstracthat/dactyl-manuform), but I'd like to first get comfortable with a split and ortholiear keyboard before I jump into one that's also parameterized and concaved.
 
 # Desk

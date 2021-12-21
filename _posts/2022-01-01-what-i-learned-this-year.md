@@ -13,6 +13,8 @@ Third year, third post, to follow up on [2019]({{site.baseurl}}/2020/01/01/what-
 
 [A worry junior engineers and new hires frequently have is that they ask too many questions.](https://threadreaderapp.com/thread/1220556930675904516.html): A good way to ask questions as a junior developer, along with how to encourage it.
 
+[Against 3X Speed](https://perell.com/essay/against-3x-speed/): Listening to speed-up books, podcasts, and lectures to try and cram the information isn't worth it.
+
 [Bye CUPS: Printing with netcat](https://retrohacker.substack.com/p/bye-cups-printing-with-netcat): Sending a file to a printer via it's IP address and netcat.
 
 [Don’t Underestimate the Power of a Walk](https://hbr.org/2021/02/dont-underestimate-the-power-of-a-walk)
