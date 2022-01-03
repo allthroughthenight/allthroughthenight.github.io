@@ -16,8 +16,6 @@ Harry Potter: I grew up during the hype, but could never get into the books or m
 * Half-Blood Prince
 * Deathly Hallows
 
-Lord of the Rings: Yes, The Hobbit isn't part of TLotR trilogy, but I still read it anyways, and it served as a nice introduction to Tolkien's style. Which was definitely more expanded by the time I got to the trilogy.
+Lord of the Rings: Yes, The Hobbit isn't part of the trilogy, but I still read it anyways as an introduction to Tolkien's style. Even with that I couldn't finish the series. I think it's partly because I didn't completely [buy in](https://xkcd.com/483/), and I had the same issue when I tried reading Dune. It's a great book, but very exposition heavy in the beginning. In the end it's worth it, but it takes a few tries to get over the hump.
 * The Hobbit
-* The Fellowship of the Ring
-* The Two Towers
-* The Return of the King
+* The Fellowship of the Ring (up to Book II: The Ring Goes South)
