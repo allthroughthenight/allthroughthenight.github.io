@@ -13,6 +13,11 @@ title: "What I Learned This Year"
 
 [How to mentor software engineers](https://xdg.me/mentor-engineers/): How to tell if you're mentoring, and doing it correctly
 
+https://bishopfox.com/blog/unredacter-tool-never-pixelation
+
+
+https://sha256algorithm.com/
+
 [lorem ipsum](lorem ipsum): lorem ipsum lorem ipsum
 > lorem ipsum
 
