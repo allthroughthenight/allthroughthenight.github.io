@@ -18,6 +18,10 @@ https://bishopfox.com/blog/unredacter-tool-never-pixelation
 
 https://sha256algorithm.com/
 
+https://kunststube.net/encoding/
+
+https://googleprojectzero.blogspot.com/2021/12/a-deep-dive-into-nso-zero-click.html
+
 [lorem ipsum](lorem ipsum): lorem ipsum lorem ipsum
 > lorem ipsum
 
