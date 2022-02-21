@@ -15,6 +15,7 @@ title: "What I Learned This Year"
 
 https://bishopfox.com/blog/unredacter-tool-never-pixelation
 
+https://kaizoku.dev/htb-devoops
 
 https://sha256algorithm.com/
 
