@@ -23,6 +23,8 @@ https://kunststube.net/encoding/
 
 https://googleprojectzero.blogspot.com/2021/12/a-deep-dive-into-nso-zero-click.html
 
+https://erik.wiffin.com/posts/how-to-get-the-most-out-of-your-11s/
+
 [lorem ipsum](lorem ipsum): lorem ipsum lorem ipsum
 > lorem ipsum
 
