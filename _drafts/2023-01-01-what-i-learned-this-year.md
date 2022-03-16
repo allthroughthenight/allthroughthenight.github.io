@@ -25,6 +25,8 @@ https://googleprojectzero.blogspot.com/2021/12/a-deep-dive-into-nso-zero-click.h
 
 https://erik.wiffin.com/posts/how-to-get-the-most-out-of-your-11s/
 
+https://alexturek.com/2022-03-07-How-to-do-less/
+
 [lorem ipsum](lorem ipsum): lorem ipsum lorem ipsum
 > lorem ipsum
 
