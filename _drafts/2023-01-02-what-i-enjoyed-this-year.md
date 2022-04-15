@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "What I Enjoyed This Year"
+title: "What I Enjoyed This Year - 2022"
 ---
 
 Looking back at my media consumption over the past few years I saw a few issues:

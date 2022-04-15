@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "What I Read This Year"
+title: "What I Read This Year - 2019"
 ---
 
 This is somewhat similar to my [other post]({{site.baseurl}}/2020/01/01/what-i-learned-this-year.html), but I wanted to keep books I read separate from casual online browsing.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "What I Learned This Year"
+title: "What I Learned This Year - 2021"
 ---
 
 # Introduction

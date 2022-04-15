@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "What I Learned This Year"
+title: "What I Learned This Year - 2022"
 ---
 
 # Introduction
@@ -16,6 +16,10 @@ title: "What I Learned This Year"
 https://bishopfox.com/blog/unredacter-tool-never-pixelation
 
 https://kaizoku.dev/htb-devoops
+
+https://news.ycombinator.com/item?id=31028795
+
+https://news.ycombinator.com/item?id=30974544
 
 https://sha256algorithm.com/
 

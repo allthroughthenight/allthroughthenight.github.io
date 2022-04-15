@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "What I Learned This Year"
+title: "What I Learned This Year - 2020"
 ---
 
 This is a follow-up to my [previous post]({{site.baseurl}}/2020/01/01/what-i-learned-this-year.html), which I hope I can keep going as a regular series.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "What I Read This Year"
+title: "What I Read This Year - 2021"
 ---
 
 This year my new job exposed me to a lot of new concepts, so I decided on spending my reading time on fiction instead. The titles aren't revolutionary, but they're all new reads for me so I had fun.
