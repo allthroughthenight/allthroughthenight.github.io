@@ -15,6 +15,8 @@ title: "What I Learned This Year - 2022"
 
 https://bishopfox.com/blog/unredacter-tool-never-pixelation
 
+https://quuxplusone.github.io/blog/2022/01/06/memcached-interview/
+
 https://kaizoku.dev/htb-devoops
 
 https://news.ycombinator.com/item?id=31028795
