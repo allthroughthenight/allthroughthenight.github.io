@@ -19,3 +19,5 @@ convert -density 150 <input-file.pdf> -colorspace gray -linear-stretch 3.5%x10% 
 gs -dSAFER -dBATCH -dNOPAUSE -dNOCACHE -sDEVICE=pdfwrite -sColorConversionStrategy=LeaveColorUnchanged -dAutoFilterColorImages=true -dAutoFilterGrayImages=true -dDownsampleMonoImages=true -dDownsampleGrayImages=true -dDownsampleColorImages=true -sOutputFile=<output-file.pdf> temp.pdf
 
 https://news.ycombinator.com/item?id=23160387
+
+https://news.ycombinator.com/item?id=31083432
