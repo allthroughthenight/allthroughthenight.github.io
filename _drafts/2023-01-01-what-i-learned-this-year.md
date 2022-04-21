@@ -5,7 +5,9 @@ title: "What I Learned This Year - 2022"
 
 # Introduction
 
-
+automation?
+https://news.ycombinator.com/item?id=31073352
+https://news.ycombinator.com/item?id=30249518
 
 # Articles
 
