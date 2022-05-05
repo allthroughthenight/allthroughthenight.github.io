@@ -25,6 +25,8 @@ https://news.ycombinator.com/item?id=31028795
 
 https://news.ycombinator.com/item?id=30974544
 
+https://news.ycombinator.com/item?id=31250001
+
 https://sha256algorithm.com/
 
 https://kunststube.net/encoding/
