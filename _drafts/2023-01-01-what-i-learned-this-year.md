@@ -29,6 +29,8 @@ https://news.ycombinator.com/item?id=31250001
 
 https://sha256algorithm.com/
 
+https://johnpublic.mataroa.blog/blog/the-asshole-test/
+
 https://kunststube.net/encoding/
 
 https://googleprojectzero.blogspot.com/2021/12/a-deep-dive-into-nso-zero-click.html
