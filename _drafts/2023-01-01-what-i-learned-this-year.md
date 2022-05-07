@@ -5,48 +5,32 @@ title: "What I Learned This Year - 2022"
 
 # Introduction
 
-automation?
-https://news.ycombinator.com/item?id=31073352
-https://news.ycombinator.com/item?id=30249518
+Looking back at my media consumption over the past few years I saw a few issues:
+* [What I Read This Year: 2019]({{site.baseurl}}/2020/01/02/what-i-read-this-year.html): Most of the books I read using [my method]({{site.baseurl}}/2020/10/01/how-i-read.html), which is great for getting through a lot, but in retrospect it's left me with a lack of [deep understanding in the long run.](https://news.ycombinator.com/item?id=29621642)
+* [What I Played This Year: 2020]({{site.baseurl}}/2021/01/02/what-i-played-this-year.html): Less about games I really enjoyed, and more about finishing what I started (same for [2021]({{site.baseurl}}/2022/01/02/what-i-played-this-year.html)). And I think took away from my desire to read as much in [2021]({{site.baseurl}}/2022/01/01/what-i-read-this-year.html).
+
+Reading (another) [hn post](https://news.ycombinator.com/item?id=29755155) made me realize I'm not taking advantage of my youth. Not saying I should min-max my lifestyle, but forcing myself to get through games I'm apathetic about, or speeding through audiobook summaries I don't care, when I should go do stuff that I might not be able to a few years from now.
+
+This contradicts for how I want to [enjoy my free time]({{site.baseurl}}/2021/06/01/purposeful-play.html), but I'm just trying to find a balance. For now I'd like to merge these posts into a general Enjoyment post. And since this is more generic, I might've included other media like Movies and Shows, and other activities that are constant but don't need their own posts like [Gunpla](https://en.wikipedia.org/wiki/Gundam_model) and [Disc golf](https://en.wikipedia.org/wiki/Disc_golf).
 
 # Articles
 
 [Dark Web - Justice League](https://analyst1.com/blog/dark-web-justice-league): How honor is kept among cyber thieves
 
-[How to mentor software engineers](https://xdg.me/mentor-engineers/): How to tell if you're mentoring, and doing it correctly
+[How to Walk (12 miles a day)](https://walkingtheworld.substack.com/p/how-to-walk-12-miles-a-day): More [confirmation](https://hbr.org/2021/02/dont-underestimate-the-power-of-a-walk) on the benefits of walking regularly
 
-https://bishopfox.com/blog/unredacter-tool-never-pixelation
+[IBM's asshole test ](https://johnpublic.mataroa.blog/blog/the-asshole-test/): Judging candidates on how they react under pressure
 
-https://quuxplusone.github.io/blog/2022/01/06/memcached-interview/
+[How to get the most out of your 1:1s](https://erik.wiffin.com/posts/how-to-get-the-most-out-of-your-11s/): 
 
-https://kaizoku.dev/htb-devoops
+[How To Do Less](https://alexturek.com/2022-03-07-How-to-do-less/):
 
-https://news.ycombinator.com/item?id=31028795
+[Ask HN: How to improve as a struggling junior software engineer?](https://news.ycombinator.com/item?id=30974544):
 
-https://news.ycombinator.com/item?id=30974544
+[How to mentor software engineers](https://xdg.me/mentor-engineers/): How to tell if you're mentoring, and if you're doing it correctly
 
-https://news.ycombinator.com/item?id=31250001
+[Tell HN: Turned 44 today and I'm lost](https://news.ycombinator.com/item?id=31028795): 
 
-https://sha256algorithm.com/
+[My 30 years of dodging repetitive work with automation tools](https://www.tines.com/blog/my-thirty-years-of-dodging-repetitive-work-with-automation-tools): 
 
-https://johnpublic.mataroa.blog/blog/the-asshole-test/
-
-https://kunststube.net/encoding/
-
-https://googleprojectzero.blogspot.com/2021/12/a-deep-dive-into-nso-zero-click.html
-
-https://erik.wiffin.com/posts/how-to-get-the-most-out-of-your-11s/
-
-https://alexturek.com/2022-03-07-How-to-do-less/
-
-[lorem ipsum](lorem ipsum): lorem ipsum lorem ipsum
-> lorem ipsum
-
-[lorem ipsum](lorem ipsum): lorem ipsum lorem ipsum
-* lorem ipsum
-
-[lorem ipsum](lorem ipsum): lorem ipsum lorem ipsum
-
-# Pics and Posts
-
-# Videos
+[Automation is the serialization of understanding](https://changelog.com/posts/automation-is-the-serialization-of-understanding): [Kelsey Hightower's](https://en.wikipedia.org/wiki/Kelsey_Hightower) explains that some fail at automation because they don't have an understating
