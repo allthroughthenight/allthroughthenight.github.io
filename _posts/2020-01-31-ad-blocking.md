@@ -3,14 +3,14 @@ layout: post
 title: "Ad Blocking"
 ---
 
-It's been a long time coming, but I've finally set up my Raspberry Pi Pi-hole DNS sinkhole, and couldn't be happier.
+I finally set up my Pi-hole DNS sinkhole and couldn't be happier.
 
-The set-up is straight forward:
+Set-up is straight forward:
 1. Set-up Raspberry Pi with [Raspbian](https://www.raspberrypi.org/documentation/installation/installing-images/README.md)
 2. ssh with [default credentials](https://www.raspberrypi.org/forums/viewtopic.php?p=1107371#p1107371)
 3. Set-up [Pi-Hole](https://github.com/pi-hole/pi-hole/#one-step-automated-install)
 
-In case you can't hard wire your Raspberry Pi, see the exampled below for `/etc/wpa_supplicant/wpa_supplicant.conf` to connect to wifi:
+In case you can't hard wire your Raspberry Pi, see below for `/etc/wpa_supplicant/wpa_supplicant.conf` to connect to wifi:
 
 ```
 ctrl_interface=DIR=/var/run/wpa_supplicant GROUP=netdev

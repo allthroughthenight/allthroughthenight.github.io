@@ -15,13 +15,13 @@ For my senior summer in college, I tried for an internship anywhere to have some
 
 ![]({{site.baseurl}}/assets/2021-03-01-my-interviewing-success/2017-new-grad-job-hunt.png)
 
-Looking for a job as a new grad fresh out of college was rough. Luckily I was able to get a Software Engineer position by working with a recruiter.
+Looking for my first job as a new grad was rough. Luckily I was able to get a Software Engineer position by working with a recruiter.
 
 # 2020 New Job
 
 ![]({{site.baseurl}}/assets/2021-03-01-my-interviewing-success/2020-job-search.png)
 
-My first SWE position was a learning experience, but for the wrong reasons. When I started shopping on my own I didn't have much success, then a friend reached out and refereed me and I was able to move to a better position and company.
+My first position was a learning experience, but for the wrong reasons. When I started shopping on my own I didn't have much success, then a friend reached out and refereed me and I was able to move to a better position and company.
 
 # Overall
 

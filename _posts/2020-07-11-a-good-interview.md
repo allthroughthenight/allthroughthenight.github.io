@@ -3,7 +3,7 @@ layout: post
 title: "A Good Interview"
 ---
 
-I recently had an enjoyable technical interview experience with a large enterprise tech company. I could name them since I didn't sign an NDA for the process, but that's not the point. The point is, compared to other technical interviews which focus on your ability to memorize leet code solutions. This one was focused on me as an individual, and how my past work experience related to the tools and tech I've become proficient with. When it came to coding, everyone involved was focused on my problem solving process as a whole and how I talked through it. Along with any shortcomings I could see in my implementations and how would I address them, either now or later. There was 4 rounds spread out over one month, but I'd say total time from the first screening to receiving a verdict, it was about 11 hours combined.
+I recently had an enjoyable technical interview experience with a large enterprise tech company. Compared to other technical interviews which focus on your ability to memorize leet code solutions. This one was focused on me as an individual, and how my past work experience related to the tools and tech I've become proficient with. When it came to coding, everyone was focused on my problem solving process as a whole and how I talked through it, any shortcomings I saw in my implementations, and how would I address them, either now or later. There was 4 rounds spread out over one month, but active time from first screening to receiving a verdict was ~11 hours.
 
 ## The Rounds
 1. HR Phone Call (1 hour): Work background, education, and work status

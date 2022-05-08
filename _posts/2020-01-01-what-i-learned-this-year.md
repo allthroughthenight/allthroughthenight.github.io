@@ -3,7 +3,7 @@ layout: post
 title: "What I Learned This Year - 2019"
 ---
 
-I though this post would just interesting articles I read this year, but as I started working on it I blurred the line, going farther back, and the post got bloated. So instead, this post covers from when I started my undergrad, up to the end of last year.
+I though this post would just interesting articles I read this year, but as I started working on it I blurred the line, going farther back and the post got bloated. So instead, this post covers from when I started my undergrad, up to the end of last year.
 
 # Articles
 
