@@ -18,6 +18,11 @@ The good things about OpenWRT is that it has a lot of setting and features for p
 
 * OpenWRT: https://www.youtube.com/watch?v=GVjIOzErKcc
 
+5g band issue
+https://forum.openwrt.org/t/5ghz-wifi-issues-with-wrt1200ac-running-openwrt-21-02-x/111546/2
+https://forum.openwrt.org/t/wrt1900acs-v1-hangs-frequently-on-openwrt-21-02-0-rc3/102259
+related xkcd: https://xkcd.com/2347/
+
 [Like Scrap]({{site.baseurl}}/2018/07/19/like-scrap.html)
 
 
