@@ -11,7 +11,7 @@ Looking back at my media consumption over the past few years I saw a few issues:
 
 Reading (another) [hn post](https://news.ycombinator.com/item?id=29755155) made me realize I'm not taking advantage of my youth. Not saying I should min-max my lifestyle, but forcing myself to get through games I'm apathetic about, or speeding through audiobook summaries I don't care, when I should go do stuff that I might not be able to a few years from now.
 
-This contradicts how I want to [enjoy my free time]({{site.baseurl}}/2021/06/01/purposeful-play.html), so I'm trying to find a balance. For now I'd like to merge these posts. And since this is more generic, I might included other media like movies, shows, and other activities that are constant but don't need their own posts like [Gunpla](https://en.wikipedia.org/wiki/Gundam_model) and [Disc golf](https://en.wikipedia.org/wiki/Disc_golf).
+This contradicts how I want to [enjoy my free time]({{site.baseurl}}/2021/06/01/purposeful-play.html), so I'm trying to find a balance. For now I'd like to merge these posts. And since this is more generic, I might included other media like movies, shows, and activities that are constant but don't need their own posts like Gunpla, Bouldering, or Disc golf.
 
 # Articles
 
