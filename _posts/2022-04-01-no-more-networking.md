@@ -3,14 +3,10 @@ layout: post
 title: "No More Networking"
 ---
 
-I [flew to high](https://en.wikipedia.org/wiki/Icarus) with my [networking]({{site.baseurl}}/2020/02/01/more-networking-boards.html). Looking at the OpenWRT forums, the chipset for my WRT1900AC Rev. 1 isn't well supported. I've had to deal with various network failures, continued 5G Wifi outtages, and overall flakey-ness.
+I [flew to high](https://en.wikipedia.org/wiki/Icarus) with my [networking]({{site.baseurl}}/2020/02/01/more-networking-boards.html). Looking at the OpenWRT forums, the chipset for my WRT1900AC Rev. 1 isn't well supported. I've had to deal with various network failures, continued 5G Wifi outages, and overall flakeyness.
 
 Part of me is a bit sad that my work for FOSS freedom is hurting me more than helping, and part of me is ashamed that I'm not committing to owning my network inside and out. But the last part of me is frustrated with having to tinker on a solved problem and just wants things to work.
 
-I flashed my WRT1900AC back to it's OEM ROM and I haven't had any issues. If anything, it's as if things have been better as if it's been refreshed after coming back from vacation.
+I flashed my WRT1900AC back to it's OEM ROM and I haven't had any issues. If anything, it's as if things have been better then ever, as if it's been refreshed after coming back from vacation.
 
-I also sold off my entire homelab. Over the past ~5 years I've upgraded my desktop, and with the old parts I'd make another computer for 
-
-2019-05-01-home-lab-stand-up
-
-2020-02-01-ad-blocking
+I also sold off my entire [homelab]({{site.baseurl}}/2019/05/01/home-lab-stand-up.html). Over the past years as I've upgraded my desktop, I'd make systems for my lab with the left over parts. Being honest with myself, it's always been a solution looking for a problem. I'd think I'd want a VM host or media service or virtualizing my [ad-blocking]({{site.baseurl}}/2020/02/01/ad-blocking.html). But my priorities have changed and I don't care to tinker with all the tech in my life, so I'm okay with leaving everything stocks so I can enjoy using it to focus on other things.
