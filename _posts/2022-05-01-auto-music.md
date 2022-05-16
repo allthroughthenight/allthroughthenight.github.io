@@ -3,7 +3,7 @@ layout: post
 title: "Auto Music"
 ---
 
-I like having music play when I want to focus on my work. Like other my go to has been [lo-fi chillhop(https://en.wikipedia.org/wiki/Lofi_hip_hop). Even though most of then are 24-hour streams, they still end up repeating songs.
+I like having music play when I want to focus on my work. Like other my go to has been [lo-fi chillhop](https://en.wikipedia.org/wiki/Lofi_hip_hop). Even though most of then are 24-hour streams, they still end up repeating songs.
 
 I've also found some of the beats to be distracting at time, so then I'd have to stop what I'm doing to either stop it from playing or to find something better.
 
