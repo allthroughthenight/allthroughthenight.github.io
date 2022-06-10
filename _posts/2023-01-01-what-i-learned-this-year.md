@@ -13,7 +13,9 @@ Reading (another) [hn post](https://news.ycombinator.com/item?id=29755155) made 
 
 This contradicts how I want to [enjoy my free time]({{site.baseurl}}/2021/06/01/purposeful-play.html), so I'm trying to find a balance. For now I'd like to merge these posts. And since this is more generic, I might included other media like movies, shows, and activities that are constant but don't need their own posts like Gunpla, Bouldering, or Disc golf.
 
+should've used ftp
 https://news.ycombinator.com/item?id=31432743
+https://news.ycombinator.com/item?id=31682358
 
 # Articles
 
