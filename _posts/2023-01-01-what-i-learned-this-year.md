@@ -17,6 +17,8 @@ should've used ftp
 https://news.ycombinator.com/item?id=31432743
 https://news.ycombinator.com/item?id=31682358
 
+https://www.quora.com/Whats-the-logic-behind-Google-rejecting-Max-Howell-the-author-of-Homebrew-for-not-being-able-to-invert-a-binary-tree/answer/Max-Howell?share=1
+
 # Articles
 
 [Dark Web - Justice League](https://analyst1.com/blog/dark-web-justice-league): How honor is kept among cyber thieves
