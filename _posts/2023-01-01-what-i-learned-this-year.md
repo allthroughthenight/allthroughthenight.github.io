@@ -17,6 +17,8 @@ This contradicts how I want to [enjoy my free time]({{site.baseurl}}/2021/06/01/
 
 [Automation is the serialization of understanding](https://changelog.com/posts/automation-is-the-serialization-of-understanding): [Kelsey Hightower](https://en.wikipedia.org/wiki/Kelsey_Hightower) explains that some fail at automation because they don't have an understating of the fundamental task
 
+[Ask HN: Can I see your scripts?](https://news.ycombinator.com/item?id=32467957): A follow up to [Ask HN: Can I see your cheatsheet?](https://news.ycombinator.com/item?id=31928736)
+
 [Dark Web - Justice League](https://analyst1.com/blog/dark-web-justice-league): How honor is kept among cyber thieves
 
 [How to Walk (12 miles a day)](https://walkingtheworld.substack.com/p/how-to-walk-12-miles-a-day): More [confirmation](https://hbr.org/2021/02/dont-underestimate-the-power-of-a-walk) on the benefits of walking regularly
@@ -39,3 +41,5 @@ This contradicts how I want to [enjoy my free time]({{site.baseurl}}/2021/06/01/
 
 
 [What's the logic behind Google rejecting Max Howell, the author of Homebrew, for not being able to invert a binary tree?](https://www.quora.com/Whats-the-logic-behind-Google-rejecting-Max-Howell-the-author-of-Homebrew-for-not-being-able-to-invert-a-binary-tree/answer/Max-Howell?share=1): [Max Howell's](https://mxcl.dev/) direct response to his infamous [Google interview tweet](https://twitter.com/mxcl/status/608682016205344768)
+
+[Write a Note to Your Spouse Every Day](https://jdnoc.com/note/): A note a day keeps the divorce attorney away
