@@ -3,6 +3,8 @@ layout: post
 title: "What I Learned This Year - 2022"
 ---
 
+https://news.ycombinator.com/item?id=32468605
+
 # Introduction
 
 Looking back at my media consumption over the past few years I saw a few issues:
