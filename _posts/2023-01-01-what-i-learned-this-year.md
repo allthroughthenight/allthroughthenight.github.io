@@ -5,6 +5,10 @@ title: "What I Learned This Year - 2022"
 
 https://news.ycombinator.com/item?id=32468605
 
+writing better
+https://news.ycombinator.com/item?id=33370870
+https://www.karlsutt.com/articles/communicating-effectively-as-a-developer/
+
 # Introduction
 
 Looking back at my media consumption over the past few years I saw a few issues:
