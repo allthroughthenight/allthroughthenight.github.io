@@ -3,10 +3,12 @@ layout: post
 title: "What I Learned This Year - 2022"
 ---
 
-https://news.ycombinator.com/item?id=32468605
+better ssh config: https://news.ycombinator.com/item?id=32468605
 
-writing better
-https://news.ycombinator.com/item?id=33370870
+writing better: https://news.ycombinator.com/item?id=33370870
+
+getting out of a rut: https://news.ycombinator.com/item?id=33297934
+
 https://www.karlsutt.com/articles/communicating-effectively-as-a-developer/
 
 # Introduction
