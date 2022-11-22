@@ -9,6 +9,10 @@ writing better: https://news.ycombinator.com/item?id=33370870
 
 getting out of a rut: https://news.ycombinator.com/item?id=33297934
 
+Extremely Linear Git History: https://westling.dev/b/extremely-linear-git
+
+The Diátaxis Documentation Framework: https://diataxis.fr/
+
 https://www.karlsutt.com/articles/communicating-effectively-as-a-developer/
 
 # Introduction
