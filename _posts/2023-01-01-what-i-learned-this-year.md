@@ -13,6 +13,8 @@ Extremely Linear Git History: https://westling.dev/b/extremely-linear-git
 
 The Diátaxis Documentation Framework: https://diataxis.fr/
 
+https://100daystooffload.com/
+
 https://www.karlsutt.com/articles/communicating-effectively-as-a-developer/
 
 # Introduction
