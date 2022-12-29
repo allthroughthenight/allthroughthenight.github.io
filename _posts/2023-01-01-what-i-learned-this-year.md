@@ -5,6 +5,8 @@ title: "What I Learned This Year - 2022"
 
 me and the partner with audible, how i read with speechify for a textbook, book club goal for 2023
 
+https://news.ycombinator.com/item?id=34161822
+
 # Introduction
 
 Looking back at my media consumption over the past few years I saw a few issues:
