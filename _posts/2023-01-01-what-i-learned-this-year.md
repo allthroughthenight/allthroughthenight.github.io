@@ -5,6 +5,10 @@ title: "What I Learned This Year - 2022"
 
 me and the partner with audible, how i read with speechify for a textbook, book club goal for 2023
 
+https://nohello.net/en/
+
+https://dontasktoask.com/
+
 https://news.ycombinator.com/item?id=34161822
 
 # Introduction
