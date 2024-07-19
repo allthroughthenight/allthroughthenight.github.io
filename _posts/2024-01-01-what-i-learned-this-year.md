@@ -5,7 +5,7 @@ title: "What I Learned This Year - 2023"
 
 # Introduction
 
-2023 was a busy year for me professionally, so I didn't make the time for my own personal development. I didn't write any posts this year, and my 'What I Learned This Year' post is the shortest one so far. Also I've been a fool; lists (bullet, numbered) should have periods. It makes them a lot more versatile.
+2023 was a busy year for me professionally, so I didn't make the time for my own personal development. I didn't write any posts this year, and my 'What I Learned This Year' post is the shortest one so far. Also I've been a fool; lists (bullet, numbered) should have periods. It makes them a lot more versatile. test
 
 # Articles
 
