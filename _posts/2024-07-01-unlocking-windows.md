@@ -7,7 +7,7 @@ My partner recently started school again, so we worked together on getting them 
 
 Everything updated fine and they used their laptop for the rest of the day knowing it was set up for the start of classes the following day.
 
-Then comes the first day of class and they can't log in. We try an external keyboard, checking the caps lock and numpad, and any other related hardward or software issues. 
+Then comes the first day of class and they can't log in. We try an external keyboard, checking the caps lock and numpad, and any other related hardward or software issues. dd
 
 Once we exhausted everything we knew, we looked online and found we weren't the only one with password issues when upgrading from Windows 10 to Windows 11. My initial hunch was that their old password for Windows 10 didn't meet Windows 11 new password complexity. Talking with them more, their Windows 10 password used the pin feature, which wasn't supported by Windows 11.
 
