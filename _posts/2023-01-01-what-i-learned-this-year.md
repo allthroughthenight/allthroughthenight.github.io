@@ -3,7 +3,7 @@ layout: post
 title: "What I Learned This Year - 2022"
 ---
 
-# Introduction
+# Introductionddd
 
 Looking back at my media consumption over the past few years I saw a few issues:
 * [What I Read This Year: 2019]({{site.baseurl}}/2020/01/02/what-i-read-this-year.html): Most books I read with [my method]({{site.baseurl}}/2020/10/01/how-i-read.html), which is great for getting through a lot, but in retrospect it's left me with a lack of [deep understanding in the long run.](https://news.ycombinator.com/item?id=29621642)
