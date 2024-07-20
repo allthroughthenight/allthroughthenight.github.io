@@ -1,0 +1,16 @@
+---
+layout: post
+title: "Personal Presentations"
+---
+
+During my undergrad I was the vice president of the student cyber security club. Between competitions and finals we had a lot of downtime during our bi-weekly meetings to fill. I always felt that if people are making the time to come to something, you should make it worth it for them. Having been apart of organizations with apathetic leadership was always fustrating. So I always made sure we had something productive to talk about or listen to at meetings. For a few meetings I made sure I had some time in front of everyone so they could listen to me speak, and I'd get experience in front of others as well. Digging around, I was able to come up with the past presentation I made up and listed them below.
+
+[You, Me, and the Magic Smoke](/assets/2024-08-01-personal-presentations/you-me-and-the-magic-smoke.pdf): Due to training from other work, I'm proficient at reading and troubleshooing block and wiring electronic diagrams.Looking back this presentation was less about being informative and me just lecturing about stuff I geeked out about. I distintly remember some folks in the audience who were familiar with the concepts looking at me like "yes I get it, but the average person won't".
+
+[Secretly Surf Cyber-space](/assets/2024-08-01-personal-presentations/secretly-surf-cyberspace.pdf): A high level overview of the internet and how to anonymously use it. I would say half the audience was familiar with and had done some of what was mentioned. A quarter was familiar but had never tried anything. And the last quarter had never heard of any of this at all.
+
+[You and I and Command Line](/assets/2024-08-01-personal-presentations/you-i-and-the-command-line.pdf): During undergrade I had a basic X201 Thinkpad as my daily driver. It was durable and portable, but too under powered to run Windows 7 or 10 at the time. Instead I went in with Ubuntu cold turkey and figured it out. Along with that was getting familiar with the command line. This presentation doesn't have anything revolutionary, but during meetings a lot of people had questions about my computer set-up and how I used it. So this presentation was a way to walk through it while explaining why I did what I did.
+
+[Lock It Up](/assets/2024-08-01-personal-presentations/lock-it-up.pdf): During my undergrad physical security was starting to overlap with cybersecurity. Hackers understood that just like software, hardware secuirty manufatuers were taking shortcuts that could be exploited in trivial ways. One issue I remember when giving this presentation is that the lock picking pictures should've been animated. So mid-presentation when I saw them frozen (after waiting an awkward time for them to animate) I instead went to the end of the presentation where I linked the [source site](https://www.art-of-lockpicking.com/how-to-pick-a-lock-guide/).
+
+These presentation aren't anything to brag about. It's just interesting to look back and see how it's started and see where I'm at. And hopefully by sharing these I've learned a bit more about who I was, how I've improved, and how I can change going forward.
