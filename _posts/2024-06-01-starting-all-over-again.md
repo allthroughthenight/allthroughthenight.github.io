@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Starting Over Again"
+title: "Starting All Over Again"
 ---
 
 I was laid off late last year. Due to seasonal work I was employed during the winter and spring, but now that it's summer I'm looking for work. I made my [LinkedIn post](https://www.linkedin.com/feed/update/urn:li:activity:7127389015367925760/), talked with friends and coworkers, and now I'm seriously searching.
