@@ -7,7 +7,7 @@ Aging in America is mostly centered around education. Graduating from elementary
 
 With popular sitcoms of the 90s focusing on adult friend groups (Friends, Sienfield) it seemed like friendship in adulthood is a natural progression.
 
-Instead the loneliness epidemic is greater than ever. And anecdodatly, seeing my family and friends age, they've mentioned and seen their friends less.
+Instead the loneliness epidemic is greater than ever. And anecdodatly, seeing my family and friends age, they've mentioned seeing their friends less.
 
 What I haven't seen disucussed about this is that besides our partner and immediate family, relationships don't last forever. Some friendships are situational, circumstancial, or you just grow out of them.
 
