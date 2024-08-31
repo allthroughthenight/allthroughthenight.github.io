@@ -11,6 +11,8 @@ LLMs for praising and roasting your GitHub profiles
 
 * [How I won $2,750 using JavaScript, AI, and a can of WD-40](https://davekiss.com/blog/how-i-won-2750-using-javascript-ai-and-a-can-of-wd-40): The JavaScript was for calculating his odds before making an entry, after that it was straight forward and enjoyable seeing the outcomes.
 
+* [Harder Drive: Hard drives we didn't want or need](https://www.youtube.com/watch?v=JcJSW7Rprio&t=325s): Making a storage system with ICMP pings via ping latency.
+
 Github funnies
 * [fuck you](https://github.com/pzoj/pzoj-contest/pull/1#issuecomment-2283067326)
 * [I fixie wixied the JSON-api](https://github.com/Xerasin/GCinemaCraftDownloader/issues/1#issue-310568285)
