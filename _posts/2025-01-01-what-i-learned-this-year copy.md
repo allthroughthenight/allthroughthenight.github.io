@@ -16,3 +16,7 @@ LLMs for praising and roasting your GitHub profiles
 Github funnies
 * [fuck you](https://github.com/pzoj/pzoj-contest/pull/1#issuecomment-2283067326)
 * [I fixie wixied the JSON-api](https://github.com/Xerasin/GCinemaCraftDownloader/issues/1#issue-310568285)
+
+
+* [Emojis in Google Sheets are non-printable?!](https://www.reddit.com/r/googlesheets/comments/wep184/emojis_in_google_sheets_are_nonprintable/): Me and my partner 
+* [Why google sheets save as PDF doesn't show emoji in Cell?](https://stackoverflow.com/questions/64161635/why-google-sheets-save-as-pdf-doesnt-show-emoji-in-cell)
