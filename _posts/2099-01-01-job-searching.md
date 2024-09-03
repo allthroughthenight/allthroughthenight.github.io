@@ -6,8 +6,9 @@ title: "Job Searching"
 Like my [previous job search post](https://allthroughthenight.github.io/2021/03/01/my-interviewing-success.html), I kept track during this job search, along with another sankey diagram.
 
 Some major differences I made this time around
-* Only apply directly: Previously I'd apply to jobs thru job boards (LinkedIn, Indeed) which is a step removed from the actual posting by the company. 
+* Only apply directly: Previously I'd apply to jobs thru job boards (LinkedIn, Indeed, Dice) but this would be various degrees removed from the actual hiring manager. Where as applying directly on the job site would be sent directly to HR.
 site:lever.co | site:greenhouse.io | site:level.co | site:dover.com "site reliability engineer"
 Tools > Time > Past 24 hours
 * Using your network: LinkedIn “we’re hiring”
+* LinkedIn Premium: Doing cold messages can work, but the days of being courted by talent aquisition specialists is over.
 * Use form autofill: I used [Autofill Smartly - JobFill](https://chromewebstore.google.com/detail/autofill-smartly-jobfill/kbgfilncepjeoodogmebahnloidgaibg?hl=en-US)
