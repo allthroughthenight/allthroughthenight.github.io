@@ -13,6 +13,8 @@ LLMs for praising and roasting your GitHub profiles
 
 * [Harder Drive: Hard drives we didn't want or need](https://www.youtube.com/watch?v=JcJSW7Rprio&t=325s): Making a storage system with ICMP pings via ping latency.
 
+* [We did it🏴🏴🏴](https://undelete.pullpush.io/r/PiratedGames/comments/1f0b9wm/_/ljtzpjm/?context=4): reddit thread of OP getting hacked after checking if a cracked game would work
+
 Github funnies
 * [fuck you](https://github.com/pzoj/pzoj-contest/pull/1#issuecomment-2283067326)
 * [I fixie wixied the JSON-api](https://github.com/Xerasin/GCinemaCraftDownloader/issues/1#issue-310568285)
