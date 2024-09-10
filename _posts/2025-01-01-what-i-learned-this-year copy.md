@@ -22,3 +22,7 @@ Github funnies
 
 * [Emojis in Google Sheets are non-printable?!](https://www.reddit.com/r/googlesheets/comments/wep184/emojis_in_google_sheets_are_nonprintable/): Me and my partner 
 * [Why google sheets save as PDF doesn't show emoji in Cell?](https://stackoverflow.com/questions/64161635/why-google-sheets-save-as-pdf-doesnt-show-emoji-in-cell)
+
+passive media
+[Show HN: If YouTube had actual channels](https://news.ycombinator.com/item?id=41247023)
+[An NFC movie library for my kids](https://news.ycombinator.com/item?id=41479141)
