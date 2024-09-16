@@ -26,3 +26,5 @@ Github funnies
 passive media
 [Show HN: If YouTube had actual channels](https://news.ycombinator.com/item?id=41247023)
 [An NFC movie library for my kids](https://news.ycombinator.com/item?id=41479141)
+
+better writing https://news.ycombinator.com/item?id=41519229
