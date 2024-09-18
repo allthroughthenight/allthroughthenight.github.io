@@ -5,7 +5,7 @@ title: "Job Searching"
 
 Like my [previous job search post](https://allthroughthenight.github.io/2021/03/01/my-interviewing-success.html), I kept track during this job search, along with another sankey diagram.
 
-https://www.youtube.com/watch?v=VpPPHDxR9aM
+[The software engineering industry in 2024](https://www.youtube.com/watch?v=VpPPHDxR9aM)
 
 Some major differences I made this time around
 * Only apply directly: Previously I'd apply to jobs thru job boards (LinkedIn, Indeed, Dice) but this would be various degrees removed from the actual hiring manager. Where as applying directly on the job site would be sent directly to HR.
