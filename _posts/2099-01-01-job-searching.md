@@ -13,6 +13,8 @@ Tools > Time > Past 24 hours
 * LinkedIn Premium: Doing cold messages can work, but the days of being courted by talent aquisition specialists is over.
 * Use form autofill: I used [Autofill Smartly - JobFill](https://chromewebstore.google.com/detail/autofill-smartly-jobfill/kbgfilncepjeoodogmebahnloidgaibg?hl=en-US)
 
+[My Community College told CS majors to skip the career fair](https://www.reddit.com/r/csMajors/comments/1ffnr5e/my_community_college_told_cs_majors_to_skip_the/)
+
 From 2022-01-01-what-i-learned-this-year.md
 [on: The computers rejecting job applications](https://news.ycombinator.com/item?id=26065594):
 > The next logical step would be to train an adversarial AI against the hiring AI. You'd have the system generate your resume and application to maximize your chances. Then the hiring AI would need to be re-trained to account for this. And so on.

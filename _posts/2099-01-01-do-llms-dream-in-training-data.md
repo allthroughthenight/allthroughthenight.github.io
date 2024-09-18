@@ -3,7 +3,7 @@ layout: post
 title: "Do LLMs Dream in Training Data?"
 ---
 
-Whenever I take a break from podcasts for long form media i.e. audio books, everytime I come back I forget how much I enjoy them. They're self contained, designed for people with busy hands but clear minds, and I can part take in them while doing other things I need to get done.
+Whenever I take a break from podcasts, everytime I come back I forget how much I enjoy them. They're self contained, and designed for people with busy hands but clear minds, so I can listen to them while I'm doing other things I need to get done.
 
 Being a chronic hackernews surfer, [this post](https://news.ycombinator.com/item?id=41503835) talked about turning books into audiobooks, which then mentioned what about other sites, and of course a podcast aroudn that for hackernews already existed. I listed to an episode and I was hooked. It does what I use the site for, seeing the general consensus of other tech workers about trending topics related to America and the western world.
 
@@ -12,6 +12,11 @@ Like other comments have mentioned it does get [some pronouciation](https://news
 And in a moment of bliss, it brought to mind other AI and LLM articles and topics that've stuck with me this year, or reminded me of other stuff.
 
 https://www.finalroundai.com/
+
+https://myjotbot.com/
+https://www.aiforwork.co/
+https://pdf.ai/
+
 ai interview fail: https://www.tiktok.com/@withsilverapp/video/7413082265556667691
 the person hired is not the one interviewed: https://news.ycombinator.com/item?id=30150343
 
