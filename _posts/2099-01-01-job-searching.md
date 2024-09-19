@@ -5,6 +5,10 @@ title: "Job Searching"
 
 Like my [previous job search post](https://allthroughthenight.github.io/2021/03/01/my-interviewing-success.html), I kept track during this job search, along with another sankey diagram.
 
+Amazon networking event
+Recruiters asking technical questions
+Keeping track of applications and better job searching (calendy) plugging own guide
+
 [The software engineering industry in 2024](https://www.youtube.com/watch?v=VpPPHDxR9aM)
 
 Some major differences I made this time around
