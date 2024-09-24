@@ -14,10 +14,12 @@ sphinx: Recruiters asking technical questions, almost like trivia, no ones fault
 tiktok: cool down
 anduril: recruiter and coding went well, but went on cool down (recruiters looked at profile since i'm right in the space)
 Spacex: just under prpared overall
+
 meta: missed connection first time around, second time felt good
-troubleshooting was straight forward with a build pipeline
-coding: 1st was almost trivial, second was more about classes, but i missed it thinking it was about a hashset 
+troubleshooting was straight forward with a build pipeline, along with improvments to prevent human error and better automate, along with monitoring
+coding: 1st was almost trivial i.e. string manipulation, second was more about classes, but i missed it thinking it was about a hashset 
 related codeforces: https://www.reddit.com/r/leetcode/comments/15aubli/flowchart_to_solve_leetcode_problems/jtoe89p/
+
 Keeping track of applications and better job searching (calendy) plugging own guide
 
 [The software engineering industry in 2024](https://www.youtube.com/watch?v=VpPPHDxR9aM)
