@@ -1,21 +1,23 @@
 ---
 layout: post
-title: "Job Searching"
+title: "The New Job Market"
 ---
 
-Like my [previous job search post](https://allthroughthenight.github.io/2021/03/01/my-interviewing-success.html), I did my best to keep track during the job search for another sankey diagram.
+Like my [previous job search post](https://allthroughthenight.github.io/2021/03/01/my-interviewing-success.html), I did my best to keep track during the job search for another sankey diagram. 
 
-return to office some movement
-interest rate changes
-no longer 18 offers: https://www.18offers.com/
+<image>
 
-Amazon networking event: lots of talent, few hiring
-sphinx: Recruiters asking technical questions, almost like trivia, no ones fault tho
-tiktok: cool down
-anduril: recruiter and coding went well, but went on cool down (recruiters looked at profile since i'm right in the space)
-Spacex: just under prpared overall
+A big change from last time which I stuck with was to make sure to 1) apply to positions directly and 2) work with recruiters or get referalls as often as possible. For this graph I combined all technical interviews (coding challenge, technical screen, on-site). When you take a step back, once you pass the HR screening it's all technical, regardless of the format.
 
-meta: missed connection first time around, second time felt good
+At a macro level I do have some anectdotes having started in the tech insutry before the pandemic. When I was an undergrad from 2014-2017, tech was without a doubt the cool place to work (https://www.18offers.com/). Massages, free food, laundry services, etc. Then going into the pandemic hiring went crazy with WFH. Talent knew they could move, and companies were getting FOMO and missing out on new talent. As the pandemic ended and balance sheets were checked, they realized they overhired and started letting folks go. Then as a final push, they mandated retrun to office to force more people to leave, and allow them to bring on new people. With interest rate changes and AI tooling making work easier, some hiring has resumed, but it's safe to say we'll never have another hiring like that unless another world event occurs.
+
+- Amazon networking event: lots of talent, few hiring
+- sphinx: Recruiters asking technical questions, almost like trivia, no ones fault tho
+- tiktok: think i messed up on a remote coding challenge, so other recruiters have reached out but when they look internally i'm still on "cool down"
+- anduril: recruiter and coding went well, but went on cool down (recruiters looked at profile since i'm right in the space)
+- Spacex: just under prpared overall, referall from a friend, recruiter screen, remote code, onsite round. talk with the team, talk about tools, build a cell phone.
+
+- meta: missed connection first time around, second time felt good
 troubleshooting was straight forward with a build pipeline, along with improvments to prevent human error and better automate, along with monitoring
 coding: 1st was almost trivial i.e. string manipulation, second was more about classes, but i missed it thinking it was about a hashset 
 related codeforces: https://www.reddit.com/r/leetcode/comments/15aubli/flowchart_to_solve_leetcode_problems/jtoe89p/

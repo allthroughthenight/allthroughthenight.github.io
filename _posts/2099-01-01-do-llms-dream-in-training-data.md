@@ -3,22 +3,23 @@ layout: post
 title: "Do LLMs Dream in Training Data?"
 ---
 
-Whenever I take a break from podcasts, everytime I come back I forget how much I enjoy them. They're self contained, and designed for people with busy hands but clear minds, so I can listen to them while I'm doing other things I need to get done.
+Whenever I take a break from podcasts, everytime I come back to them I forget how much I enjoy them. They're self contained and designed for people with busy hands but clear minds, so I can listen to them while I'm doing other things I need to get done.
 
 Being a chronic hackernews surfer, [this post](https://news.ycombinator.com/item?id=41503835) talked about turning books into audiobooks, which then mentioned what about other sites, and of course a podcast aroudn that for hackernews already existed. I listed to an episode and I was hooked. It does what I use the site for, seeing the general consensus of other tech workers about trending topics related to America and the western world.
 
 Like other comments have mentioned it does get [some pronouciation](https://news.ycombinator.com/item?id=35831177) wrong.
 
-And in a moment of bliss, it brought to mind other AI and LLM articles and topics that've stuck with me this year, or reminded me of other stuff.
+And in a brain blast sort of moment, it brought to mind all the other AI and LLM articles and topics that've stuck with me this year. 
 
-https://www.finalroundai.com/
+The Intelligence Age: https://news.ycombinator.com/item?id=41628167 - Talking with friends this seemed like the next step. From transistors, to microchips, to the information age, to the ai age.
 
-https://myjotbot.com/
-https://www.aiforwork.co/
-https://pdf.ai/
+Inteview help https://www.finalroundai.com/ - 
+related - ai interview fail: https://www.tiktok.com/@withsilverapp/video/7413082265556667691
+related - the person hired is not the one interviewed: https://news.ycombinator.com/item?id=30150343
 
-ai interview fail: https://www.tiktok.com/@withsilverapp/video/7413082265556667691
-the person hired is not the one interviewed: https://news.ycombinator.com/item?id=30150343
+Prompts for certrain fields - https://www.aiforwork.co/: I've seen a few sites like this pop up, but in my experience prompt engineering as a whole is only pertinent if you either 1) don't know the problem space or 2) have limited usage of the LLM. If you don't know what to ask, then you don't know enough to get started. But if you're able to continually just 'figure it out' then precise prompts from the start don't help you better know what you need to learn.
+
+Academic writing - https://myjotbot.com/ - https://pdf.ai/
 
 From 2022-01-01-what-i-learned-this-year.md
 [on: The computers rejecting job applications](https://news.ycombinator.com/item?id=26065594):
