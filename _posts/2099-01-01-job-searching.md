@@ -3,10 +3,21 @@ layout: post
 title: "Job Searching"
 ---
 
-Like my [previous job search post](https://allthroughthenight.github.io/2021/03/01/my-interviewing-success.html), I kept track during this job search, along with another sankey diagram.
+Like my [previous job search post](https://allthroughthenight.github.io/2021/03/01/my-interviewing-success.html), I did my best to keep track during the job search for another sankey diagram.
 
-Amazon networking event
-Recruiters asking technical questions
+return to office some movement
+interest rate changes
+no longer 18 offers: https://www.18offers.com/
+
+Amazon networking event: lots of talent, few hiring
+sphinx: Recruiters asking technical questions, almost like trivia, no ones fault tho
+tiktok: cool down
+anduril: recruiter and coding went well, but went on cool down (recruiters looked at profile since i'm right in the space)
+Spacex: just under prpared overall
+meta: missed connection first time around, second time felt good
+troubleshooting was straight forward with a build pipeline
+coding: 1st was almost trivial, second was more about classes, but i missed it thinking it was about a hashset 
+related codeforces: https://www.reddit.com/r/leetcode/comments/15aubli/flowchart_to_solve_leetcode_problems/jtoe89p/
 Keeping track of applications and better job searching (calendy) plugging own guide
 
 [The software engineering industry in 2024](https://www.youtube.com/watch?v=VpPPHDxR9aM)
