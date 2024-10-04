@@ -24,6 +24,8 @@ related codeforces: https://www.reddit.com/r/leetcode/comments/15aubli/flowchart
 
 Keeping track of applications and better job searching (calendy) plugging own guide
 
+using notebooklm to summarize company values and such
+
 [The software engineering industry in 2024](https://www.youtube.com/watch?v=VpPPHDxR9aM)
 
 Some major differences I made this time around
