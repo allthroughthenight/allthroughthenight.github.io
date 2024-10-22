@@ -33,3 +33,9 @@ passive media
 [Somehow i feel sad for this AI model](https://news.ycombinator.com/item?id=41585363)
 
 better writing https://news.ycombinator.com/item?id=41519229
+
+in the thick of it
+https://now.hackertab.dev/
+https://daily.dev/
+https://githubuniverse.com/
+https://hacktoberfest.com/ (and prep-tempber? wild)
