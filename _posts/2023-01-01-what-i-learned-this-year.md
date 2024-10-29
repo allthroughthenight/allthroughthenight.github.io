@@ -6,10 +6,10 @@ title: "What I Learned This Year - 2022"
 # Introduction
 
 Looking back at my media consumption over the past few years I saw a few issues:
-* [What I Read This Year: 2019]({{site.baseurl}}/2020/01/02/what-i-read-this-year.html): Most of the books I read with [my method]({{site.baseurl}}/2020/10/01/how-i-read.html), which is great for getting through a lot, but in retrospect it's left me with a lack of [deep understanding in the long run.](https://news.ycombinator.com/item?id=29621642)
-* [What I Played This Year: 2020]({{site.baseurl}}/2021/01/02/what-i-played-this-year.html): Less about games I really enjoyed, and more about finishing what I started (same for [2021]({{site.baseurl}}/2022/01/02/what-i-played-this-year.html)). And I think it took away from my desire to read as much in [2021]({{site.baseurl}}/2022/01/01/what-i-read-this-year.html).
+* [What I Read This Year: 2019]({{site.baseurl}}/2020/01/02/what-i-read-this-year.html): Books I read with [my method]({{site.baseurl}}/2020/10/01/how-i-read.html) are great for getting through a lot, but left me with a lack of [deep understanding in the long run.](https://news.ycombinator.com/item?id=29621642)
+* [What I Played This Year: 2020]({{site.baseurl}}/2021/01/02/what-i-played-this-year.html): Less about games I enjoyed, and more about finishing what I started (same for [2021]({{site.baseurl}}/2022/01/02/what-i-played-this-year.html)). I think it took away from my desire to read as much as I did in [2021]({{site.baseurl}}/2022/01/01/what-i-read-this-year.html).
 
-Reading (another) [hn post](https://news.ycombinator.com/item?id=29755155) made me realize I'm not taking advantage of my youth. Not saying I should min-max my lifestyle, but forcing myself to get through games I'm apathetic about, or speeding through audiobook summaries I don't care, when I could do stuff that I might not be able to a decade or so.
+Reading an [hn post](https://news.ycombinator.com/item?id=29755155) made me realize I'm not taking advantage of my youth. Forcing myself to get through games I'm apathetic about, or speeding through audiobook summaries I don't care. When I could do stuff that I might not be able to a decade or so from now.
 
 This contradicts how I want to [enjoy my free time]({{site.baseurl}}/2021/06/01/purposeful-play.html), so I'm trying to find a balance. For now I'd like to merge these posts. And since this is more generic, I might included other media like movies, shows, and activities that are constant but don't need their own posts like Gunpla, Bouldering, or Disc golf.
 
@@ -25,7 +25,7 @@ This contradicts how I want to [enjoy my free time]({{site.baseurl}}/2021/06/01/
 
 [How to communicate effectively as a developer](https://www.karlsutt.com/articles/communicating-effectively-as-a-developer/): With remote work on the rise, communication needs to be clear to make up for non-verbal communication
 
-[How To Do Less](https://alexturek.com/2022-03-07-How-to-do-less/):
+[How To Do Less](https://alexturek.com/2022-03-07-How-to-do-less/)
 
 [How to get the most out of your 1:1s](https://erik.wiffin.com/posts/how-to-get-the-most-out-of-your-11s/)
 
@@ -33,7 +33,7 @@ This contradicts how I want to [enjoy my free time]({{site.baseurl}}/2021/06/01/
 
 [How to Walk (12 miles a day)](https://walkingtheworld.substack.com/p/how-to-walk-12-miles-a-day): More [confirmation](https://hbr.org/2021/02/dont-underestimate-the-power-of-a-walk) on the benefits of walking regularly
 
-[I have a few qualms with this app](https://news.ycombinator.com/item?id=9224): A contemptuous comment about [DropBox](https://www.dropbox.com/) while it was still an incubatee in YC and referenced with various degrees of effect ([one](https://news.ycombinator.com/item?id=31682358), [two](https://news.ycombinator.com/item?id=31432743)])
+[I have a few qualms with this app](https://news.ycombinator.com/item?id=9224): A contemptuous comment about [DropBox](https://www.dropbox.com/) while it was still an incubatee in YC, and referenced with various degrees of effect ([one](https://news.ycombinator.com/item?id=31682358), [two](https://news.ycombinator.com/item?id=31432743)])
 
 [IBM's asshole test ](https://johnpublic.mataroa.blog/blog/the-asshole-test/)
 

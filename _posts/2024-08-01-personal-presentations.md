@@ -3,7 +3,7 @@ layout: post
 title: "Personal Presentations"
 ---
 
-During my undergrad, I was the vice president of the student cyber security club and helped organize our bi-weekly meetings. Having been apart of organizations with apathetic leadership was always fustrating. So I made sure we had something productive to talk about or do or listen to at meetings. I also sure I had some time in front of everyone so they could listen to me speak, and so I'd also get experience in front of others. Digging around, I was able to come up with the past presentation I created.
+During my undergrad, I was the vice president of the student cyber security club and helped organize our bi-weekly meetings. Having been apart of organizations with apathetic leadership was always fustrating. So I made sure we had something productive to discuss or do at meetings. I also made sure I had some time in front of everyone so they could listen to me speak, and so I'd get experience in front of others. Digging around, I found the past presentation I created.
 
 [You, Me, and the Magic Smoke](/assets/2024-08-01-personal-presentations/you-me-and-the-magic-smoke.pdf): Due to training from other work, I'm proficient at reading and troubleshooing electronic block and wiring diagrams. Looking back, this presentation wasn't informative and me just geeking out. I distintly remember some two folks in the audience who were actual electrical engineers and familiar with the concepts telling me "You laid out and presenting everything well, but it's a lot for the average person to take in at once".
 

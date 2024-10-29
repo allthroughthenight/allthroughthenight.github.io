@@ -5,7 +5,7 @@ title: "You've Got a Friend"
 
 Aging in America is mostly centered around education. Graduating from elementary to intermediate/middle school is associated with puberty. Graduating from high school is a coming of age story for many. Sometimes college is used as a back drop instead.
 
-With popular sitcoms of the 90s focusing on adult friend groups (Friends, Sienfield) it seemed like friendship in adulthood is a natural progression.
+With popular sitcoms of the 90s focused on adult friend groups (Friends, Sienfield) it seemed like friendship in adulthood is a natural progression.
 
 Instead the loneliness epidemic is greater than ever. And anecdodatly, seeing my family and friends age, they've mentioned seeing their friends less.
 

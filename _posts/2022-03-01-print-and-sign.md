@@ -17,15 +17,15 @@ I ended up going with [this](https://news.ycombinator.com/item?id=23160387) comm
 
 I didn't expect that the PDF program you use to make the digital signature stamp with would have an impact. Between Foxit and Adobe, the later gives a much better result.
 
-After spending all morning figuring this out, I was ready to send my pseudo signed and scanned document. I attached the document, then while typing my response I re-read the email and it said "Please provide an original signature". This seemed like a weird way of saying a real signature, then looking it up I learned that [original signature](https://www.lawinsider.com/dictionary/original-signature) is an actual legal term. 
+After spending all morning figuring this out, I was ready to send my pseudo signed and scanned document. I attached the document, then while typing my response I re-read the email and it said "Please provide an original signature". This seemed like a weird way of saying a real signature, so after looking it up I learned that [original signature](https://www.lawinsider.com/dictionary/original-signature) is an actual legal term. 
 
-It seemed like all this work was for waste, I spend an entire morning making a new environment, dealing with dependencies, keeping track of signatures and documents, only to realize it didn't matter. A silver lining is that at least I read that line before submitting, instead of waiting for a week or two for a response to get rejected again. And now if someone asks me to print and sign something I'll be ready.
+Was all this work was for waste? I spend an entire morning making a new environment, dealing with dependencies, keeping track of signatures and documents, only to realize it didn't matter. A silver lining is that at least I read that line before submitting, instead of waiting for a response to get rejected again. And now if someone asks me to print and sign something I'll be ready.
 
-I went down to the Office Store to print the document out, which is usually empty, but this day there was a line to use the printers. Usually what takes ~5 minutes was almost an hour now.
+I went down to the Office Store to print the document out, which is usually empty, but this day there was a line to use the printers. What would usually take ~5 minutes ended up being almost an hour.
 
-I have an HP multi-purpose inkjet printer. It never prints when I need it to, and I've only kept it for the scanner. I digitize any document I have that's worth keeping and filing. So looking at both these problems I decided to go with the [hn recommendation](https://www.google.com/search?hl=en&q=hacker%20news%20printer%20recommendations) and get a Brother laser printer. 
+I have an HP multi-purpose inkjet printer. It never prints when I need it to, and I've only kept it for the scanner. Looking at both problems, I decided to go with the [hn recommendation](https://www.google.com/search?hl=en&q=hacker%20news%20printer%20recommendations) and get a Brother laser printer. 
 
-I almost went with a combo printer-scanner, then realized I scan a lot more than I print, and got them as separate devices. For the printer I went with a [Brother HL-L2350DW](https://www.amazon.com/dp/B0763WDSYZ). I decided to spend the extra ~$50 for wireless printing, and save ~$80 to miss out on wired connectivity, but avoid having to run another ethernet cable around my office.
+I almost went with a combo printer-scanner, then realized I scan a lot more than I print, and got them as separate devices. For the printer I went with a [Brother HL-L2350DW](https://www.amazon.com/dp/B0763WDSYZ).
 
 For my scanner, the The New York Times Wirecutter series has a list of [scanners](https://www.nytimes.com/wirecutter/reviews/the-best-cheap-scanner/), and I went with the [Canon CanoScan Lide 300](https://smile.amazon.com/dp/B07G5XZVLQ).
 

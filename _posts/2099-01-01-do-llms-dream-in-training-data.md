@@ -3,15 +3,13 @@ layout: post
 title: "Do LLMs Dream in Training Data?"
 ---
 
-Whenever I take a break from podcasts, everytime I come back to them I forget how much I enjoy them. They're self contained and designed for people with busy hands but clear minds, so I can listen to them while I'm doing other things I need to get done.
+Everytime I come back to podcasts I forget how much I enjoy them. Self contained, for people with busy hands but clear minds, so I can listen to them while I'm doing other things I need to get done.
 
-Being a chronic hackernews surfer, [this post](https://news.ycombinator.com/item?id=41503835) talked about turning books into audiobooks, which then mentioned what about other sites, and of course a podcast aroudn that for hackernews already existed. I listed to an episode and I was hooked. It does what I use the site for, seeing the general consensus of other tech workers about trending topics related to America and the western world.
+Being a chronic hackernews reader, [this post](https://news.ycombinator.com/item?id=41502510) talked about turning books into audiobooks, then about podcasts, and then mentioning [Hacker News Recap](https://news.ycombinator.com/item?id=41503835). After listing to an episode and I was hooked. It does what I read the site for, seeing the general consensus about trending tech news. Besides [some pronouciation](https://news.ycombinator.com/item?id=35833110) issues I would recommended it to everyone.
 
-Like other comments have mentioned it does get [some pronouciation](https://news.ycombinator.com/item?id=35831177) wrong.
+Also related to all the LLM and AI hype this year, I've also listed below some other sites and stories that've stood out to me. 
 
-And in a brain blast sort of moment, it brought to mind all the other AI and LLM articles and topics that've stuck with me this year. 
-
-The Intelligence Age: https://news.ycombinator.com/item?id=41628167 - Talking with friends this seemed like the next step. From transistors, to microchips, to the information age, to the ai age.
+[The Intelligence Age](https://news.ycombinator.com/item?id=41628167): Talking with friends this seemed like the next step. From transistors, to microchips, to the information age, to the ai age.
 
 Inteview help https://www.finalroundai.com/ - 
 related - ai interview fail: https://www.tiktok.com/@withsilverapp/video/7413082265556667691
