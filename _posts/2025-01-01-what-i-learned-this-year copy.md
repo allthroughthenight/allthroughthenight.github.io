@@ -9,7 +9,7 @@ title: "What I Learned This Year - 2024"
 
 # Articles
 
-* [An NFC movie library for my kids](https://news.ycombinator.com/item?id=41479141): A dad make their child a psudo home VHS collection with NFC movie cards.
+* [How I Built an NFC Movie Library for my Kids ](https://simplyexplained.com/blog/how-i-built-an-nfc-movie-library-for-my-kids/): A dad make their child a psudo home VHS collection with NFC movie cards.
 
 * [Bot Spotter](https://walzr.com/bop-spotter): [ShotSpotter](https://en.wikipedia.org/wiki/ShotSpotter) but for music.
 
@@ -21,6 +21,8 @@ title: "What I Learned This Year - 2024"
 
 * [LinkedIn is now using everyone's content to train their AI tool](https://news.ycombinator.com/item?id=41585363)
 > Somehow i feel sad for this AI model. All the others are trained on authentic content and this boy gets socialised on the most shallow content imaginable. Poor, socially awkward AI.
+
+* [O2 unveils Daisy, the AI granny wasting scammers’ time](https://news.virginmediao2.co.uk/o2-unveils-daisy-the-ai-granny-wasting-scammers-time/): An AI "grandma" that chats with phone scammers to keep them busy and protect real people from scams.
 
 * [Show HN: If YouTube had actual channels](https://news.ycombinator.com/item?id=41247023): A YouTube browser that's like a regular TV. I use this at least once a day.
 
@@ -38,6 +40,6 @@ Github funnies
 * [fuck you](https://github.com/pzoj/pzoj-contest/pull/1#issuecomment-2283067326)
 * [I fixie wixied the JSON-api](https://github.com/Xerasin/GCinemaCraftDownloader/issues/1#issue-310568285)
 
-Google Sheets Emojis: Me and my partner use Google sheets to share plans, so when I was looking for a fix I found these.
+Google Sheets Emojis: Me and my partner use Google sheets, so when I was looking for a fix I found these.
 * [Emojis in Google Sheets are non-printable?!](https://www.reddit.com/r/googlesheets/comments/wep184/emojis_in_google_sheets_are_nonprintable/)
 * [Why google sheets save as PDF doesn't show emoji in Cell?](https://stackoverflow.com/questions/64161635/why-google-sheets-save-as-pdf-doesnt-show-emoji-in-cell)

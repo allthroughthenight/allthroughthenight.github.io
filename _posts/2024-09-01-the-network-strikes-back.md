@@ -15,7 +15,7 @@ But instead I see this log-in screen.
 
 ![]({{site.baseurl}}/assets/2024-09-01-the-network-strikes-back/openwrt-luci-login.png)
 
-At this point I'm worried that our router was hacked and our network got pwned, explaining the other intermitent internet issues. Doing a google reverse image search of the login portal I learned it's OpenWRT's login page. Thinking back to my [last usage of OpenWRT]({{site.baseurl}}/2022/04/01/no-more-networking.html) I thought I flashed the partition with the OEM firmware, so this puzzled me.
+At this point I'm worried that our router was hacked and our network got pwned, explaining the other intermitent internet issues Doing a google reverse image search of the login portal I learned it's OpenWRT's login page. Thinking back to my [last usage of OpenWRT]({{site.baseurl}}/2022/04/01/no-more-networking.html). I thought I flashed the partition with the OEM firmware, so this puzzled me.
 
 Their feeder page to [uninstall OpenWRT](https://openwrt.org/faq/uninstall_openwrt_back_to_stock) directs to [Table of Hardware](https://openwrt.org/toh/start) and [Back to original firmware](https://openwrt.org/docs/guide-user/installation/generic.uninstall) about writing directly with `dd`. Neither page inspired confidence, but the second page has a [section at the bottom](https://openwrt.org/docs/guide-user/installation/generic.uninstall#via_bootloader) that links to reinstalling the OEM firmware via the GUI. Which is really just [installing it normally](https://openwrt.org/docs/guide-user/installation/generic.flashing), which then leads back to their [Table of Hardware](https://openwrt.org/toh/start), which finally brought me to the page for my [Linksys WRT1900AC](https://openwrt.org/toh/linksys/wrt1900ac) (phew). 
 
