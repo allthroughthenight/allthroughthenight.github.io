@@ -21,6 +21,8 @@ The first part is still shocking, with my full name and address, along with a st
 
 Okay this is just some kinda extortion. I'm 90% sure I'm safe to ignore it, and I made sure not to download any attachments. If they have any tracking pixels in the email that's fine, but overall it's feels about as dangerous as any other dodgey link.
 
+A lot of the techno-bable is close enough at a glance, but once you go below surface level it all fall apart. And having studying a bit of cyber security and cyber crime myself, if they had a rootkit to any device you owned, manually monitoring cameras and website history is too much work for an extortion. It'd be easier to do a ransomware attack or sniff for passwords.
+
 I showed it to my partner and they just laughed immediatly after the first paragraph. Outside of my context which is "an email to my inbox is real" they saw through it right away. I deleted the email without incident, but decided to look online and see what others had to say. [This reddit](https://www.reddit.com/r/techsupport/comments/1ev091l/this_is_what_a_hackerscammer_is_sending_me/) post came up, so I was able to easily just toss this aside.
 
 Overall the attack wasn't that sophisticated. But I could see it working on those who are in a bad spot or not as technically litterate. I've also avoided posted the exact text to prevent myself from getting flagged, filtered, or even boosted by others searching this up as well.
