@@ -9,11 +9,11 @@ Same as my [previous job search](https://allthroughthenight.github.io/2021/03/01
 
 A big change from last time I searched was to 1) apply to positions directly on company websites 2) work with recruiters and 3) get referrals. When it comes to the interview process, after the HR screen you go through some technical rounds, so I simplified them to just a technical screen (remote coding challenge, HM talk) and final round (white boarding, behavioral, bar raisers).
 
-This data is only for about half a year. Due to other seasonal work I was busy for half the year. Due to the nature of the work I can't take time off to conduct interviews. I still had time to study, but being able to sit down and do my best at a coding screen wasn't have been possible without my work suffering.
+This data is only for about half a year since I was busy for half the year with other seasonal work. The nature of the work wouldn't allow me to take time off to conduct interviews. I had time to study, but being able to sit down and do my best at a coding screen wasn't possible without my work suffering.
 
-I'm not worried about the total amount I applied to. I use my browser's autofill function, so applying to 5 position takes 5 minutes at most. And with it being so easy, desirable positions will get hundreds of applicants within the first hour. I've also know of some using completely automated tools, making cold apply numbers mean even less.
+I'm not worried about the total positions I applied to. I use my browser's autofill function, so applying to 5 positiona takes 5 minutes at most. And with it being so easy, desirable positions will get hundreds of applicants within the first hour. I've also heard that some use completely automated tools, making cold apply numbers mean even less.
 
-The most surprising was when recruiters would reach out directly and then ghost me. The worst for me was after having a good first call, I reached out a few times but they ghosted me for ~2 months. They then followed up with "we have proof we sent you an email, so I'm not sure what happened, but now the position is filled so ttyl". I guess they tried to save face by saying it was a technical issue, but an an automatic rejection email would've been better.
+The most surprising to me is when recruiters reach out directly and then ghost me. The worst case of this was after having a good first call, I reached out a few times but they ghosted me for ~2 months. They then followed up with "we have proof we sent you an email, so I'm not sure what happened, but now the position is filled so ttyl". I guess they tried to save face by saying it was a technical issue, but an an automatic rejection email would've been better.
 
 I've been appreciative of the referrals I've received. Some have been basic referral codes when applying, others have been very personal with them forwarding my resume directly to their hiring manager internally.
 
