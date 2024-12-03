@@ -31,3 +31,7 @@ Gwern interview https://news.ycombinator.com/item?id=42134315
 The interview was great, and thanks to hn I was made aware of his work. 
 
 “I will slaughter you” Daniel Stenberg https://daniel.haxx.se/blog/2021/02/19/i-will-slaughter-you/
+
+Also related to cold emails, I've seen it recently as a way to get applicants for job applications. My guess is that a lot of job applications are being automated, and most email clients have good filtering. So if a applicant reads a posting and writes and email, than they at least 1) read the entire posting and 2) put in some effort to get the email together.
+
+// check dubmore email for examples
