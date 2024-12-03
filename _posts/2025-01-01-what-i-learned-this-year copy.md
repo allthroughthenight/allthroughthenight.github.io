@@ -9,11 +9,13 @@ title: "What I Learned This Year - 2024"
 
 # Articles
 
-* [How I Built an NFC Movie Library for my Kids ](https://simplyexplained.com/blog/how-i-built-an-nfc-movie-library-for-my-kids/): A dad make their child a psudo home VHS collection with NFC movie cards.
+* [800% Detail: Tweaking Stunt Island’s 30-year-old 3D Engine](https://annali.netlify.app/2024/11/20/tweaking-stunt-island): This jumped out at me because of their usage of LLMs to simplify the reverse engineering process.
 
 * [Bot Spotter](https://walzr.com/bop-spotter): [ShotSpotter](https://en.wikipedia.org/wiki/ShotSpotter) but for music.
 
 * [Harder Drive: Hard drives we didn't want or need](https://www.youtube.com/watch?v=JcJSW7Rprio&t=325s): Making a storage system with ICMP pings via ping latency.
+
+* [How I Built an NFC Movie Library for my Kids ](https://simplyexplained.com/blog/how-i-built-an-nfc-movie-library-for-my-kids/): A dad make their child a psudo home VHS collection with NFC movie cards.
 
 * [How I won $2,750 using JavaScript, AI, and a can of WD-40](https://davekiss.com/blog/how-i-won-2750-using-javascript-ai-and-a-can-of-wd-40): The JavaScript was for calculating his odds before making an entry, after that it was straight forward and enjoyable seeing the outcomes.
 
