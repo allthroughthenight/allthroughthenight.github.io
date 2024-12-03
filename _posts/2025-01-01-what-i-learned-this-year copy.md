@@ -5,7 +5,7 @@ title: "What I Learned This Year - 2024"
 
 # Introduction
 
-2024 was a tough year for me. Continuing my layoff from the year before, I put a lot of pressure on myself to find a new job. It's dishertening to try your best and still fail conastantly. On the plus side with all the extra time I had, I was able to think about to do what I wanted to do, and not just what I needed to do. So my "What I Leanred This Year" post is back in top form with all the fun and interesting reads I found this past year.
+2024 was a tough year for me. Continuing my layoff from the year before, I put a lot of pressure on myself to find a new job. It's discouraging to try your best and still fail. On the plus side with all the extra time I had, I was able to think about to do what I wanted to do, and not just what I needed to do. So my "What I Leanred This Year" post is back in top form with all the fun and interesting reads I found this past year.
 
 # Articles
 
