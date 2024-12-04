@@ -45,3 +45,7 @@ Github funnies
 Google Sheets Emojis: Me and my partner use Google sheets, so when I was looking for a fix I found these.
 * [Emojis in Google Sheets are non-printable?!](https://www.reddit.com/r/googlesheets/comments/wep184/emojis_in_google_sheets_are_nonprintable/)
 * [Why google sheets save as PDF doesn't show emoji in Cell?](https://stackoverflow.com/questions/64161635/why-google-sheets-save-as-pdf-doesnt-show-emoji-in-cell)
+
+IMG_XXXX
+* [IMG_0416](https://ben-mini.github.io/2024/img-0416): Apple's "Send to YouTube" feature created an archive of raw, unedited personal videos with default names like "IMG_XXXX" that remain online today, and created an archive of raw, unedited personal videos forming a unique time capsule of life during that era.
+* [IMG_0001](https://walzr.com/IMG_0001/): Inspired by Ben Wallace's article, this is a "TV viewer" of the videos.
