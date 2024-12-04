@@ -7,7 +7,7 @@ Same as my [previous job search](https://allthroughthenight.github.io/2021/03/01
 
 ![]({{site.baseurl}}/assets/2024-11-01-the-new-job-market/2024-job-search.png)
 
-A big change from last time I searched was to 1) apply to positions directly on company websites 2) work with recruiters and 3) get referrals. When it comes to the interview process, after the HR screen you go through some technical rounds, so I simplified them to just a technical screen (remote coding challenge, HM talk) and final round (white boarding, behavioral, bar raisers).
+A big change from last time I searched was to 1) apply to positions directly on company websites 2) work with recruiters and 3) get referrals. When it comes to the interview process, after the HR screen you go through some technical rounds. To simplify things, everything before anything technical (recuriter screen, hiring mangaer chat) is essentially excluded. Instead think of the left side as sources. I also simplified everything afterwards with the technical screen (online assessment, technical questions, system troubleshooting) and final round i.e. virtual on-site (white boarding, system design, behavioral).
 
 This data is only for about half a year since I was busy for half the year with other seasonal work. The nature of the work wouldn't allow me to take time off to conduct interviews. I had time to study, but being able to sit down and do my best at a coding screen wasn't possible without my work suffering.
 
