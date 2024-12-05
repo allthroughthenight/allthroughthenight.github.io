@@ -5,7 +5,7 @@ title: "Unlocking Windows"
 
 My partner started school again and got a new laptop. While going through all the updates after not using it for a few months, they also upgraded from Windows 10 to Windows 11. After that everything went fine and they used their laptop for the rest of the day.
 
-When they went to use their laptop on first day of class and they couldn't log in. We tried an external keyboard, checked the caps lock and numpad, along with a bunch of other issues and exhausted everything we knew. Looking online we found others having password issues when upgrading from Windows 10 to Windows 11. My initial hunch was that their old password for Windows 10 didn't meet Windows 11 new password complexity. Talking with them more, they used Windows 10's pin feature to log in, which wasn't supported by Windows 11.
+When they went to use their laptop on first day of class and they couldn't log in. We tried an external keyboard, checked the caps lock and numpad, along with a bunch of other issues and exhausted everything we knew. Looking online we found others had password issues when upgrading from Windows 10 to Windows 11. My initial hunch was that their old password for Windows 10 didn't meet Windows 11 new password complexity. Talking with them more, they used Windows 10's pin feature to log in, which wasn't supported by Windows 11.
 
 I went to see what I could do with an Ubuntu live boot stick. A few posts and articles mentioned the theory behind registry editing, but [this one](https://ostechnix.com/reset-windows-password-with-linux-live-cd/) specifically gave me the details I needed.
 

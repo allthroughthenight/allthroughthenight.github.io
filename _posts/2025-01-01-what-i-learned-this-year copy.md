@@ -9,28 +9,30 @@ title: "What I Learned This Year - 2024"
 
 # Articles
 
-* [800% Detail: Tweaking Stunt Island’s 30-year-old 3D Engine](https://annali.netlify.app/2024/11/20/tweaking-stunt-island): This jumped out at me because of their usage of LLMs to simplify the reverse engineering process.
+[800% Detail: Tweaking Stunt Island’s 30-year-old 3D Engine](https://annali.netlify.app/2024/11/20/tweaking-stunt-island): This jumped out at me because of their usage of LLMs to simplify the reverse engineering process.
 
-* [Bot Spotter](https://walzr.com/bop-spotter): [ShotSpotter](https://en.wikipedia.org/wiki/ShotSpotter) but for music.
+[Bot Spotter](https://walzr.com/bop-spotter): [ShotSpotter](https://en.wikipedia.org/wiki/ShotSpotter) but for music.
 
-* [Harder Drive: Hard drives we didn't want or need](https://www.youtube.com/watch?v=JcJSW7Rprio&t=325s): Making a storage system with ICMP pings via ping latency.
+[Grifters, believers, grinders, and coasters](https://www.seangoedecke.com/programmer-archetypes/): I've had a similar ideation with certain personalities at work falling into certain stereotypes (argumentative, head down, people person). I enjoy how this article better forms this idea of mine.
 
-* [How I Built an NFC Movie Library for my Kids ](https://simplyexplained.com/blog/how-i-built-an-nfc-movie-library-for-my-kids/): A dad make their child a psudo home VHS collection with NFC movie cards.
+[Harder Drive: Hard drives we didn't want or need](https://www.youtube.com/watch?v=JcJSW7Rprio&t=325s): Making a storage system with ICMP pings via ping latency.
 
-* [How I won $2,750 using JavaScript, AI, and a can of WD-40](https://davekiss.com/blog/how-i-won-2750-using-javascript-ai-and-a-can-of-wd-40): The JavaScript was for calculating his odds before making an entry, after that it was straight forward and enjoyable seeing the outcomes.
+[How I Built an NFC Movie Library for my Kids ](https://simplyexplained.com/blog/how-i-built-an-nfc-movie-library-for-my-kids/): A dad make their child a psudo home VHS collection with NFC movie cards.
 
-* [Inside the "3 Billion People" National Public Data Breach](https://www.troyhunt.com/inside-the-3-billion-people-national-public-data-breach/): This caught my eye since it shows the behind-the-scenes work done by Troy Huny to validate various leaks.
+[How I won $2,750 using JavaScript, AI, and a can of WD-40](https://davekiss.com/blog/how-i-won-2750-using-javascript-ai-and-a-can-of-wd-40): The JavaScript was for calculating his odds before making an entry, after that it was straight forward and enjoyable seeing the outcomes.
 
-* [LinkedIn is now using everyone's content to train their AI tool](https://news.ycombinator.com/item?id=41585363)
+[Inside the "3 Billion People" National Public Data Breach](https://www.troyhunt.com/inside-the-3-billion-people-national-public-data-breach/): This caught my eye since it shows the behind-the-scenes work done by Troy Huny to validate various leaks.
+
+[LinkedIn is now using everyone's content to train their AI tool](https://news.ycombinator.com/item?id=41585363)
 > Somehow i feel sad for this AI model. All the others are trained on authentic content and this boy gets socialised on the most shallow content imaginable. Poor, socially awkward AI.
 
-* [O2 unveils Daisy, the AI granny wasting scammers’ time](https://news.virginmediao2.co.uk/o2-unveils-daisy-the-ai-granny-wasting-scammers-time/): An AI "grandma" that chats with phone scammers to keep them busy and protect real people from scams.
+[O2 unveils Daisy, the AI granny wasting scammers’ time](https://news.virginmediao2.co.uk/o2-unveils-daisy-the-ai-granny-wasting-scammers-time/): An AI "grandma" that chats with phone scammers to keep them busy and protect real people from scams.
 
-* [Show HN: If YouTube had actual channels](https://news.ycombinator.com/item?id=41247023): A YouTube browser that's like a regular TV. I use this at least once a day.
+[Show HN: If YouTube had actual channels](https://news.ycombinator.com/item?id=41247023): A YouTube browser that's like a regular TV. I use this at least once a day.
 
-* [The shortest, strangest engineering interview I've ever done](https://news.ycombinator.com/item?id=41263108): What started as a normal staff engineer interview process turned into a candidate just being nasty for no reason.
+[The shortest, strangest engineering interview I've ever done](https://news.ycombinator.com/item?id=41263108): What started as a normal staff engineer interview process turned into a candidate just being nasty for no reason.
 
-* [We did it🏴🏴🏴](https://undelete.pullpush.io/r/PiratedGames/comments/1f0b9wm/_/ljtzpjm/?context=4): Getting hacked after checking if a cracked game would work.
+[We did it🏴🏴🏴](https://undelete.pullpush.io/r/PiratedGames/comments/1f0b9wm/_/ljtzpjm/?context=4): Getting hacked after checking if a cracked game would work.
 
 # Collections
 
