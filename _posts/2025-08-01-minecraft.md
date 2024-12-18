@@ -7,7 +7,7 @@ This past summer I made a Minecraft server to play with some friends. One of the
 
 <steps on using azure interface>
 
-Everythin went fine untill starting the instance. There was an issue (with what again?). Once the instance was running I couldn't connect with my game client. Ports are on a allow-list i.e. only open what's allowed. First few start ups were manually, used system-md to get them going every restart.
+Everythin went fine until starting the instance. There was an issue (with what again?). Once the instance was running I couldn't connect with my game client. Ports are on a allow-list i.e. only open what's allowed. First few start ups were manually, used system-md to get them going every restart.
 
 Settings for making it more friendly.
 
