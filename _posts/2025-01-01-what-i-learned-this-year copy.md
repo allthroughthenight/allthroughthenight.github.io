@@ -34,6 +34,8 @@ title: "What I Learned This Year - 2024"
 
 [We did it🏴🏴🏴](https://undelete.pullpush.io/r/PiratedGames/comments/1f0b9wm/_/ljtzpjm/?context=4): Getting hacked after checking if a cracked game would work.
 
+[Why does HTML think “chucknorris” is a color?](https://stackoverflow.com/questions/8318911/why-does-html-think-chucknorris-is-a-color): a holdover from the Netscape days with missing digits treated as 0.
+
 # Collections
 
 LLMs for praising and roasting your GitHub profiles
