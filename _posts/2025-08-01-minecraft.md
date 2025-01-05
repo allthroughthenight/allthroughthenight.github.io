@@ -30,3 +30,31 @@ Ctrl + A, then D
 
 https://www.digitalocean.com/community/tutorials/how-to-create-a-minecraft-server-on-ubuntu-22-04
 https://www.cherryservers.com/blog/minecraft-server-ubuntu
+
+ssh -i "C:\Users\hyx\Documents\minecraft-server.pem" minecraft-admin@<ip-address>
+
+curl https://cdn.modrinth.com/data/O7RBXm3n/versions/g34oIg9D/InventoryProfilesNext-fabric-1.21.3-2.1.0.jar --output InventoryProfilesNext-fabric-1.21.3-2.1.0.jar
+
+curl -OJ https://meta.fabricmc.net/v2/versions/loader/1.21.4/0.16.9/1.0.1/server/jar --output fabric-server.jar
+
+cd /usr/local/games/minecraft_server/Java-modded
+/usr/bin/java -Xmx2048M -Xms2048M -jar fabric-server.jar nogui
+
+https://fabricmc.net/use/server/
+https://modrinth.com/mod/quicksort/version/yocnZSr3
+https://modrinth.com/mod/fabric-api/version/5tj7y3PJ
+https://modrinth.com/plugin/worldedit/version/rIYOU6Ta
+
+ops.json
+
+[
+    {
+        "uuid": "??",
+        "name": "??",
+        "level": 4,
+        "bypassesPlayerLimit": false
+    }
+]
+
+systemctl status minecraft
+sudo systemctl restart minecraft
