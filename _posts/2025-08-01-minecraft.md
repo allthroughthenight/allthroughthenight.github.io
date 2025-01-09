@@ -58,3 +58,5 @@ ops.json
 
 systemctl status minecraft
 sudo systemctl restart minecraft
+
+auto updating server (hau doe)
