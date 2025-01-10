@@ -12,3 +12,7 @@ And comparison is the theif of joy sometimes, knowing peers who're still in big 
 [big tech doesn't want you bro](https://www.instagram.com/p/C2if6nWSt7V/)
 [tech jobs have dried up](https://www.instagram.com/p/DAUjcsOSJUd/)
 [Ask HN: Are you unable to find employment?](https://news.ycombinator.com/item?id=42531830)
+
+- https://news.ycombinator.com/item?id=41119415
+
+https://www.wsj.com/podcasts/the-journal/netflixs-culture-led-to-extraordinary-parental-leave-thats-over/f075fd39-e135-4d03-84f1-b3930515831e
