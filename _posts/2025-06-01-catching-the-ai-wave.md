@@ -7,6 +7,8 @@ Last year I attended [GitHub Universe 2024](https://www.githubuniverse.com) virt
 
 LLMs are resource heavy, so you either need to pay for the services or have good hardward. For myself, I'm somewhat cheap, and I always have the dream of a home lab, so  I decided to put my quality hardware (AMD Ryzen 7 5700G, NVIDIA GeForce RTX 3060 TI, 32GB RAM) to use.
 
+https://github.com/TabbyML/tabby
+
 aider
 https://github.com/Aider-AI/aider
 https://www.instagram.com/p/DAeUYhCRoc_/
