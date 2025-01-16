@@ -5,21 +5,21 @@ title: "Print and Sign"
 
 I was asked to sign and return some legal documents. Foxit and Adobe let you sign digitally with their signature stamp feature. But since these were legal documents I was asked for a real signature. I didn't want to go down to the Officer Store to print, sign, and scan it, so I went back through some [hn](https://news.ycombinator.com/) posts that showed how to fake a real signature.
 
-[This](https://news.ycombinator.com/item?id=23160387) and [this](https://news.ycombinator.com/item?id=31083432) post show online services that do what you need. But since my documents had sensitive information I didn't want to upload them. Reading the posts more, they had comments on how to do the same locally.
+[This](https://news.ycombinator.com/item?id=23160387) and [this](https://news.ycombinator.com/item?id=31083432) post show services that do what you need. But since my documents has sensitive information I didn't want to upload them. Reading the posts more, they had comments on how to do the same locally.
 
-I first tried [this](https://news.ycombinator.com/item?id=23161664) command but it looked a bit too processed.
+I tried [this](https://news.ycombinator.com/item?id=23161664) command but it looked too processed.
 
 > convert -density 150 <input-file.pdf> -colorspace gray -linear-stretch 3.5%x10% -blur 0x0.5 -attenuate 0.25 +noise Gaussian -rotate 0.5 temp.pdf
 
-I ended up going with [this](https://news.ycombinator.com/item?id=23160387) command that had more of a light touch to it.
+I ended up with [this](https://news.ycombinator.com/item?id=23160387) command that was more of a light touch.
 
 > gs -dSAFER -dBATCH -dNOPAUSE -dNOCACHE -sDEVICE=pdfwrite -sColorConversionStrategy=LeaveColorUnchanged -dAutoFilterColorImages=true -dAutoFilterGrayImages=true -dDownsampleMonoImages=true -dDownsampleGrayImages=true -dDownsampleColorImages=true -sOutputFile=<output-file.pdf> temp.pdf
 
-I didn't expect that the PDF program you use to make the digital signature stamp with would have an impact. Between Foxit and Adobe, the later gives a much better result.
+I didn't expect the PDF program you use to make a difference with the digital signature stamp. Between Foxit and Adobe, the later gave a much better result.
 
-After spending all morning figuring this out, I was ready to send my pseudo signed and scanned document. I attached the document, then while typing my response I re-read the email and it said "Please provide an original signature". This seemed like a weird way of saying a real signature, so after looking it up I learned that [original signature](https://www.lawinsider.com/dictionary/original-signature) is an actual legal term. 
+After spending all morning figuring this out, I was ready to send my pseudo signed and scanned document. I attached the document, then while typing my response I re-read the email and it said "Please provide an original signature". This seemed like a weird way of saying a real signature, so after looking it up I learned that an [original signature](https://www.lawinsider.com/dictionary/original-signature) is a actual legal term. 
 
-Was all this work was for waste? I spend an entire morning making a new environment, dealing with dependencies, keeping track of signatures and documents, only to realize it didn't matter. A silver lining is that at least I read that line before submitting, instead of waiting for a response to get rejected again. And now if someone asks me to print and sign something I'll be ready.
+Was all this work was for waste? I spent all morning making a new environment, dealing with dependencies, keeping track of signatures and documents, only to realize it didn't matter. A silver lining is that at least I read that line before submitting, instead of waiting for a response to get rejected again. And now if someone asks me to print and sign something I'll be ready.
 
 I went down to the Office Store to print the document out, which is usually empty, but this day there was a line to use the printers. What would usually take ~5 minutes ended up being almost an hour.
 

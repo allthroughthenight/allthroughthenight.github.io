@@ -3,11 +3,11 @@ layout: post
 title: "You've Got a Friend"
 ---
 
-Aging in America is mostly centered around education. Graduating from elementary to intermediate/middle school is associated with puberty. Graduating from high school is a coming of age story for many. Sometimes college is used as a back drop instead.
+Aging in America is mostly centered around education. Going from elementary to intermediate/middle school is associated with puberty. Graduating from high school or university is a commong coming of age story for many.
 
 With popular sitcoms of the 90s focused on adult friend groups (Friends, Sienfield) it seemed like friendship in adulthood is a natural progression.
 
-Instead the loneliness epidemic is greater than ever. And anecdodatly, seeing my family and friends age, they've mentioned seeing their friends less.
+Instead the loneliness epidemic is greater than ever. And anecdodatly, seeing my family and friends age, they've mentioned seeing their friends less too.
 
 What I haven't seen disucussed about this is that besides our partner and immediate family, relationships don't last forever. Some friendships are situational, circumstancial, or you just grow out of them.
 
@@ -17,4 +17,4 @@ Years later I stumbled upon this [podcast](https://open.spotify.com/episode/7Gul
 
 [This chart](https://ourworldindata.org/grapher/time-spent-with-relationships-by-age-us) visually depicts how we naturally become loneliner as we age. 
 
-Like everything else, relationships aren't meant to last forever. This doesn't make me sad about my inevitable loneliness, but makes me want to appraciate the relationships I have now, while I still have them, and cherish them.
+Like everything else, relationships aren't meant to last forever. This doesn't make me sad about my inevitable loneliness, but makes me want to appraciate the relationships I have now.

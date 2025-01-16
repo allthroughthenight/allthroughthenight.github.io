@@ -9,4 +9,4 @@ Since my back is to the door I bought a rear view mirror. And it's easy for me t
 
 ![]({{site.baseurl}}/assets/2024-12-01-ergonomics-part-2/desk-02.jpg)
 
-Compred to my previous desk, it's hard for me to see views of outside, so my vision went from 20/15 to 20/30 in under 2 years. My lifestyle has been healthier when looking over that time, but in my new office I effectivley just look at a wall the entire time. So I'll move my desk to a different wall so I can better see out the window. Along with cleaning the window more so I can better look outside and focus on objects far way to keep my eyes healthy.
+Compred to my previous desk, it's hard for me to see views of outside, so my vision went from 20/15 to 20/30 in under 2 years. My lifestyle has been healthier when looking over that time, but in my new office I effectivley look at a wall all day. I'm planning to move my desk to a different wall so I can better see out the window. Along with cleaning the window more so I can better look outside and focus on objects far way to keep my eyes healthy.

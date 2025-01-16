@@ -9,9 +9,9 @@ Looking back at my media consumption over the past few years I saw a few issues:
 * [What I Read This Year: 2019]({{site.baseurl}}/2020/01/02/what-i-read-this-year.html): Books I read with [my method]({{site.baseurl}}/2020/10/01/how-i-read.html) are great for getting through a lot, but left me with a lack of [deep understanding in the long run.](https://news.ycombinator.com/item?id=29621642)
 * [What I Played This Year: 2020]({{site.baseurl}}/2021/01/02/what-i-played-this-year.html): Less about games I enjoyed, and more about finishing what I started (same for [2021]({{site.baseurl}}/2022/01/02/what-i-played-this-year.html)). I think it took away from my desire to read as much as I did in [2021]({{site.baseurl}}/2022/01/01/what-i-read-this-year.html).
 
-Reading an [hn post](https://news.ycombinator.com/item?id=29755155) made me realize I'm not taking advantage of my youth. Forcing myself to get through games I'm apathetic about, or speeding through audiobook summaries I don't care. When I could do stuff that I might not be able to a decade or so from now.
+Reading an [hn post](https://news.ycombinator.com/item?id=29755155) made me realize I'm not taking advantage of my youth. Forcing myself to get through games I'm apathetic about, or speeding through audiobook summaries I don't care about. When I could do stuff that I might not be able to a decade or so from now.
 
-This contradicts how I want to [enjoy my free time]({{site.baseurl}}/2021/06/01/purposeful-play.html), so I'm trying to find a balance. For now I'd like to merge these posts. And since this is more generic, I might included other media like movies, shows, and activities that are constant but don't need their own posts like Gunpla, Bouldering, or Disc golf.
+This contradicts how I want to [enjoy my free time]({{site.baseurl}}/2021/06/01/purposeful-play.html), so I'm trying to find a balance. For now I'd like to merge these posts. And since this is more generic, I might included other media like movies, shows, and activities that are constant but don't need their own posts like gunpla, bouldering, or disc golf.
 
 # Articles
 
