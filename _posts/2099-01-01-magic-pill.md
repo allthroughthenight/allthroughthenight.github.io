@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Pro Tips"
+title: "Magic Pills"
 ---
 
 NYT The Daily - A Turning Point for Ultraprocessed Foods
