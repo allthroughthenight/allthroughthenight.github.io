@@ -12,6 +12,7 @@ title: "What I Learned This Year - 2025"
 
 The GitHub profile of [Luigi Mangione](https://github.com/lnmangione), along with his most popular project's [issues](https://github.com/lnmangione/Halite-III/issues). An unexpected intersection of tech and popular events.
 
+[The fizzbuzz that did not get me the job](https://kranga.notion.site/The-fizzbuzz-that-did-not-get-me-the-job-180e7c22ef3b80c3a386f7f8de720ac7): A code golf implementation of the infamous interview question.
 
 # Collections
 
