@@ -16,4 +16,8 @@ The GitHub profile of [Luigi Mangione](https://github.com/lnmangione), along wit
 
 # Collections
 
+hardware
+https://lcamtuf.substack.com/p/pcbs-ground-planes-and-you
+https://andrewchilds.com/posts/building-a-t1d-smartwatch-from-scratch
+
 lorem ipsum
