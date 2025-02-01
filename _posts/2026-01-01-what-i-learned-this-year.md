@@ -16,6 +16,8 @@ The GitHub profile of [Luigi Mangione](https://github.com/lnmangione), along wit
 
 [Add F*cking to Your Google Searches to Neutralize AI Summaries](https://gizmodo.com/add-fcking-to-your-google-searches-to-neutralize-ai-summaries-2000557710): [hn](https://news.ycombinator.com/item?id=42892191) comments also recommend using a negation flag "-fucking" to neutralize the AI response, but also avoid vulgar results
 
+[Jailbreaking DeepSeek R1 - Prompt Injection Using Charcodes](https://substack.com/home/post/p-156004330): TBD
+
 # Collections
 
 hardware
