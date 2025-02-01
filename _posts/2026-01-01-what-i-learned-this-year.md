@@ -14,6 +14,8 @@ The GitHub profile of [Luigi Mangione](https://github.com/lnmangione), along wit
 
 [The fizzbuzz that did not get me the job](https://kranga.notion.site/The-fizzbuzz-that-did-not-get-me-the-job-180e7c22ef3b80c3a386f7f8de720ac7): A code golf implementation of the infamous interview question.
 
+[Add F*cking to Your Google Searches to Neutralize AI Summaries](https://gizmodo.com/add-fcking-to-your-google-searches-to-neutralize-ai-summaries-2000557710): [hn](https://news.ycombinator.com/item?id=42892191) comments also recommend using a negation flag "-fucking" to neutralize the AI response, but also avoid vulgar results
+
 # Collections
 
 hardware
