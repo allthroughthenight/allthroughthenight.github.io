@@ -21,6 +21,7 @@ The GitHub profile of [Luigi Mangione](https://github.com/lnmangione), along wit
 [Shopify Live Globe 2024](https://bfcm.shopify.com/)
 
 [fix our pics.](https://www.fixourpics.com/)
+[The Better Architect You Are, The Simpler Your Diagrams](https://www.yegor256.com/2015/06/29/simple-diagrams.html)
 
 # Collections
 
