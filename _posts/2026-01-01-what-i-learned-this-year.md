@@ -18,6 +18,8 @@ The GitHub profile of [Luigi Mangione](https://github.com/lnmangione), along wit
 
 [Jailbreaking DeepSeek R1 - Prompt Injection Using Charcodes](https://substack.com/home/post/p-156004330): TBD
 
+[Shopify Live Globe 2024](https://bfcm.shopify.com/)
+
 # Collections
 
 hardware
