@@ -23,6 +23,10 @@ The GitHub profile of [Luigi Mangione](https://github.com/lnmangione), along wit
 [fix our pics.](https://www.fixourpics.com/)
 [The Better Architect You Are, The Simpler Your Diagrams](https://www.yegor256.com/2015/06/29/simple-diagrams.html)
 
+https://wikitok.vercel.app/
+https://presentofcoding.substack.com/p/repeated-llm-sampling-and-the-challenge
+chat interaction is like pair programming: https://news.ycombinator.com/item?id=42936346
+
 # Collections
 
 hardware
