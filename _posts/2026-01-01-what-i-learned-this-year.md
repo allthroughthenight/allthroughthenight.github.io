@@ -26,6 +26,7 @@ The GitHub profile of [Luigi Mangione](https://github.com/lnmangione), along wit
 https://wikitok.vercel.app/
 https://presentofcoding.substack.com/p/repeated-llm-sampling-and-the-challenge
 chat interaction is like pair programming: https://news.ycombinator.com/item?id=42936346
+swe as a career and taking pride in work: https://news.ycombinator.com/item?id=42946281
 
 # Collections
 
