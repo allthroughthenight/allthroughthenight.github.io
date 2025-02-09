@@ -29,6 +29,7 @@ chat interaction is like pair programming: https://news.ycombinator.com/item?id=
 swe as a career and taking pride in work: https://news.ycombinator.com/item?id=42946281
 https://news.ycombinator.com/item?id=42950976
 https://news.ycombinator.com/item?id=42983275
+https://news.ycombinator.com/item?id=42977039
 
 # Collections
 
