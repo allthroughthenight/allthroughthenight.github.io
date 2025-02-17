@@ -36,6 +36,7 @@ https://www.404media.co/anyone-can-push-updates-to-the-doge-gov-website-2/
 https://itizso.itch.io/retrofab
 https://labs.google/fx/tools/whisk
 mcmastercarr hacker news
+https://weeks.ginatrapani.org/
 
 # Collections
 
