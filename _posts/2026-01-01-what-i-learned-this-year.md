@@ -33,6 +33,9 @@ https://news.ycombinator.com/item?id=42977039
 
 https://www.404media.co/anyone-can-push-updates-to-the-doge-gov-website-2/
 
+https://indieblog.page/suggest
+https://news.ycombinator.com/item?id=43135176
+https://news.ycombinator.com/item?id=43094895
 https://itizso.itch.io/retrofab
 https://labs.google/fx/tools/whisk
 mcmastercarr hacker news
