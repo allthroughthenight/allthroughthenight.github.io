@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "With The Boys"
+title: "With The Boiz"
 ---
 
 This past summer I made a Minecraft server to play with some friends. One of them works at Microsoft and get a good amount of Azure credits per month. My initial hunch was to see if there was a pre-made Minecraft container image, or a pre-made instance image. There wasn't so I would have to build it out normally.

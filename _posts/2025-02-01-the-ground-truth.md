@@ -17,11 +17,11 @@ Having applied to over 300 jobs over the past 18 months, and checking LinkedIn r
 
 The biggest filter is the ATS filter, then the HR rep forwarding resumes to the HM. Here are actionable tips that will help improve your chances:
 
-- Automation is king: Use autofill, or any othe toolsm, to apply faster.
-- Don't tailor your resume: Don't wast your time trying to beat the HR selection lottery, you're better off being the first to apply.
-- Numbes don't matter: Cold applying numbers don't matter, don't get discouraged.
+- Automation is king: Use autofill, or any other tools, to apply faster.
+- Don't tailor your resume: You can't beat the HR selection lottery, you're better off being the first to apply.
+- Numbers don't matter: Don't get discouraged. Cold applying numbers don't matter when some listing get 500+ applications in the first hour.
 - Use an email filter: With all the applications being put out, have filters to label them so you can best see them when they arrive.
-- Have anonymous contact information: Many job sites will have psudo job postings to collec information, so have a separate job application email to avoid getting spammed.
+- Anonymous contact information: Many job sites will have psudo job postings to collect information, use a separate job application email and Google voice number to avoid getting spammed.
 
 This seems a bit pessemistic, so what can you do?
 
