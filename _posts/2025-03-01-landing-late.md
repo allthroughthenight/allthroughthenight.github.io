@@ -7,3 +7,5 @@ Another addition to my job search saga ([1](https://allthroughthenight.github.io
 
 
 ![]({{site.baseurl}}/assets/2025-03-01-landing-late/2025-job-search.png)
+
+A major difference this time around was that I put a lot more effort into applications and studying since winter and spring are when companies pick up hiring.
