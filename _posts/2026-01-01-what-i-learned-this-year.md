@@ -9,19 +9,21 @@ title: "What I Learned This Year - 2025"
 
 # Articles
 
+[Add F*cking to Your Google Searches to Neutralize AI Summaries](https://gizmodo.com/add-fcking-to-your-google-searches-to-neutralize-ai-summaries-2000557710): [hn](https://news.ycombinator.com/item?id=42892191) also recommends using a negation flag "-fucking" to neutralize the AI response, but also avoid vulgar results
 
-The GitHub profile of [Luigi Mangione](https://github.com/lnmangione), along with his most popular project's [issues](https://github.com/lnmangione/Halite-III/issues). An unexpected intersection of tech and popular events.
+[fix our pics.](https://www.fixourpics.com/): Helping tech bros find the best dating profile pictures.
+
+[Jailbreaking DeepSeek R1 - Prompt Injection Using Charcodes](https://substack.com/home/post/p-156004330): Using psudo-machine code to jail break LLMs.
+
+[lnmangione](https://github.com/lnmangione): The GitHub profile of Luigi Mangione, along with his most popular project's [issues](https://github.com/lnmangione/Halite-III/issues). An unexpected intersection of tech and popular events.
+
+[Shopify Live Globe 2024](https://bfcm.shopify.com/): An interactive site for Black Friday stats.
+
+[The Better Architect You Are, The Simpler Your Diagrams](https://www.yegor256.com/2015/06/29/simple-diagrams.html): Truths when doing system design diagrams.
 
 [The fizzbuzz that did not get me the job](https://kranga.notion.site/The-fizzbuzz-that-did-not-get-me-the-job-180e7c22ef3b80c3a386f7f8de720ac7): A code golf implementation of the infamous interview question.
 
-[Add F*cking to Your Google Searches to Neutralize AI Summaries](https://gizmodo.com/add-fcking-to-your-google-searches-to-neutralize-ai-summaries-2000557710): [hn](https://news.ycombinator.com/item?id=42892191) comments also recommend using a negation flag "-fucking" to neutralize the AI response, but also avoid vulgar results
 
-[Jailbreaking DeepSeek R1 - Prompt Injection Using Charcodes](https://substack.com/home/post/p-156004330): TBD
-
-[Shopify Live Globe 2024](https://bfcm.shopify.com/)
-
-[fix our pics.](https://www.fixourpics.com/)
-[The Better Architect You Are, The Simpler Your Diagrams](https://www.yegor256.com/2015/06/29/simple-diagrams.html)
 
 https://wikitok.vercel.app/
 https://presentofcoding.substack.com/p/repeated-llm-sampling-and-the-challenge
