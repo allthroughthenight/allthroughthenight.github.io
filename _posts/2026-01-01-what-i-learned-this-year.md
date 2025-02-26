@@ -37,4 +37,4 @@ Software development topics I've changed my mind on: [The article](https://chris
 
 [The impact of AI on the technical interview process](https://coderev.app/blog/the-impact-of-ai-on-the-technical-interview-process): A critique of tech interviews, their formulaic nature, and their relevance when AI can trivially solve them. Along with similar anecdotes on [hn](https://news.ycombinator.com/item?id=42977039).
 
-[WikiTol](https://wikitok.vercel.app/): Doom scroll random Wikipedia articles
+[WikiTol](https://wikitok.vercel.app/): Doom scroll random Wikipedia articles.

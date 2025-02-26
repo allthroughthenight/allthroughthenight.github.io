@@ -22,7 +22,9 @@ The biggest filter is the ATS filter, then the HR rep forwarding resumes to the 
 - Numbes don't matter: Cold applying numbers don't matter, don't get discouraged.
 - Use an email filter: With all the applications being put out, have filters to label them so you can best see them when they arrive.
 - Have anonymous contact information: Many job sites will have psudo job postings to collec information, so have a separate job application email to avoid getting spammed.
-- one-click apply is okay: I've applyed with one-click (indeed, LinkedIn, Dice) for maybe 200 positions. But I also didn't expect anything from them. On a certain level I considred it my own busy work. But to sit and just do nothing because something is futile isn't in my nature.
-- LinkedIn is alright: 
+
+This seems a bit pessemistic, so what can you do?
+
+- LinkedIn: Have it up to date and check it regularly.
 
 The tone of this post is a bit pessimistic, but when it comes to making a living, you need to be best equiped to take on the challenges of the new job market.

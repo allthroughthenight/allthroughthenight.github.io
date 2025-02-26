@@ -6,7 +6,7 @@ title: "Pro Tips"
 Stackoverflow
 Changelog
 Developer tea
-The journal
+The Journal
 School of war
 Modern military institute 
 
