@@ -23,14 +23,12 @@ title: "What I Learned This Year - 2025"
 
 [The fizzbuzz that did not get me the job](https://kranga.notion.site/The-fizzbuzz-that-did-not-get-me-the-job-180e7c22ef3b80c3a386f7f8de720ac7): A code golf implementation of the infamous interview question.
 
+[WikiTol](https://wikitok.vercel.app/): Doom scroll random Wikipedia articles
 
+[on: Chat is a bad UI pattern for development tools](https://news.ycombinator.com/item?id=42936346): This hn comment is similar to how I use LLMs for coding. Interacting via chat can seem clunky, but it operates like pair programming, and helps me better understand what I need byt having to describe it properly.
 
-https://wikitok.vercel.app/
-https://presentofcoding.substack.com/p/repeated-llm-sampling-and-the-challenge
-chat interaction is like pair programming: https://news.ycombinator.com/item?id=42936346
-swe as a career and taking pride in work: https://news.ycombinator.com/item?id=42946281
-https://news.ycombinator.com/item?id=42950976
-https://news.ycombinator.com/item?id=42983275
+Software development topics I've changed my mind on: [The article](https://chriskiehl.com/article/thoughts-after-10-years) and [hn comments](https://news.ycombinator.com/item?id=42946281) provide contrast each other about what it means to take development seriously as a career, but to also not let it make you caustic because it's a job that's a means to an end to just pay the bills.
+
 https://news.ycombinator.com/item?id=42977039
 
 https://www.404media.co/anyone-can-push-updates-to-the-doge-gov-website-2/
