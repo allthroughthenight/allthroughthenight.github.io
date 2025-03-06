@@ -13,6 +13,8 @@ title: "What I Learned This Year - 2025"
 
 [Building a (T1D) smartwatch from scratch](https://andrewchilds.com/posts/building-a-t1d-smartwatch-from-scratch):  Designing a custom smartwatch to help their son manage diabetes by focusing on simplicity and reliability compared to existing devices.
 
+[DoomPFD](https://doompdf.pages.dev/doom.pdf): Full game implemented in a pdf document, showing how liberal the document specification is.
+
 [fix our pics.](https://www.fixourpics.com/): Helping tech bros find the best dating profile pictures.
 
 [Jailbreaking DeepSeek R1 - Prompt Injection Using Charcodes](https://substack.com/home/post/p-156004330): Using psudo-machine code to jail break LLMs.
