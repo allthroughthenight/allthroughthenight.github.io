@@ -42,3 +42,5 @@ Software development topics I've changed my mind on: [The article](https://chris
 [WikiTol](https://wikitok.vercel.app/): Doom scroll random Wikipedia articles.
 
 [Youth and what happens when it's gone](https://news.ycombinator.com/item?id=43242815)
+
+[AI fakers exposed in tech dev recruitment: postmortem](https://newsletter.pragmaticengineer.com/p/ai-fakers)
