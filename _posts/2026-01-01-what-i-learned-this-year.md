@@ -44,3 +44,5 @@ Software development topics I've changed my mind on: [The article](https://chris
 [Youth and what happens when it's gone](https://news.ycombinator.com/item?id=43242815)
 
 [AI fakers exposed in tech dev recruitment: postmortem](https://newsletter.pragmaticengineer.com/p/ai-fakers)
+
+[Cursor told me I should learn coding instead of asking it to generate it + limit of 800 locs](https://forum.cursor.com/t/cursor-told-me-i-should-learn-coding-instead-of-asking-it-to-generate-it-limit-of-800-locs/61132)
