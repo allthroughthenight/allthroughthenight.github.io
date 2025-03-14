@@ -46,3 +46,5 @@ Software development topics I've changed my mind on: [The article](https://chris
 [AI fakers exposed in tech dev recruitment: postmortem](https://newsletter.pragmaticengineer.com/p/ai-fakers)
 
 [Cursor told me I should learn coding instead of asking it to generate it + limit of 800 locs](https://forum.cursor.com/t/cursor-told-me-i-should-learn-coding-instead-of-asking-it-to-generate-it-limit-of-800-locs/61132)
+
+[In Praise of “Normal” Engineers](https://spectrum.ieee.org/10x-engineer)
