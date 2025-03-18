@@ -50,3 +50,5 @@ Software development topics I've changed my mind on: [The article](https://chris
 [In Praise of “Normal” Engineers](https://spectrum.ieee.org/10x-engineer)
 
 [sumanthsamala.com](https://sumanthsamala.com/): Why tell recruiters you can code when you can show them? Great job, Sumanth!
+
+[Career Advice in 2025](https://news.ycombinator.com/item?id=43375923)
