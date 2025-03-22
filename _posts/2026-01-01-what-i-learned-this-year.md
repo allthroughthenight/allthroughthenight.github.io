@@ -54,3 +54,7 @@ Software development topics I've changed my mind on: [The article](https://chris
 [Career Advice in 2025](https://news.ycombinator.com/item?id=43375923)
 
 [The High Heel Problem](https://simonschreibt.de/gat/the-high-heel-problem/)
+
+[on: Claude can now search the web](https://news.ycombinator.com/item?id=43426861)
+> >looks at the top X hits and then interprets it to be the correct answer.
+> LLMs are truly reaching human-like behavior then
