@@ -51,6 +51,9 @@ Software development topics I've changed my mind on: [The article](https://chris
 
 [sumanthsamala.com](https://sumanthsamala.com/): Why tell recruiters you can code when you can show them? Great job, Sumanth!
 
+Leadership
+[Career Development: What It Means to Be a Manager, Director, or VP (2015)](https://news.ycombinator.com/item?id=43434093)(
+[The Burnout Machine](https://news.ycombinator.com/item?id=43427002)
 [Career Advice in 2025](https://news.ycombinator.com/item?id=43375923)
 
 [The High Heel Problem](https://simonschreibt.de/gat/the-high-heel-problem/)
@@ -58,3 +61,5 @@ Software development topics I've changed my mind on: [The article](https://chris
 [on: Claude can now search the web](https://news.ycombinator.com/item?id=43426861)
 > >looks at the top X hits and then interprets it to be the correct answer.
 > LLMs are truly reaching human-like behavior then
+
+[FOSS infrastructure is under attack by AI companies](https://news.ycombinator.com/item?id=43422413)
