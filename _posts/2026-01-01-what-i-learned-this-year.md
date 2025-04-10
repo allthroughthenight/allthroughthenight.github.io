@@ -65,3 +65,5 @@ Leadership
 [FOSS infrastructure is under attack by AI companies](https://news.ycombinator.com/item?id=43422413)
 
 [The Worst Programmer I Know](https://dannorth.net/the-worst-programmer/)
+
+https://blog.gitbutler.com/20-years-of-git/
