@@ -67,3 +67,12 @@ Leadership
 [The Worst Programmer I Know](https://dannorth.net/the-worst-programmer/)
 
 https://blog.gitbutler.com/20-years-of-git/
+
+https://endler.dev/2025/best-programmers/
+
+AI Job Prep: It's own post? Using at work?
+https://www.kapwing.com/blog/what-its-like-to-interview-a-software-engineer-preparing-with-ai/
+https://www.linkedin.com/posts/dawid-moczadlo_wtf-developer-used-ai-to-alter-his-appearance-activity-7292604406464671744-T_Nw/
+https://www.reddit.com/r/devops/comments/1g3np7t/candidates_using_ai_assistants_in_interviews/
+
+https://www.oneusefulthing.org/p/no-elephants-breakthroughs-in-image
