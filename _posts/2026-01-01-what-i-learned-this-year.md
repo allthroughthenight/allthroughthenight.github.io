@@ -80,3 +80,5 @@ https://blog.pragmaticengineer.com/tech-hiring-is-this-an-inflection-point/
 https://www.oneusefulthing.org/p/no-elephants-breakthroughs-in-image
 
 - notebook llm and aideaflowpodcast.com
+
+https://github.com/resources/whitepapers/gartner-ai-will-not-replace-software-engineers
