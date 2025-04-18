@@ -75,6 +75,7 @@ https://www.kapwing.com/blog/what-its-like-to-interview-a-software-engineer-prep
 https://www.linkedin.com/posts/dawid-moczadlo_wtf-developer-used-ai-to-alter-his-appearance-activity-7292604406464671744-T_Nw/
 https://www.reddit.com/r/devops/comments/1g3np7t/candidates_using_ai_assistants_in_interviews/
 https://www.cnbc.com/amp/2025/04/08/fake-job-seekers-use-ai-to-interview-for-remote-jobs-tech-ceos-say.html
+https://blog.pragmaticengineer.com/tech-hiring-is-this-an-inflection-point/
 
 https://www.oneusefulthing.org/p/no-elephants-breakthroughs-in-image
 
