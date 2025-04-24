@@ -69,6 +69,7 @@ Leadership
 https://blog.gitbutler.com/20-years-of-git/
 
 https://endler.dev/2025/best-programmers/
+https://cookieplmonster.github.io/2025/04/23/gta-san-andreas-win11-24h2-bug/
 
 AI Job Prep: It's own post? Using at work?
 https://www.kapwing.com/blog/what-its-like-to-interview-a-software-engineer-preparing-with-ai/
