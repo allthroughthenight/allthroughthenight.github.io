@@ -71,6 +71,7 @@ https://blog.gitbutler.com/20-years-of-git/
 https://endler.dev/2025/best-programmers/
 https://cookieplmonster.github.io/2025/04/23/gta-san-andreas-win11-24h2-bug/
 
+https://blog.kraken.com/news/how-we-identified-a-north-korean-hacker
 AI Job Prep: It's own post? Using at work?
 https://www.kapwing.com/blog/what-its-like-to-interview-a-software-engineer-preparing-with-ai/
 https://www.linkedin.com/posts/dawid-moczadlo_wtf-developer-used-ai-to-alter-his-appearance-activity-7292604406464671744-T_Nw/
