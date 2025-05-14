@@ -5,7 +5,7 @@ title: "What I Learned This Year - 2024"
 
 # Introduction
 
-2024 was a tough year for me. Continuing my layoff from the year before, I put a lot of pressure on myself to find a new job. It's discouraging to try your best and still fail. On the plus side with all the extra time I had, I was able to think about to do what I wanted to do, and not just what I needed to do. So my "What I Leanred This Year" post is back in top form with all the fun and interesting reads I found this past year.
+2024 was a tough year for me. Continuing my layoff from the year before, I put a lot of pressure on myself to find a new job. With all the extra time I had, I was able to think about to do what I wanted to do, and not just what I needed to do. So my "What I Leanred This Year" post is back in top form with all the fun and interesting reads I found this past year.
 
 # Articles
 
@@ -13,7 +13,7 @@ title: "What I Learned This Year - 2024"
 
 [Bot Spotter](https://walzr.com/bop-spotter): [ShotSpotter](https://en.wikipedia.org/wiki/ShotSpotter) but for music.
 
-[Grifters, believers, grinders, and coasters](https://www.seangoedecke.com/programmer-archetypes/): I've had a similar ideation with certain personalities at work falling into certain stereotypes (argumentative, head down, people person). I enjoy how this article better forms this idea of mine.
+[Grifters, believers, grinders, and coasters](https://www.seangoedecke.com/programmer-archetypes/): I've had a similar ideation with certain personalities at work falling into certain stereotypes (argumentative, head down, people person). I enjoy how this article better forms this idea of mine. This also aligns with [the 4 types of officer](https://fromthegreennotebook.com/2023/05/22/4-types-of-officers-and-how-to-develop-yourself-and-others/).
 
 [Harder Drive: Hard drives we didn't want or need](https://www.youtube.com/watch?v=JcJSW7Rprio&t=325s): Making a storage system with ICMP pings via ping latency.
 

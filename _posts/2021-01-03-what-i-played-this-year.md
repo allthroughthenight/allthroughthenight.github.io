@@ -3,7 +3,7 @@ layout: post
 title: "What I Played This Year - 2020"
 ---
 
-Gaming isn't unique to tech, but I've gotten better at working on my backlog, and i short, it was the year of platformers.
+Gaming isn't unique to tech, but I've gotten better at working on my backlog, and this year was the year of platformers.
 
 # Games
 

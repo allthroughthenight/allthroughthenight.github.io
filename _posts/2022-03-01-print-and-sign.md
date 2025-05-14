@@ -5,7 +5,7 @@ title: "Print and Sign"
 
 I was asked to sign and return some legal documents. Foxit and Adobe let you sign digitally with their signature stamp feature. But since these were legal documents I was asked for a real signature. I didn't want to go down to the Officer Store to print, sign, and scan it, so I went back through some [hn](https://news.ycombinator.com/) posts that showed how to fake a real signature.
 
-[This](https://news.ycombinator.com/item?id=23160387) and [this](https://news.ycombinator.com/item?id=31083432) post show services that do what you need. But since my documents has sensitive information I didn't want to upload them. Reading the posts more, they had comments on how to do the same locally.
+These posts ([1](https://news.ycombinator.com/item?id=23160387), [2](https://news.ycombinator.com/item?id=31083432)) show services that do what you need. But since my documents has sensitive information I didn't want to upload them. Reading the posts more, they had comments on how to do the same locally.
 
 I tried [this](https://news.ycombinator.com/item?id=23161664) command but it looked too processed.
 

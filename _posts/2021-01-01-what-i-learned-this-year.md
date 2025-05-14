@@ -3,9 +3,9 @@ layout: post
 title: "What I Learned This Year - 2020"
 ---
 
-This is a follow-up to my [previous post]({{site.baseurl}}/2020/01/01/what-i-learned-this-year.html), which I hope I can keep going as a regular series.
+This is a follow-up to my [previous post]({{site.baseurl}}/2020/01/01/what-i-learned-this-year.html), which I hope to keep as a regular series.
 
-When I first started, after a few months I was wondering how this post was almost as long as the previous one but covering less time. Going over it, I noticed that I fixated on articles that'd bemoan the strifes on working in tech. But I want to keep the tone of this positive, so I removed all that stuff, and made sure everything is focused more on tech than just what I found interesting in general.
+When I first started, after a few months I was wondering how this post was almost as long as the previous one but covering less time. Going over it, I noticed that I fixated on articles that'd bemoan the strifes on working in tech. But I want to keep the tone of this positive, so I removed all that stuff, and made sure everything is focused on tech, instead of what I found interesting in general.
 
 # Articles
 

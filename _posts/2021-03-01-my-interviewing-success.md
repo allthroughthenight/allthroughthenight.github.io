@@ -3,7 +3,7 @@ layout: post
 title: "My Interviewing Success"
 ---
 
-I have a [few](https://allthroughthenight.github.io/2018/04/11/jump-start.html) [past](https://allthroughthenight.github.io/2018/05/03/virtually-interviewed.html) [posts](https://allthroughthenight.github.io/2020/07/11/a-good-interview.html) about my interviewing experiences, so recently I sat down and tried to remember my overall success and failures, if for no other reason, then to share that it's not uncommon to get rejected. And in true [r/cscareerquestion](https://www.reddit.com/r/cscareerquestions/) fashion, I made a [sankey diagram](http://sankeymatic.com/build/) to visualize how everything went.
+I have a few past posts ([1](https://allthroughthenight.github.io/2018/04/11/jump-start.html), [2](https://allthroughthenight.github.io/2018/05/03/virtually-interviewed.html), [3](https://allthroughthenight.github.io/2020/07/11/a-good-interview.html)) about my interview experiences, so recently I sat down and tried to remember my overall success and failures to show that it's not uncommon to get rejected. And in true [r/cscareerquestion](https://www.reddit.com/r/cscareerquestions/) fashion, I made a [sankey diagram](http://sankeymatic.com/build/) to visualize how everything went.
 
 # 2017 Internship
 
@@ -21,7 +21,7 @@ Looking for my first job as a new grad was rough. Luckily I was able to get a So
 
 ![]({{site.baseurl}}/assets/2021-03-01-my-interviewing-success/2020-job-search.png)
 
-My first position was a learning experience, but for the wrong reasons. When I started shopping on my own I didn't have much success, then a friend reached out and refereed me and I was able to move to a better position and company.
+My first position was a learning experience, but for the wrong reasons. When I started shopping on my own I didn't have much success, then a friend reached out, refereed me, and I was able to move to a better position and company.
 
 # Overall
 

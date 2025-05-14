@@ -3,7 +3,7 @@ layout: post
 title: "System Unlock"
 ---
 
-When I got my first computer for myself, it came with Windows pre-installed. I tinkered with is for a while trying various Linux distros, but since the Windows Product key was on a sticker under the battery, I was always able to reinstall a valid version of Window in case anything happened.
+When I got my first PC, it came with Windows pre-installed. I tinkered with is for a while trying various Linux distros, but since the Windows Product key was on a sticker under the battery, I was always able to reinstall it in case anything happened.
 
 When I started my undergrad I didn't care for Windows, and used Linux as a daily driver. Once I graduated I made myself a desktop and went back to Windows to play games with friends.
 

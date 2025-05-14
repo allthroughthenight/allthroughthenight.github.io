@@ -3,7 +3,7 @@ layout: post
 title: "Playing With The Boiz"
 ---
 
-This past summer I made a Minecraft server to play with some friends. One of them works at Microsoft and get a good amount of Azure credits per month. My initial hunch was to see if there was a pre-made Minecraft container image, or a pre-made instance image. There wasn't so I would have to build it out normally.
+This past summer I made a Minecraft server to play with some friends. One of them works at Microsoft and gets Azure credits every month. My initial hunch was to see if there was a pre-made Minecraft container image but there wasn't so I had to build it out normally.
 
 <steps on using azure interface>
 

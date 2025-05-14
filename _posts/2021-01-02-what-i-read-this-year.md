@@ -3,7 +3,7 @@ layout: post
 title: "What I Read This Year - 2020"
 ---
 
-The title is self explanatory, but these [two]({{site.baseurl}}/2020/01/02/what-i-read-this-year.html) [posts]({{site.baseurl}}/2020/10/01/how-i-read.html) give context.
+The title is self explanatory, but these two posts ([one]({{site.baseurl}}/2020/01/02/what-i-read-this-year.html), [two]({{site.baseurl}}/2020/10/01/how-i-read.html)) give context.
 
 # Books
 

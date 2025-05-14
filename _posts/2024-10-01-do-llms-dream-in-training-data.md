@@ -10,9 +10,9 @@ title: "Do LLMs Dream in Training Data?"
 * [AI Makes Tech Debt More Expensive](https://www.gauge.sh/blog/ai-makes-tech-debt-more-expensive): I have a friend that's been worried about how good AI has been getting and it's danger to his currnet position. But current AI is best when going from zero-to-one (getting started with something you have no idea about) or needing to understanding something specific for yourself (what is the context of this function call). It's currnet ability to apply novel solutions to large existing complex problems is limited. This [hn comments](https://news.ycombinator.com/item?id=42137527) echo the same sentiment, along with another friend of mine who uses Github Copilot regularly for work as a senior engineer.
 
 * [Final Round AI](https://www.finalroundai.com/): A SaaS platform that coaches you through technical interviews. It's not dystopian, just [hilarious](https://www.tiktok.com/@withsilverapp/video/7413082265556667691), and this is just the [tip of the iceberg](https://news.ycombinator.com/item?id=30150343) in the new era of job searches. Other related tools have popped up under labeled as "interview copilots".
-* [LockedIn AI](https://www.lockedinai.com/)
 * [Interview CoPilot](https://interviewcopilot.io/)
-* [Sensei AI](https://www.senseicopilot.com/)
 * [Interviews](https://www.interviews.chat/)
+* [LockedIn AI](https://www.lockedinai.com/)
+* [Sensei AI](https://www.senseicopilot.com/)
 
 * [The Intelligence Age](https://news.ycombinator.com/item?id=41628167): I remember talking with classmates about this during undergrad. From vacuum tubes, to transistors, to microchips, to the information age, to the AI age.

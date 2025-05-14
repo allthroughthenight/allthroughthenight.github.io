@@ -3,7 +3,7 @@ layout: post
 title: "Quiet Checklist"
 ---
 
-There's conflicting information about how to achieve a goal. On one side, you should announce your goals so others can hold you accountable. On the other side, you shouldn't tell anyone and just do it. I subscribe to the second viewpoint. If I need to lean on outside support for motivation, then maybe I'm not motivated for the right reasons, and recently read an [article](https://sivers.org/zipit) that agrees.
+There's conflicting information about how to achieve a goal. On one side, you should announce your goals so others can hold you accountable. On the other side, you shouldn't tell anyone and just do it. I subscribe to the second viewpoint. If I need to lean on outside support for motivation, then maybe I'm not motivated for the right reasons, and I recently read an [article](https://sivers.org/zipit) that agrees.
 
 To summarize, you shouldn't tell others your goals and plans, or even your progress. You get the same mental satisfaction from just talking about a goal as if you actually did it. So you'll be less motivated to start since you already feel like you've been rewarded. But it's easy to stop talking, what should you start doing? My advice is to make a checklist, explained with the quote below:
 

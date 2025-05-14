@@ -5,7 +5,7 @@ title: "The Network Strikes Back"
 
 My partner works from home, so having a stable internet internet connection is required. My desktop is hard wired, and their work laptop uses wifi. Whenever we have internet issues, the wifi is impacted more than the wired connection, so I rarely notice while they rush to reboot the router before they're kicked from their coporate VPN.
 
-Recently we've had a slew of ISP outtages, which causes my partner to constantly reboot our router to mitigate the issue. Days later after service was restored to normal, we still saw connectivity issues, along with our 5Ghz band not working. I didn't think much of it at first, then one evening the show we were streaming failed to load.
+Recently we had a bunch of ISP outtages, which causes my partner to constantly reboot our router to mitigate the issue. Days later after service was restored to normal, we still saw connectivity issues, along with our 5Ghz band not working. I didn't think much of it at first, then one evening the show we were streaming failed to load.
 
 I check on our router at 192.168.1.1 expecting a Linksys log-in screen.
 
@@ -15,7 +15,7 @@ But instead I see this log-in screen.
 
 ![]({{site.baseurl}}/assets/2024-09-01-the-network-strikes-back/openwrt-luci-login.png)
 
-At this point I'm worried that our router was hacked and our network got pwned, explaining the other intermitent internet issues. A google reverse image search of the login portal showed it's an OpenWRT's login page. Thinking back to my [last usage of OpenWRT]({{site.baseurl}}/2022/04/01/no-more-networking.html), I thought I flashed the partition with the OEM firmware, so this puzzled me.
+At this point I'm worried that our router was hacked and our network got pwned, explaining the other intermitent internet issues. A Google image search of the login portal showed it's an OpenWRT's login page. Thinking back to my [last usage of OpenWRT]({{site.baseurl}}/2022/04/01/no-more-networking.html), I thought I flashed the partition with the OEM firmware, so this puzzled me.
 
 Their page to [uninstall OpenWRT](https://openwrt.org/faq/uninstall_openwrt_back_to_stock) directs to ther [table of hardware](https://openwrt.org/toh/start) and [back to original firmware](https://openwrt.org/docs/guide-user/installation/generic.uninstall) about writing directly with `dd`. Neither page inspired confidence, but the second page had a [section at the bottom](https://openwrt.org/docs/guide-user/installation/generic.uninstall#via_bootloader) that links to reinstalling the OEM firmware via the GUI. Which is really just [installing it normally](https://openwrt.org/docs/guide-user/installation/generic.flashing), which then leads back to their [table of hardware](https://openwrt.org/toh/start), which finally brought me to the page for my [Linksys WRT1900AC](https://openwrt.org/toh/linksys/wrt1900ac) (phew). 
 
