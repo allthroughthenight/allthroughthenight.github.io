@@ -78,3 +78,5 @@ https://www.oneusefulthing.org/p/no-elephants-breakthroughs-in-image
 https://github.com/resources/whitepapers/gartner-ai-will-not-replace-software-engineers
 
 https://weatherstar.netbymatt.com/
+
+https://github.com/pypa/twine/issues/153#issuecomment-168131494
