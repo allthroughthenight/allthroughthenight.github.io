@@ -81,5 +81,7 @@ https://weatherstar.netbymatt.com/
 
 https://github.com/pypa/twine/issues/153#issuecomment-168131494
 
+https://www.joanwestenberg.com/p/i-deleted-my-second-brain
+similar to me and my text notes from undergrad, moving to google drive, and trimming down every now and then
 
 [I just quit my job at Amazon. Here’s 42 things it taught me about B2B sales and AI in the software industry](https://www.linkedin.com/posts/daytonmux_i-just-quit-my-job-at-amazon-heres-42-things-activity-7335449746515312642-4sjZ)
