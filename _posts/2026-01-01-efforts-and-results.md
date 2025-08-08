@@ -1,0 +1,1 @@
+Effort Doesn't Matter, Only Results

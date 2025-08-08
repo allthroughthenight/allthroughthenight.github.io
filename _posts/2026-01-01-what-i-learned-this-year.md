@@ -87,3 +87,6 @@ similar to me and my text notes from undergrad, moving to google drive, and trim
 [I just quit my job at Amazon. Here’s 42 things it taught me about B2B sales and AI in the software industry](https://www.linkedin.com/posts/daytonmux_i-just-quit-my-job-at-amazon-heres-42-things-activity-7335449746515312642-4sjZ)
 
 https://dadalo.pl/en/tech/malware-game-pass-rce-call-of-duty/
+
+
+https://www.rtl-sdr.com/flipperzero-darkweb-firmware-bypasses-rolling-code-security/
