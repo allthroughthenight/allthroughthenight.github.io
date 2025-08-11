@@ -88,5 +88,6 @@ similar to me and my text notes from undergrad, moving to google drive, and trim
 
 https://dadalo.pl/en/tech/malware-game-pass-rce-call-of-duty/
 
+https://win32.run/
 
 https://www.rtl-sdr.com/flipperzero-darkweb-firmware-bypasses-rolling-code-security/
