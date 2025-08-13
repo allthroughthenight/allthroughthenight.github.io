@@ -91,3 +91,7 @@ https://dadalo.pl/en/tech/malware-game-pass-rce-call-of-duty/
 https://win32.run/
 
 https://www.rtl-sdr.com/flipperzero-darkweb-firmware-bypasses-rolling-code-security/
+
+Well Being Notice: Receiving this email outside of normal working hours? Managing work and life responsibilities is unique for everyone. I have sent this email at a time that works for me. Please feel free to respond at a time that works best for you. 
+
+**Note: I am sending this email at a time that is convenient for me. Please do not feel you need to respond outside of normal business hours**
