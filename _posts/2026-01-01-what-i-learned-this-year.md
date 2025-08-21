@@ -94,6 +94,7 @@ hacking
 
 https://media.defcon.org/DEF%20CON%2033/DEF%20CON%2033%20presentations/Mark%20Omo%20James%20Rowlery%20-%20Cash%2C%20Drugs%2C%20and%20Guns%20Why%20Your%20Safes%20Aren%27t%20Safe.pdf
 
+- confused deputy: https://news.ycombinator.com/item?id=44961606
 
 https://info.defcon.org/content/?id=60304
 
