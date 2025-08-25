@@ -104,3 +104,4 @@ Well Being Notice: Receiving this email outside of normal working hours? Managin
 
 **Note: I am sending this email at a time that is convenient for me. Please do not feel you need to respond outside of normal business hours**
 
+https://www.reddit.com/r/NoMansSkyTheGame/comments/1kedf8j/comment/ms7ryvx/
