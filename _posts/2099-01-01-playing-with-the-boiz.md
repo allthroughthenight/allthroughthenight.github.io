@@ -5,9 +5,7 @@ title: "Playing With The Boiz"
 
 This past summer I made a Minecraft server to play with some friends. One of them works at Microsoft and gets Azure credits every month. My initial hunch was to see if there was a pre-made Minecraft container image but there wasn't so I had to build it out normally.
 
-<steps on using azure interface>
-
-Everythin went fine until starting the instance. There was an issue (with what again?). Once the instance was running I couldn't connect with my game client. Ports are on a allow-list i.e. only open what's allowed. First few start ups were manually, used system-md to get them going every restart.
+Once the instance was running I couldn't connect with my game client. Ports are on a allow-list i.e. only open what's allowed. First few start ups were manually, used system-md to get them going every restart.
 
 Settings for making it more friendly.
 

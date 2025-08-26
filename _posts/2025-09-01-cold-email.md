@@ -34,3 +34,7 @@ Back to the story, many online writers I read don't advertise their direct email
 > [Shyam Sankar](https://open.spotify.com/episode/14dMctwaW7utz0krLfszue)
 > As someone in tech and the Reserves, I enjoyed your commentary about defense reformation on the School of War podcast.
 > Hope to see you on the show more!
+
+> Hey [Tim](https://en.wikipedia.org/wiki/Tim_Cook),
+> Really enjoyed setting up new AirPods for my mom.
+> I always forget how seamless the Apple experience is!
