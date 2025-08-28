@@ -35,6 +35,9 @@ Back to the story, many online writers I read don't advertise their direct email
 > As someone in tech and the Reserves, I enjoyed your commentary about defense reformation on the School of War podcast.
 > Hope to see you on the show more!
 
-> Hey [Tim](https://en.wikipedia.org/wiki/Tim_Cook),
+> [Tim Cook](https://en.wikipedia.org/wiki/Tim_Cook)
 > Really enjoyed setting up new AirPods for my mom.
 > I always forget how seamless the Apple experience is!
+
+> [Rebecca Heineman](https://en.wikipedia.org/wiki/Rebecca_Heineman)
+> I just finished the Killing Time Remaster, what a trip!
