@@ -115,3 +115,8 @@ looking up gaming ost related to wipeout like dnb, this podcast, and read these:
 https://news.ycombinator.com/item?id=45528347
 
 https://news.ycombinator.com/item?id=45490652
+
+
+- https://www.reddit.com/r/IndianWorkplace/comments/1o10gys/fix_issues_unless_youre_dying_or_in_icu/ 
+- https://www.reddit.com/r/fatFIRE/comments/1nz0ka7/a_cautionary_tale_around_startup_equity/
+- https://www.linkedin.com/posts/rohanmahtani_early-startup-equity-rarely-works-out-for-activity-7383499425790443520-u1G1?utm_source=share&utm_medium=member_desktop&rcm=ACoAACerLloBGoQFmksPTmVXh03BpqbK4_q55Us
