@@ -127,3 +127,5 @@ https://news.ycombinator.com/item?id=45734582
 - https://www.reddit.com/r/fatFIRE/comments/1nz0ka7/a_cautionary_tale_around_startup_equity/
 - https://www.linkedin.com/posts/rohanmahtani_early-startup-equity-rarely-works-out-for-activity-7383499425790443520-u1G1?utm_source=share&utm_medium=member_desktop&rcm=ACoAACerLloBGoQFmksPTmVXh03BpqbK4_q55Us
 - https://ian.sh/fia
+
+- How to Attend Meetings – Internal guidelines from the New York Times: https://news.ycombinator.com/item?id=46112906
