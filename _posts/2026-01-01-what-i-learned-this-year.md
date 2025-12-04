@@ -129,3 +129,5 @@ https://news.ycombinator.com/item?id=45734582
 - https://ian.sh/fia
 
 - How to Attend Meetings – Internal guidelines from the New York Times: https://news.ycombinator.com/item?id=46112906
+
+- You gotta want it. https://news.ycombinator.com/item?id=46095662
