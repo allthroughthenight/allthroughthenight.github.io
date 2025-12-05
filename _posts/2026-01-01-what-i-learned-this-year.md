@@ -131,3 +131,4 @@ https://news.ycombinator.com/item?id=45734582
 - How to Attend Meetings – Internal guidelines from the New York Times: https://news.ycombinator.com/item?id=46112906
 
 - You gotta want it. https://news.ycombinator.com/item?id=46095662
+- I ignore teh spotlight as a staff engineer: https://news.ycombinator.com/item?id=46146451
