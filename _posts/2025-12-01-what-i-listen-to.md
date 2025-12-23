@@ -1,14 +1,20 @@
 ---
 layout: post
-title: "Pro Tips"
+title: "What I Listen To"
 ---
 
-- [The Stack Overflow Podcast](https://stackoverflow.blog/podcast/)
-- [The Changelog podcast](https://changelog.com/podcast)
-- [developer tea](https://developertea.com/)
+With a new job comes a new commute. Since I use public transit I can out and listen to podcasts. Below is my current subscriptions, grouped by category, in no particular order.
 
-- [The Journal](https://www.wsj.com/podcasts/the-journal?gaa_at=eafs&gaa_n=ASWzDAgwxI3GsCe8-y3SGcQbwOV4ZKF1N3GYjPaDlWq2vrpfHG4ZJMITkaQGbvTrWRo%3D&gaa_ts=68ae0d38&gaa_sig=LjrRv0_jaSLq8si4zuYnYi9Ul-CP4EYhtig-JJXLcwGNeXHMU7HIilveEJNdHV1tjJXRREj7VQsgmGLOs6O5GQ%3D%3D)
+# News
 - [The Daily](https://www.nytimes.com/column/the-daily)
+- [The Journal](https://www.wsj.com/podcasts/the-journal)
+- [Up First](https://www.npr.org/podcasts/510318/up-first)
 
+# Military
 - [School of War](https://nebulouspodcasts.com/shows/school-of-war)
 - [Modern War Institute Podcast](https://mwi.westpoint.edu/category/podcasts/mwi-podcast/)
+
+# Tech
+- [The Changelog podcast](https://changelog.com/podcast)
+- [developer tea](https://developertea.com/)
+- [The Stack Overflow Podcast](https://stackoverflow.blog/podcast/)

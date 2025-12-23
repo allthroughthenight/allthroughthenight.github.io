@@ -3,7 +3,7 @@ layout: post
 title: "Data Deception Despair"
 ---
 
-The [NPD leak](https://www.theverge.com/2024/8/14/24220212/national-public-data-breach-social-security-3-billion) is the largest data leak of PII in American history. It includes phone numbers, addresses, emails, and full names. Those combined would allow most attackers to easily take over enough accounts to make some money. Instead the vector that attackers have chosen is a lot more impersonal.
+The [NPD leak](https://www.theverge.com/2024/8/14/24220212/national-public-data-breach-social-security-3-billion) is the largest data leak of PII in American history. It includes phone numbers, addresses, emails, and full names. Those combined would allow most attackers to easily take over enough accounts to make some money. Instead, the vector that attackers have chosen is a lot more impersonal.
 
 For myself, it was a normal morning, till I saw the email below.
 
@@ -15,11 +15,11 @@ I opened the attatchment in the browser and started reading.
 
 ![]({{site.baseurl}}/assets/2025-03-01-data-deception-despair/page-01.png)
 
-The first part is still shocking, with my full name and address, along with a street vi- wait. I've looked at my place from street view enough to know where angle was from. Also I had our [Google street view removed](https://www.aarp.org/home-family/personal-technology/info-2021/remove-home-from-google-street-view.html). So that explains why the view is off angle. When their tool tried to get a view of my place it didn't work, and settled for an off angle instead. This is getting weirder, but let's keep reading.
+The first part is shocking, with my full name and address, along with a street vi- wait. I've looked at my place from street view enough to know where is angle was from. I also had our [Google street view removed](https://www.aarp.org/home-family/personal-technology/info-2021/remove-home-from-google-street-view.html). So that explains why the view isn't straight on. When their tool tried to get a view of my place it didn't work, and settled for an off angle instead. This is getting weirder, but let's keep reading.
 
 ![]({{site.baseurl}}/assets/2025-03-01-data-deception-despair/page-02.png)
 
-Okay this is just some kind of extortion. I'm 98% sure I'm safe to ignore it, and I made sure not to download any attachments. If they have any tracking pixels in the email that's fine, but overall it feels about as dangerous as any other dodgey link.
+Okay this is just some kind of extortion. I'm 98% sure I'm safe to ignore it, and I didn't download the attachment. If there's have any tracking pixels in the email that's fine, but overall it feels about as dangerous as any other dodgey link.
 
 A lot of the techno-bable is close enough at a glance, but once you go below surface level it all falls apart. And knowing a bit about cyber security and cyber crime, if they had a rootkit to any device, manually monitoring cameras and website history is too much work for an extortion. It'd be easier to do a ransomware attack or sniff for passwords.
 
