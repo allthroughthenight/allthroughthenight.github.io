@@ -21,6 +21,8 @@ title: "What I Learned This Year - 2025"
 
 # Articles
 
+[Backing Up Spotify](https://news.ycombinator.com/item?id=46338339)
+
 [DoomPFD](https://doompdf.pages.dev/doom.pdf): Full game implemented in a pdf document, showing how liberal the document specification is.
 
 [fix our pics.](https://www.fixourpics.com/): Helping tech bros find the best dating profile pictures.
@@ -58,6 +60,8 @@ title: "What I Learned This Year - 2025"
 [How to Attend Meetings (NYT Internal Guidelines)](https://news.ycombinator.com/item?id=46112906): Practical, opinionated guidance on making meetings tolerable.
 
 [I Deleted My Second Brain](https://www.joanwestenberg.com/p/i-deleted-my-second-brain): A critique of digital hoarding.
+
+[If You Don’t Design Your Career, Someone Else Will (2014)](https://news.ycombinator.com/item?id=46352930)
 
 [In Praise of “Normal” Engineers](https://spectrum.ieee.org/10x-engineer)
 
