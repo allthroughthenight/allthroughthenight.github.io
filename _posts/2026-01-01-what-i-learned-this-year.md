@@ -65,6 +65,8 @@ title: "What I Learned This Year - 2025"
 
 [In Praise of “Normal” Engineers](https://spectrum.ieee.org/10x-engineer)
 
+[Publishing your work increases your luck](https://github.com/readme/guides/publishing-your-work)
+
 [Software development topics I've changed my mind on](https://chriskiehl.com/article/thoughts-after-10-years): The article and [hn comments](https://news.ycombinator.com/item?id=42946281) provide contrast to each other about what it means to take development seriously as a career, but to also not let it make you caustic because it's a job that's a means to an end to pay the bills.
 
 [The Burnout Machine](https://news.ycombinator.com/item?id=43427002)
