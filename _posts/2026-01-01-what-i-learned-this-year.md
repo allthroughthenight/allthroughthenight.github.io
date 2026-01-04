@@ -5,7 +5,7 @@ title: "What I Learned This Year - 2025"
 
 # Introduction
 
-2025 was a nice turn around. I started a new role, had some personal wins, and overall got better perspective on where I am and where I want to be. I've also been staying in the loop more with tech, and collected some article this past year.
+2025 was a nice turn around. I started a new role, had some personal wins, and overall got better perspective on where I am and where I want to be. I've also been staying in the loop more with tech, and collected some articles from this past year.
 
 # AI
 
