@@ -14,3 +14,7 @@ title: "What I Learned This Year - 2026"
 [Street Fighter II Title Screen Typo Explained](https://www.youtube.com/watch?v=dUkLYOPRYH4): A short video explaining the clever last-minute workaround used to fix the Street Fighter II title-screen typo using in-game art.
 
 [The struggle of resizing windows on macOS Tahoe](https://noheger.at/blog/2026/01/11/the-struggle-of-resizing-windows-on-macos-tahoe/): How rounded interfaces are easy on the eyes but hard on usability.
+
+do the thing do it badly
+https://news.ycombinator.com/item?id=46776155
+https://www.softwaredesign.ing/blog/doing-the-thing-is-doing-the-thing
