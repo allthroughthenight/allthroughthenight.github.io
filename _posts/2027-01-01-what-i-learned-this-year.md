@@ -18,3 +18,6 @@ title: "What I Learned This Year - 2026"
 do the thing do it badly
 https://news.ycombinator.com/item?id=46776155
 https://www.softwaredesign.ing/blog/doing-the-thing-is-doing-the-thing
+
+some one spoofed adsb signals
+https://news.ycombinator.com/item?id=46802067
