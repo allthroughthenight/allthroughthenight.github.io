@@ -21,3 +21,8 @@ https://www.softwaredesign.ing/blog/doing-the-thing-is-doing-the-thing
 
 some one spoofed adsb signals
 https://news.ycombinator.com/item?id=46802067
+
+AI Grift
+http://tautvilas.lt/software-pump-and-dump/
+https://news.ycombinator.com/item?id=46776848
+https://www.youtube.com/watch?v=esXXuejofgk
