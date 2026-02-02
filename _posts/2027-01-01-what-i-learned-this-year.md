@@ -29,3 +29,13 @@ https://www.youtube.com/watch?v=esXXuejofgk
 
 cat http
 https://http.cat/
+
+Defeating a 40-year-old copy protection dongle
+https://news.ycombinator.com/item?id=46849567
+
+
+List animals until failure
+https://news.ycombinator.com/item?id=46842603
+
+Two kinds of AI users are emerging. The gap between them is astonishing.
+https://news.ycombinator.com/item?id=46850588
