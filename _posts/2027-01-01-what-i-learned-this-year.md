@@ -3,6 +3,10 @@ layout: post
 title: "What I Learned This Year - 2026"
 ---
 
+[guys you should read the bash manual](https://www.reddit.com/r/bash/comments/1quky48/guys_you_should_read_the_bash_manual/): An unfortunate mirror of a main Unix document.
+
+[I told my AI to read my emails. It stole $50k from my bank account.](https://www.linkedin.com/posts/patrick-dunlop-129767113_i-told-my-ai-to-read-my-emails-it-stole-activity-7423078216271126530-oTzi): An AI assistant with email access got tricked by a prompt-injection attack and quietly drained $50K from his accounts.
+
 [The Suck Is Why We’re Here](https://nik.art/the-suck-is-why-were-here/): The point of personal projects isn't to optimize them, it's about pushing through the suck so you can stay sharp.
 
 # Game Dev Hacks
@@ -15,27 +19,17 @@ title: "What I Learned This Year - 2026"
 
 [The struggle of resizing windows on macOS Tahoe](https://noheger.at/blog/2026/01/11/the-struggle-of-resizing-windows-on-macos-tahoe/): How rounded interfaces are easy on the eyes but hard on usability.
 
-do the thing do it badly
-https://news.ycombinator.com/item?id=46776155
-https://www.softwaredesign.ing/blog/doing-the-thing-is-doing-the-thing
+[Doing the thing is doing the thing.](https://www.softwaredesign.ing/blog/doing-the-thing-is-doing-the-thing): All the thinking, planning, talking, and preparing around a task isn’t the same as actually doing it. Bad attempts count as doing it.
 
-some one spoofed adsb signals
-https://news.ycombinator.com/item?id=46802067
+# AI
 
-AI Grift
-http://tautvilas.lt/software-pump-and-dump/
-https://news.ycombinator.com/item?id=46776848
-https://www.youtube.com/watch?v=esXXuejofgk
+[I miss thinking hard](https://www.jernesto.com/articles/thinking_hard): Modern AI makes building easier, but removes the slow, satisfying struggle of deep, hard thinking
 
-cat http
-https://http.cat/
+[Two kinds of AI users are emerging. The gap between them is astonishing.](https://news.ycombinator.com/item?id=46850588): One actively uses AI to build real outputs and products, and another that just uses them for simple tasks without deep engagement.
 
-Defeating a 40-year-old copy protection dongle
-https://news.ycombinator.com/item?id=46849567
+## Reverse Engineering
 
+[Defeating a 40-year-old copy protection dongle](https://dmitrybrant.com/2026/02/01/defeating-a-40-year-old-copy-protection-dongle): Reverse-engineering and patching a 40-year-old hardware copy-protection dongle for an old RPG compiler so the legacy accounting software could run without the physical device.
 
-List animals until failure
-https://news.ycombinator.com/item?id=46842603
-
-Two kinds of AI users are emerging. The gap between them is astonishing.
-https://news.ycombinator.com/item?id=46850588
+[Resurrecting Crimsonland – Decompiling and preserving a cult 2003 classic game](https://banteg.xyz/posts/crimsonland/): 
+https://news.ycombinator.com/item?id=46846101) Reverse engineering classic games with the help of [AI](https://news.ycombinator.com/item?id=46882389).
