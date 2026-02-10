@@ -3,13 +3,15 @@ layout: post
 title: "What I Learned This Year - 2026"
 ---
 
+[DWARF support for macOS and Linux](https://github.com/ocaml/ocaml/pull/14369): A PR request by a submitter who doesn't know what the AI code they're submitting does.
+
 [guys you should read the bash manual](https://www.reddit.com/r/bash/comments/1quky48/guys_you_should_read_the_bash_manual/): An unfortunate mirror of a main Unix document.
 
 [I told my AI to read my emails. It stole $50k from my bank account.](https://www.linkedin.com/posts/patrick-dunlop-129767113_i-told-my-ai-to-read-my-emails-it-stole-activity-7423078216271126530-oTzi): An AI assistant with email access got tricked by a prompt-injection attack and quietly drained $50K from his accounts.
 
 [The Suck Is Why We’re Here](https://nik.art/the-suck-is-why-were-here/): The point of personal projects isn't to optimize them, it's about pushing through the suck so you can stay sharp.
 
-[The struggle of resizing windows on macOS Tahoe](https://noheger.at/blog/2026/01/11/the-struggle-of-resizing-windows-on-macos-tahoe/): How rounded interfaces are easy on the eyes but hard on usability.
+[Why is the sky blue?](https://explainers.blog/posts/why-is-the-sky-blue/): Helpful insight as to why it is the way it is, because high level explinations are accurate but dismissing and uninformative.
 
 # Games
 
