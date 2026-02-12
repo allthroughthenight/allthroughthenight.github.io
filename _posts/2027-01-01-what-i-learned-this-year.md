@@ -3,6 +3,11 @@ layout: post
 title: "What I Learned This Year - 2026"
 ---
 
+- the singularity will occur on tuesday: https://news.ycombinator.com/item?id=46962996
+- its 3am and i realize im getting laid off in 6 months: https://www.reddit.com/r/csMajors/comments/1ppmtme/its_3_am_and_i_just_realized_im_getting_laid_off/
+
+++
+
 [DWARF support for macOS and Linux](https://github.com/ocaml/ocaml/pull/14369): A PR request by a submitter who doesn't know what the AI code they're submitting does.
 
 [guys you should read the bash manual](https://www.reddit.com/r/bash/comments/1quky48/guys_you_should_read_the_bash_manual/): An unfortunate mirror of a main Unix document.
