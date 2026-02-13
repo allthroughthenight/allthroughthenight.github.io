@@ -5,6 +5,8 @@ title: "What I Learned This Year - 2026"
 
 # Pending summary
 
+[ai;dr](https://news.ycombinator.com/item?id=46991394): Pending summary
+
 [An AI agent published a hit piece on me](https://news.ycombinator.com/item?id=46990729): Pending summary
 
 [AI agent opens a PR write a blogpost to shames the maintainer who closes it](https://news.ycombinator.com/item?id=46987559): Pending summary
