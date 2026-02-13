@@ -16,7 +16,7 @@ title: "What I Learned This Year - 2025"
 [on: Chat is a bad UI pattern for development tools](https://news.ycombinator.com/item?id=42936346): This hn comment is similar to how I use LLMs for coding. Interacting via chat can seem clunky, but it operates like pair programming, and helps me better understand what I need by having to describe it properly.
 
 [on: Claude can now search the web](https://news.ycombinator.com/item?id=43426861)
-> >looks at the top X hits and then interprets it to be the correct answer.
+> "looks at the top X hits and then interprets it to be the correct answer."
 > LLMs are truly reaching human-like behavior then
 
 # Articles
