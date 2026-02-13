@@ -3,7 +3,7 @@ layout: post
 title: "Weird Talks"
 ---
 
-Having done hundred of interviews at various levels, they're not always smooth, and some situations have happened are so comically bad that I have to share them.
+I've done hundreds of interviews and they're not always smooth, but some were so comically bad that I have to share them.
 
 # Aerospace Company
 
@@ -13,25 +13,25 @@ After applying for a position, I was set up with a call to do my initial HR scre
 >
 > **Me:** Okay sure.
 >
-> **Interviewer:** So imagine you're deloying an application to a cluste, why would it fail?
+> **Interviewer:** So imagine you're deloying an application to a cluster, why would it fail?
 >
-> **Me:** Uh, it could be a lot of things? Is there enough resources? Do we have observability into the health of the cluster.
+> **Me:** Oh, it could be a lot of things? Is there enough resources? Do we have observability into the health of the cluster.
 >
 > **Interviewer:** Yes, but why do you think it fails?
 >
 > **Me:** Hmm, a misconfiguration, there's a lot of reasons I think.
 >
-> **Interviewer:** Actually the HM was looking for 'the cluster reached capacity which causes new deployments to fail since no new artifact storage unavailable'
+> **Interviewer:** Actually the HM was looking for 'the cluster reached capacity which causes new deployments to fail since no new artifact storage available'
 >
 > **Me:** Oh, okay yeah that could be a reason too.
 
 They asked 3 other trivia-esq questions and told me answers that weren't technically wrong, but a normal person wouldn't have been able to get to on their own. And a technical interviewer wouldn't be able to coach someone to the answer without a longer conversation, not just 4 questions over 10 minutes.
 
-Thinking back to it, this might've been some kind of code-word for hiring their own pre-vetted candidates. Whether the HR rep was complicit or ignorant isn't clear though.
+This might've been some kind of code-word for hiring their own pre-vetted candidates. Whether the HR rep was complicit or ignorant isn't clear though.
 
 # Small Tech Company
 
-I was passed onto a very early technical screen with a smaller company. After appying and doing a quick HR screen, I was doing a live coding screen with a manager in less than 3 days. We introduce ourselves, have some initial banter, then jump into the leetcode problem. Everything is normal until I have some misunderstandings about the problem, then we start talking through it.
+I was passed onto a very early technical screen with a smaller company. After appying and doing an HR screen, I started live coding screen with a manager in less than 3 days. We introduce ourselves, have some initial banter, then jump into the leetcode problem. Everything is normal until I have some misunderstandings about the problem, then we start talking through it.
 
 > **Me:** Hmm, I know what I want to do but I can't remember the exact syntax.
 >
@@ -143,7 +143,7 @@ After a while I also muted myself and turned off my camera and typed a bit. They
 
 ### First HM Chat
 
-The HM portion was a nice break. They asked about how the loop went, I said "I felt alright, but we won't know till they decide". We talked more about the position and such, but since we talked before this was more of a formality. They did ask a soft pitch behvior question to fill the time, then we ended the call.
+The HM portion was a nice break. They asked about how the loop went, I said "I felt alright, but we won't know till they decide". We talked more about the position and such, but since we talked before this was more of a formality. They did ask a soft pitch behavior question to fill the time, then we ended the call.
 
 About a week later I get a call directly from the HM saying that based on the interview feedback they wanted to down level me. I said that's fine, just let me know what the steps are to continue with the process. They said they'd close the initial position I applied for, then send me the listing for the new position to apply to.
 
@@ -165,7 +165,7 @@ This had a smell to it since any large tech company that talks about down levels
 >
 > **Interviewer 04:** What do you mean?
 >
-> **Me:** <Explains the bug>
+> **Me:** <Type not cast correctly, and expection not used>
 >
 > **Interviewer 04:** Right, but how would that present if you ran this code?
 >
@@ -195,7 +195,7 @@ Again, my intelligence attacked, the interviewer uninterested in having an inter
 >
 > **Interviewer 04:** Come on, it's right there, you should get this easily.
 
-I think they had the solution in front of them they couldn't grasp that I wasn't getting it. Which means their own training about how to conduct a technical interview wasn't up to par either, so they failed me in that capacity.
+I think they had the solution in front of them and couldn't grasp that I wasn't getting it. Which means their technical interview training wasn't up to par, and failed both of us.
 
 ### Second Past Projects
 
