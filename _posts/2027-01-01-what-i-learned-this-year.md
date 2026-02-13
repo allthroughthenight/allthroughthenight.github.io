@@ -3,10 +3,21 @@ layout: post
 title: "What I Learned This Year - 2026"
 ---
 
-- the singularity will occur on tuesday: https://news.ycombinator.com/item?id=46962996
-- its 3am and i realize im getting laid off in 6 months: https://www.reddit.com/r/csMajors/comments/1ppmtme/its_3_am_and_i_just_realized_im_getting_laid_off/
+# Pending summary
 
-++
+[An AI agent published a hit piece on me](https://news.ycombinator.com/item?id=46990729): Pending summary
+
+[AI agent opens a PR write a blogpost to shames the maintainer who closes it](https://news.ycombinator.com/item?id=46987559): Pending summary
+
+[The Singularity will occur on a Tuesday](https://news.ycombinator.com/item?id=46962996): Pending summary
+
+[It’s 3 AM… and I just realized I’m getting laid off in 6 months](https://www.reddit.com/r/csMajors/comments/1ppmtme/its_3_am_and_i_just_realized_im_getting_laid_off/): Pending summary
+
+# Introduction
+
+lorem ipsum
+
+# Articles
 
 [DWARF support for macOS and Linux](https://github.com/ocaml/ocaml/pull/14369): A PR request by a submitter who doesn't know what the AI code they're submitting does.
 
