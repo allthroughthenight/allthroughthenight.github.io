@@ -17,6 +17,7 @@ title: "What I Learned This Year - 2025"
 
 [on: Claude can now search the web](https://news.ycombinator.com/item?id=43426861)
 > "looks at the top X hits and then interprets it to be the correct answer."
+> 
 > LLMs are truly reaching human-like behavior then
 
 # Articles
