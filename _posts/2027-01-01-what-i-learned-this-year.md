@@ -43,6 +43,8 @@ Being back at work this past year, I was better able to coalece my thoughts and 
 
 [The Singularity will occur on a Tuesday](https://campedersen.com/singularity): An analysis on current LLM progress, and how we're projected to reach a singularity sooner rather than later.
 
+["token anxiety"; or, a slot machine by any other name](https://jkap.io/token-anxiety-or-a-slot-machine-by-any-other-name/): Because of the low quality and constant monitoring neeed by LLMs, and the incentives of their providers, it can feel like gambling to get the right output and "win" with a limited resource. 
+
 [Two kinds of AI users are emerging. The gap between them is astonishing.](https://news.ycombinator.com/item?id=46850588): One actively uses AI to build real outputs and products, and another that just uses them for simple tasks without deep engagement.
 
 ## Killshot
