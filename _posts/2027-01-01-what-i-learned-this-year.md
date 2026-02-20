@@ -37,6 +37,8 @@ Being back at work this past year, I was better able to coalece my thoughts and 
 
 [ai;dr](https://www.0xsid.com/blog/aidr): It been understood that writing takes more than reading, so it's worth reading what someone wrote. But with LLMs able to write a lot for a littler effort, it doesn't make reading worth it anyemore.
 
+[Cleaning up merged git branches: a one-liner from the CIA's leaked dev docs](https://spencer.wtf/2026/02/20/cleaning-up-merged-git-branches-a-one-liner-from-the-cias-leaked-dev-docs.html): A good git alias found in the 2017 Vault 7 WikiLeaks.
+
 [DWARF support for macOS and Linux](https://github.com/ocaml/ocaml/pull/14369): A PR request by a submitter who doesn't know what the AI code they're submitting does.
 
 [I miss thinking hard](https://www.jernesto.com/articles/thinking_hard): Modern AI makes building easier, but removes the slow, satisfying struggle of deep, hard thinking
