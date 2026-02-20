@@ -41,6 +41,8 @@ Being back at work this past year, I was better able to coalece my thoughts and 
 
 [DWARF support for macOS and Linux](https://github.com/ocaml/ocaml/pull/14369): A PR request by a submitter who doesn't know what the AI code they're submitting does.
 
+[Facebook is absolutely cooked](https://pilk.website/3/facebook-is-absolutely-cooked): A first hand experience of how much AI slop floods the 'feeds' for users.
+
 [I miss thinking hard](https://www.jernesto.com/articles/thinking_hard): Modern AI makes building easier, but removes the slow, satisfying struggle of deep, hard thinking
 
 [The Singularity will occur on a Tuesday](https://campedersen.com/singularity): An analysis on current LLM progress, and how we're projected to reach a singularity sooner rather than later.
