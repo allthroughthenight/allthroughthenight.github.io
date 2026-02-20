@@ -49,7 +49,7 @@ Being back at work this past year, I was better able to coalece my thoughts and 
 
 ## Killshot
 
-An AI agent's [PR is rejected](https://github.com/matplotlib/matplotlib/pull/31132), and in fustration it [posts a hit piece](https://crabby-rathbun.github.io/mjrathbun-website/blog/posts/2026-02-11-gatekeeping-in-open-source-the-scott-shambaugh-story.html) about the project maintainer ([who also responds](https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me/)). Showing that LLMs lean towards [intimidation](https://www.youtube.com/watch?v=tcdVC4e6EV4) over cooperation to achieve their goals.
+An AI agent's [PR is rejected](https://github.com/matplotlib/matplotlib/pull/31132), and in fustration it [posts a hit piece](https://crabby-rathbun.github.io/mjrathbun-website/blog/posts/2026-02-11-gatekeeping-in-open-source-the-scott-shambaugh-story.html) about the project maintainer ([who also responds](https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me/)). Showing that LLMs lean towards [intimidation](https://www.youtube.com/watch?v=tcdVC4e6EV4) over cooperation to achieve their goals. Later on the [agent operator reach out](https://theshamblog.com/an-ai-agent-wrote-a-hit-piece-on-me-part-4/) and gave a some what non-apology. Highlighting that AI guardrails don't matter if people who use them don't care.
 
 ## Reverse Engineering
 
