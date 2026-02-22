@@ -13,6 +13,8 @@ Being back at work this past year, I was better able to coalece my thoughts and 
 
 [guys you should read the bash manual](https://www.reddit.com/r/bash/comments/1quky48/guys_you_should_read_the_bash_manual/): An unfortunate mirror of a quintessential Unix tool.
 
+[How I built Timeframe, our family e-paper dashboard](https://hawksley.org/2026/02/17/timeframe.html): Watching someone build the ideal product I've always dreamed of; a family dashboard of weather and planned events.
+
 [I told my AI to read my emails. It stole $50k from my bank account.](https://www.linkedin.com/posts/patrick-dunlop-129767113_i-told-my-ai-to-read-my-emails-it-stole-activity-7423078216271126530-oTzi): An AI assistant with email access got tricked by a prompt-injection attack and quietly drained $50K from his accounts.
 
 [It’s 3 AM… and I just realized I’m getting laid off in 6 months](https://www.reddit.com/r/csMajors/comments/1ppmtme/its_3_am_and_i_just_realized_im_getting_laid_off/): What has to be a satire post about a dev who only likes learning and doesn't know code.
