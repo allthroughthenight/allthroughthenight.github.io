@@ -51,6 +51,8 @@ Being back at work this past year, I was better able to coalece my thoughts and 
 
 ["token anxiety"; or, a slot machine by any other name](https://jkap.io/token-anxiety-or-a-slot-machine-by-any-other-name/): Because of the low quality and constant monitoring neeed by LLMs, and the incentives of their providers, it can feel like gambling to get the right output and "win" with a limited resource. 
 
+[The 2028 Global Intelligence Crisis](https://www.citriniresearch.com/p/2028gic): A dystopian take on how AI's ability to take over white collar work causes a theoretical global economic collapse. And a litaeral collapse with markets the day after it was published.
+
 [Two kinds of AI users are emerging. The gap between them is astonishing.](https://news.ycombinator.com/item?id=46850588): One actively uses AI to build real outputs and products, and another that just uses them for simple tasks without deep engagement.
 
 ## Killshot
