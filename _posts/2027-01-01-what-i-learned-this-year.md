@@ -41,6 +41,8 @@ Being back at work this past year, I was better able to coalece my thoughts and 
 
 [Cleaning up merged git branches: a one-liner from the CIA's leaked dev docs](https://spencer.wtf/2026/02/20/cleaning-up-merged-git-branches-a-one-liner-from-the-cias-leaked-dev-docs.html): A good git alias found in the 2017 Vault 7 WikiLeaks.
 
+[Cognitive Debt: When Velocity Exceeds Comprehension](https://www.rockoder.com/beyondthecode/cognitive-debt-when-velocity-exceeds-comprehension/): AI-fueled speed can rack up “cognitive debt,” where code ships fast but understanding lags behind.
+
 [DWARF support for macOS and Linux](https://github.com/ocaml/ocaml/pull/14369): A PR request by a submitter who doesn't know what the AI code they're submitting does.
 
 [Facebook is absolutely cooked](https://pilk.website/3/facebook-is-absolutely-cooked): A first hand experience of how much AI slop floods the 'feeds' for users.
