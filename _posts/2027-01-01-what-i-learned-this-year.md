@@ -5,9 +5,11 @@ title: "What I Learned This Year - 2026"
 
 # Introduction
 
-Being back at work this past year, I was better able to coalece my thoughts and direct my understandings into articles that resonated with me. And since AIs influence has increased, I made it into it's own section.
+Being back at work this past year, I was better able to coalece my thoughts and direct my understandings into articles that resonated with me. And since AI's influence has only increased, I made it into it's own section.
 
 # Articles
+
+[Cleaning up merged git branches: a one-liner from the CIA's leaked dev docs](https://spencer.wtf/2026/02/20/cleaning-up-merged-git-branches-a-one-liner-from-the-cias-leaked-dev-docs.html): A good git alias found in the 2017 Vault 7 WikiLeaks.
 
 [Doing the thing is doing the thing.](https://www.softwaredesign.ing/blog/doing-the-thing-is-doing-the-thing): All the thinking, planning, talking, and preparing around a task isn’t the same as actually doing it. Bad attempts count as doing it.
 
@@ -23,7 +25,7 @@ Being back at work this past year, I was better able to coalece my thoughts and 
 
 [The Suck Is Why We’re Here](https://nik.art/the-suck-is-why-were-here/): The point of personal projects isn't to optimize them, it's about pushing through the suck so you can stay sharp.
 
-[Why is the sky blue?](https://explainers.blog/posts/why-is-the-sky-blue/): Helpful insight as to why it is the way it is, because high level explinations are accurate but dismissing and uninformative.
+[Why is the sky blue?](https://explainers.blog/posts/why-is-the-sky-blue/): Helpful insight as to why it is the way it is, because high level explinations are accurate but dismissive and uninformative.
 
 # Games
 
@@ -37,9 +39,11 @@ Being back at work this past year, I was better able to coalece my thoughts and 
 
 # AI
 
-[ai;dr](https://www.0xsid.com/blog/aidr): It been understood that writing takes more than reading, so it's worth reading what someone wrote. But with LLMs able to write a lot for a littler effort, it doesn't make reading worth it anyemore.
+[AI Chat... But Make It Ads](https://99helpers.com/tools/ad-supported-chat): A satirical demo of what AI chat could look like in an ad-supported future.
 
-[Cleaning up merged git branches: a one-liner from the CIA's leaked dev docs](https://spencer.wtf/2026/02/20/cleaning-up-merged-git-branches-a-one-liner-from-the-cias-leaked-dev-docs.html): A good git alias found in the 2017 Vault 7 WikiLeaks.
+[AI Made Writing Code Easier. It Made Being an Engineer Harder](https://www.ivanturkovic.com/2026/02/25/ai-made-writing-code-easier-engineering-harder/): AI makes writing code fast and easy, but shifts the real work to understanding and maintaining complex systems.
+
+[ai;dr](https://www.0xsid.com/blog/aidr): It been understood that writing takes more than reading, so it's worth reading what someone wrote. But with LLMs able to write a lot for a littler effort, it doesn't make reading worth it anyemore.
 
 [Cognitive Debt: When Velocity Exceeds Comprehension](https://www.rockoder.com/beyondthecode/cognitive-debt-when-velocity-exceeds-comprehension/): AI-fueled speed can rack up “cognitive debt,” where code ships fast but understanding lags behind.
 
