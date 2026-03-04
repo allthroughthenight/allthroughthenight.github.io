@@ -7,6 +7,12 @@ title: "What I Learned This Year - 2026"
 
 Being back at work this past year, I was better able to coalece my thoughts and direct my understandings into articles that resonated with me. And since AI's influence has only increased, I made it into it's own section.
 
+# TBD
+
+[Nobody Gets Promoted for Simplicity](https://terriblesoftware.org/2026/03/03/nobody-gets-promoted-for-simplicity/): Lorem ipsum
+
+[Don't become an Engineering Manager](https://newsletter.manager.dev/p/dont-become-an-engineering-manager): Lorem ipsum
+
 # Articles
 
 [Cleaning up merged git branches: a one-liner from the CIA's leaked dev docs](https://spencer.wtf/2026/02/20/cleaning-up-merged-git-branches-a-one-liner-from-the-cias-leaked-dev-docs.html): A good git alias found in the 2017 Vault 7 WikiLeaks.
