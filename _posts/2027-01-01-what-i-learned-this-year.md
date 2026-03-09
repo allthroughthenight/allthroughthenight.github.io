@@ -27,6 +27,8 @@ Being back at work this past year, I was better able to coalece my thoughts and 
 
 [It’s 3 AM… and I just realized I’m getting laid off in 6 months](https://www.reddit.com/r/csMajors/comments/1ppmtme/its_3_am_and_i_just_realized_im_getting_laid_off/): What has to be a satire post about a dev who only likes learning and doesn't know code.
 
+[Quality of code is too high #509](https://github.com/EnterpriseQualityCoding/FizzBuzzEnterpriseEdition/issues/509#issue-839018568): Funny issue about the code being too good, even though the repo is a parody of Enterprise bloat.
+
 [Tech employment now significantly worse than the 2008 or 2020 recessions](https://x.com/JosephPolitano/status/2029916364664611242): I try to avoid linking [hn discussions](https://news.ycombinator.com/item?id=47278426) directly, but the insight on this topic is too insightful to miss.
 
 [The struggle of resizing windows on macOS Tahoe](https://noheger.at/blog/2026/01/11/the-struggle-of-resizing-windows-on-macos-tahoe/): Problems with nice UIs clashing with acutal usage, along with a [follow up post too](https://noheger.at/blog/2026/02/12/resizing-windows-on-macos-tahoe-the-saga-continues/).
