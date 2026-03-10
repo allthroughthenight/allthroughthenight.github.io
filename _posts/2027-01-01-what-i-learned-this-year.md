@@ -31,7 +31,7 @@ Being back at work this past year, I was better able to coalece my thoughts and 
 
 [Tech employment now significantly worse than the 2008 or 2020 recessions](https://x.com/JosephPolitano/status/2029916364664611242): I try to avoid linking [hn discussions](https://news.ycombinator.com/item?id=47278426) directly, but the insight on this topic is too insightful to miss.
 
-[The struggle of resizing windows on macOS Tahoe](https://noheger.at/blog/2026/01/11/the-struggle-of-resizing-windows-on-macos-tahoe/): Problems with nice UIs clashing with acutal usage, along with a [follow up post too](https://noheger.at/blog/2026/02/12/resizing-windows-on-macos-tahoe-the-saga-continues/).
+[The struggle of resizing windows on macOS Tahoe](https://noheger.at/blog/2026/01/11/the-struggle-of-resizing-windows-on-macos-tahoe/): Problems with nice UIs clashing with acutal usage, along with a [follow up post too](https://noheger.at/blog/2026/02/12/resizing-windows-on-macos-tahoe-the-saga-continues/). And a [separate anecdote](https://lapcatsoftware.com/articles/2026/3/1.html) about rounded window radisuses in Tahoe being inconsistent.
 
 [The Suck Is Why We’re Here](https://nik.art/the-suck-is-why-were-here/): The point of personal projects isn't to optimize them, it's about pushing through the suck so you can stay sharp.
 
