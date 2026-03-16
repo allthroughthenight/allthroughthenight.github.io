@@ -63,6 +63,10 @@ Being back at work this past year, I was better able to coalece my thoughts and 
 
 [I miss thinking hard](https://www.jernesto.com/articles/thinking_hard): Modern AI makes building easier, but removes the slow, satisfying struggle of deep, hard thinking
 
+[Shall I implement it? No](https://news.ycombinator.com/item?id=47357042): Openclas is stuck on rails and tries to implement some code after being told only 'No'.
+
+[Stop Sloppypasta: Don't paste raw LLM output at people](https://stopsloppypasta.ai/en/): The effort to write with an LLM is free, but the effort to read, understand, and vet their output is high. Making those who use them incorrectly cause more work for others.
+
 [The Singularity will occur on a Tuesday](https://campedersen.com/singularity): An analysis on current LLM progress, and how we're projected to reach a singularity sooner rather than later.
 
 ["token anxiety"; or, a slot machine by any other name](https://jkap.io/token-anxiety-or-a-slot-machine-by-any-other-name/): Because of the low quality and constant monitoring neeed by LLMs, and the incentives of their providers, it can feel like gambling to get the right output and "win" with a limited resource. 
@@ -70,8 +74,6 @@ Being back at work this past year, I was better able to coalece my thoughts and 
 [The 2028 Global Intelligence Crisis](https://www.citriniresearch.com/p/2028gic): A dystopian take on how AI's ability to take over white collar work causes a theoretical global economic collapse. And a litaeral collapse with markets the day after it was published.
 
 [Two kinds of AI users are emerging. The gap between them is astonishing.](https://news.ycombinator.com/item?id=46850588): One actively uses AI to build real outputs and products, and another that just uses them for simple tasks without deep engagement.
-
-[Shall I implement it? No](https://news.ycombinator.com/item?id=47357042): Openclas is stuck on rails and tries to implement some code after being told only 'No'.
 
 [xkcd: Dependency](https://xkcd.com/2347/): The xkcd classic, it's [modern mutation](https://www.reddit.com/r/ProgrammerHumor/comments/1p204nx/actuallycompleteversion/), and an [interactive implementation](https://editor.p5js.org/isohedral/full/vJa5RiZWs) ([with backstory](https://mathstodon.xyz/@csk/116162797629337132))
 
