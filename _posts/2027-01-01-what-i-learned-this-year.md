@@ -13,7 +13,9 @@ Being back at work this past year, I was better able to coalece my thoughts and 
 
 [Don't become an Engineering Manager](https://newsletter.manager.dev/p/dont-become-an-engineering-manager): Lorem ipsum
 
-[https://www.better-simple.com/django/2026/03/16/give-django-your-time-and-money/](Give Django your time and money, not your tokens): Lorem ipsum
+[Give Django your time and money, not your tokens](https://www.better-simple.com/django/2026/03/16/give-django-your-time-and-money/): Lorem ipsum
+
+[If you thought the speed of writing code was your problem - you have bigger problems](https://andrewmurphy.io/blog/if-you-thought-the-speed-of-writing-code-was-your-problem-you-have-bigger-problems): lorem ipsum.
 
 # Articles
 
