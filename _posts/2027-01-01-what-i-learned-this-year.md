@@ -13,6 +13,8 @@ Being back at work this past year, I was better able to coalece my thoughts and 
 
 [Don't become an Engineering Manager](https://newsletter.manager.dev/p/dont-become-an-engineering-manager): Lorem ipsum
 
+[https://www.better-simple.com/django/2026/03/16/give-django-your-time-and-money/](Give Django your time and money, not your tokens): Lorem ipsum
+
 # Articles
 
 [Cleaning up merged git branches: a one-liner from the CIA's leaked dev docs](https://spencer.wtf/2026/02/20/cleaning-up-merged-git-branches-a-one-liner-from-the-cias-leaked-dev-docs.html): A good git alias found in the 2017 Vault 7 WikiLeaks.
