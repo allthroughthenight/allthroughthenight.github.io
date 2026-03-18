@@ -9,6 +9,8 @@ Being back at work this past year, I was better able to coalece my thoughts and 
 
 # TBD
 
+[AI Coding is Gambling](https://notes.visaint.space/ai-coding-is-gambling/): Lorem ipsum
+
 [Nobody Gets Promoted for Simplicity](https://terriblesoftware.org/2026/03/03/nobody-gets-promoted-for-simplicity/): Lorem ipsum
 
 [Don't become an Engineering Manager](https://newsletter.manager.dev/p/dont-become-an-engineering-manager): Lorem ipsum
