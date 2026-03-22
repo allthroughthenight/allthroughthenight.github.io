@@ -11,6 +11,8 @@ Being back at work this past year, I was better able to coalece my thoughts and 
 
 [AI Coding is Gambling](https://notes.visaint.space/ai-coding-is-gambling/): Lorem ipsum
 
+[Karpathy says he hasn't written a line of code since December and is in "perpetual AI psychosis."](https://www.reddit.com/r/ClaudeAI/comments/1s08r1c/karpathy_says_he_hasnt_written_a_line_of_code/): tbd AI is getting good enough that you end up in psychosis thinking about the endless possibilities
+
 [Nobody Gets Promoted for Simplicity](https://terriblesoftware.org/2026/03/03/nobody-gets-promoted-for-simplicity/): Lorem ipsum
 
 [Don't become an Engineering Manager](https://newsletter.manager.dev/p/dont-become-an-engineering-manager): Lorem ipsum
@@ -18,6 +20,8 @@ Being back at work this past year, I was better able to coalece my thoughts and 
 [Give Django your time and money, not your tokens](https://www.better-simple.com/django/2026/03/16/give-django-your-time-and-money/): Lorem ipsum
 
 [If you thought the speed of writing code was your problem - you have bigger problems](https://andrewmurphy.io/blog/if-you-thought-the-speed-of-writing-code-was-your-problem-you-have-bigger-problems): lorem ipsum.
+
+[Bored of eating your own dogfood? Try smelling your own farts!](https://shkspr.mobi/blog/2026/03/bored-of-eating-your-own-dogfood-try-smelling-your-own-farts/): An extentsion of [dogfooding](https://en.wikipedia.org/wiki/Eating_your_own_dog_food) and just show your peers what it's like using the product.
 
 # Articles
 
