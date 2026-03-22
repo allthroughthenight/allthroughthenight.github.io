@@ -9,6 +9,10 @@ Being back at work this past year, I was better able to coalece my thoughts and 
 
 # TBD
 
+The Strait of Hormuz
+- https://hormuz.pythonic.ninja/
+- https://sweepthestrait.com/
+
 [AI Coding is Gambling](https://notes.visaint.space/ai-coding-is-gambling/): Lorem ipsum
 
 [Karpathy says he hasn't written a line of code since December and is in "perpetual AI psychosis."](https://www.reddit.com/r/ClaudeAI/comments/1s08r1c/karpathy_says_he_hasnt_written_a_line_of_code/): tbd AI is getting good enough that you end up in psychosis thinking about the endless possibilities
