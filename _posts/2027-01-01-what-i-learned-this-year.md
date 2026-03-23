@@ -61,6 +61,8 @@ The Strait of Hormuz
 
 [Street Fighter II Title Screen Typo Explained](https://www.youtube.com/watch?v=dUkLYOPRYH4): A short video explaining the clever last-minute workaround used to fix the Street Fighter II title-screen typo using in-game art.
 
+[The gold standard of optimization: A look under the hood of RollerCoaster Tycoon](https://larstofus.com/2026/03/22/the-gold-standard-of-optimization-a-look-under-the-hood-of-rollercoaster-tycoon/): A deeper look at the ground breaking game and it's technical performance implementaations, instead of the hand wave-y "the game was made in assembly".
+
 # AI
 
 [AI Chat... But Make It Ads](https://99helpers.com/tools/ad-supported-chat): A satirical demo of what AI chat could look like in an ad-supported future.
