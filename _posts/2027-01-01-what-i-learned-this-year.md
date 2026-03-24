@@ -19,6 +19,8 @@ The Strait of Hormuz
 
 [Nobody Gets Promoted for Simplicity](https://terriblesoftware.org/2026/03/03/nobody-gets-promoted-for-simplicity/): Lorem ipsum
 
+[Your bridge to wealth is being pulled up](https://danielhomola.com/m%20&%20e/ai/your-bridge-to-wealth-is-being-pulled-up/): Lorem ipsum
+
 [Don't become an Engineering Manager](https://newsletter.manager.dev/p/dont-become-an-engineering-manager): Lorem ipsum
 
 [Give Django your time and money, not your tokens](https://www.better-simple.com/django/2026/03/16/give-django-your-time-and-money/): Lorem ipsum
