@@ -15,6 +15,10 @@ The Strait of Hormuz
 
 [AI Coding is Gambling](https://notes.visaint.space/ai-coding-is-gambling/): Lorem ipsum
 
+[The Gervais Principle, Or The Office According to “The Office”](https://www.ribbonfarm.com/2009/10/07/the-gervais-principle-or-the-office-according-to-the-office/): lorem ipsum
+
+[Copilot Edited an Ad Into My PR](https://notes.zachmanson.com/copilot-edited-an-ad-into-my-pr/): Lorem ipsum
+
 [Former co-CEO of FTX is going to prison, but drops a LinkedIn banger](https://www.linkedin.com/posts/ryansalame_im-happy-to-share-that-im-starting-a-new-activity-7249992193048723456-YMII): lorem ipsum
 
 [Why So Many Control Rooms Were Seafoam Green](https://bethmathews.substack.com/p/why-so-many-control-rooms-were-seafoam): lorem ipsum but explains why a lot of places around that time were that color, and kinda wish it came back ngl
