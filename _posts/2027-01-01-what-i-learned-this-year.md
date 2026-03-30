@@ -17,6 +17,8 @@ The Strait of Hormuz
 
 [Former co-CEO of FTX is going to prison, but drops a LinkedIn banger](https://www.linkedin.com/posts/ryansalame_im-happy-to-share-that-im-starting-a-new-activity-7249992193048723456-YMII): lorem ipsum
 
+[Why So Many Control Rooms Were Seafoam Green](https://bethmathews.substack.com/p/why-so-many-control-rooms-were-seafoam): lorem ipsum but explains why a lot of places around that time were that color, and kinda wish it came back ngl
+
 [Karpathy says he hasn't written a line of code since December and is in "perpetual AI psychosis."](https://www.reddit.com/r/ClaudeAI/comments/1s08r1c/karpathy_says_he_hasnt_written_a_line_of_code/): tbd AI is getting good enough that you end up in psychosis thinking about the endless possibilities
 
 [Nobody Gets Promoted for Simplicity](https://terriblesoftware.org/2026/03/03/nobody-gets-promoted-for-simplicity/): Lorem ipsum
