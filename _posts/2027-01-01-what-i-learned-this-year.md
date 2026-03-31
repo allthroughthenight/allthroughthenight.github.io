@@ -5,67 +5,27 @@ title: "What I Learned This Year - 2026"
 
 # Introduction
 
-Being back at work this past year, I was better able to coalece my thoughts and direct my understandings into articles that resonated with me. And since AI's influence has only increased, I made it into it's own section.
-
-# TBD
-
-The Strait of Hormuz
-- https://hormuz.pythonic.ninja/
-- https://sweepthestrait.com/
-
-[AI Coding is Gambling](https://notes.visaint.space/ai-coding-is-gambling/): Lorem ipsum
-
-[The Gervais Principle, Or The Office According to “The Office”](https://www.ribbonfarm.com/2009/10/07/the-gervais-principle-or-the-office-according-to-the-office/): lorem ipsum
-
-[Copilot Edited an Ad Into My PR](https://notes.zachmanson.com/copilot-edited-an-ad-into-my-pr/): Lorem ipsum
-
-[Former co-CEO of FTX is going to prison, but drops a LinkedIn banger](https://www.linkedin.com/posts/ryansalame_im-happy-to-share-that-im-starting-a-new-activity-7249992193048723456-YMII): lorem ipsum
-
-[Why So Many Control Rooms Were Seafoam Green](https://bethmathews.substack.com/p/why-so-many-control-rooms-were-seafoam): lorem ipsum but explains why a lot of places around that time were that color, and kinda wish it came back ngl
-
-[Karpathy says he hasn't written a line of code since December and is in "perpetual AI psychosis."](https://www.reddit.com/r/ClaudeAI/comments/1s08r1c/karpathy_says_he_hasnt_written_a_line_of_code/): tbd AI is getting good enough that you end up in psychosis thinking about the endless possibilities
-
-[Nobody Gets Promoted for Simplicity](https://terriblesoftware.org/2026/03/03/nobody-gets-promoted-for-simplicity/): Lorem ipsum
-
-[Your bridge to wealth is being pulled up](https://danielhomola.com/m%20&%20e/ai/your-bridge-to-wealth-is-being-pulled-up/): Lorem ipsum
-
-[Don't become an Engineering Manager](https://newsletter.manager.dev/p/dont-become-an-engineering-manager): Lorem ipsum
-
-[Give Django your time and money, not your tokens](https://www.better-simple.com/django/2026/03/16/give-django-your-time-and-money/): Lorem ipsum
-
-[If you thought the speed of writing code was your problem - you have bigger problems](https://andrewmurphy.io/blog/if-you-thought-the-speed-of-writing-code-was-your-problem-you-have-bigger-problems): lorem ipsum.
-
-[Bored of eating your own dogfood? Try smelling your own farts!](https://shkspr.mobi/blog/2026/03/bored-of-eating-your-own-dogfood-try-smelling-your-own-farts/): An extentsion of [dogfooding](https://en.wikipedia.org/wiki/Eating_your_own_dog_food) and just show your peers what it's like using the product.
+Being back at work this past year, I was better able to coalece my thoughts and direct my understandings into articles that resonated with me. I was overwhelming myself with all the articles I wanted to save and comment on, then I noticed they were a lot of filler and trimmed things down a bit.
 
 # Articles
 
+An AI agent's [PR is rejected](https://github.com/matplotlib/matplotlib/pull/31132), and in fustration it [posts a hit piece](https://crabby-rathbun.github.io/mjrathbun-website/blog/posts/2026-02-11-gatekeeping-in-open-source-the-scott-shambaugh-story.html) about the project maintainer ([who also responds](https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me/)). Showing that LLMs lean towards [intimidation](https://www.youtube.com/watch?v=tcdVC4e6EV4) over cooperation to achieve their goals. Later on the [agent operator reaches out](https://theshamblog.com/an-ai-agent-wrote-a-hit-piece-on-me-part-4/) and gave a some what non-apology. Highlighting that AI guardrails don't matter if people who use them don't care.
+
+[ai;dr](https://www.0xsid.com/blog/aidr): It been understood that writing takes more than reading, so it's worth reading what someone wrote. But with LLMs able to write a lot for a littler effort, it doesn't make reading worth it anyemore.
+
+[Bored of eating your own dogfood? Try smelling your own farts!](https://shkspr.mobi/blog/2026/03/bored-of-eating-your-own-dogfood-try-smelling-your-own-farts/): An extentsion of [dogfooding](https://en.wikipedia.org/wiki/Eating_your_own_dog_food) and just show your peers what it's like using the product.
+
 [Cleaning up merged git branches: a one-liner from the CIA's leaked dev docs](https://spencer.wtf/2026/02/20/cleaning-up-merged-git-branches-a-one-liner-from-the-cias-leaked-dev-docs.html): A good git alias found in the 2017 Vault 7 WikiLeaks.
-
-[Doing the thing is doing the thing.](https://www.softwaredesign.ing/blog/doing-the-thing-is-doing-the-thing): All the thinking, planning, talking, and preparing around a task isn’t the same as actually doing it. Bad attempts count as doing it.
-
-[guys you should read the bash manual](https://www.reddit.com/r/bash/comments/1quky48/guys_you_should_read_the_bash_manual/): An unfortunate mirror of a quintessential Unix tool.
-
-[How I built Timeframe, our family e-paper dashboard](https://hawksley.org/2026/02/17/timeframe.html): Watching someone build the ideal product I've always dreamed of; a family dashboard of weather and planned events.
-
-[I told my AI to read my emails. It stole $50k from my bank account.](https://www.linkedin.com/posts/patrick-dunlop-129767113_i-told-my-ai-to-read-my-emails-it-stole-activity-7423078216271126530-oTzi): An AI assistant with email access got tricked by a prompt-injection attack and quietly drained $50K from his accounts.
 
 [It’s 3 AM… and I just realized I’m getting laid off in 6 months](https://www.reddit.com/r/csMajors/comments/1ppmtme/its_3_am_and_i_just_realized_im_getting_laid_off/): What has to be a satire post about a dev who only likes learning and doesn't know code.
 
 [Quality of code is too high #509](https://github.com/EnterpriseQualityCoding/FizzBuzzEnterpriseEdition/issues/509#issue-839018568): Funny issue about the code being too good, even though the repo is a parody of Enterprise bloat.
 
-[Tech employment now significantly worse than the 2008 or 2020 recessions](https://x.com/JosephPolitano/status/2029916364664611242): I try to avoid linking [hn discussions](https://news.ycombinator.com/item?id=47278426) directly, but the insight on this topic is too insightful to miss.
-
 [The struggle of resizing windows on macOS Tahoe](https://noheger.at/blog/2026/01/11/the-struggle-of-resizing-windows-on-macos-tahoe/): Problems with nice UIs clashing with acutal usage, along with a [follow up post too](https://noheger.at/blog/2026/02/12/resizing-windows-on-macos-tahoe-the-saga-continues/). And a [separate anecdote](https://lapcatsoftware.com/articles/2026/3/1.html) about rounded window radisuses in Tahoe being inconsistent.
 
 [The Suck Is Why We’re Here](https://nik.art/the-suck-is-why-were-here/): The point of personal projects isn't to optimize them, it's about pushing through the suck so you can stay sharp.
 
-[Why is the sky blue?](https://explainers.blog/posts/why-is-the-sky-blue/): Helpful insight as to why it is the way it is, because high level explinations are accurate but dismissive and uninformative.
-
-# Games
-
-[Hackers (1995) Animated Experience](https://hackers-1995.vercel.app/): Hack the planet with this mainframe flying simulation done as a web based FPS exploration game.
-
-[Recreating a Dirty Gamedev Hack](https://kylehalladay.com/blog/2019/12/04/Recreating-A-Dirty-Gamedev-Hack.html): A programmer’s breakdown of recreating a notorious game dev hack that abused memory to patch a game without updates.
+[Shall I implement it? No](https://news.ycombinator.com/item?id=47357042): Openclas is stuck on rails and tries to implement some code after being told only 'No'.
 
 [Street Fighter II: The World Warrior – Internals](https://fabiensanglard.net/sf2_warrier/): A technical deep dive into how Street Fighter II was built, including the story behind its famous title-screen typo.
 
@@ -73,43 +33,6 @@ The Strait of Hormuz
 
 [The gold standard of optimization: A look under the hood of RollerCoaster Tycoon](https://larstofus.com/2026/03/22/the-gold-standard-of-optimization-a-look-under-the-hood-of-rollercoaster-tycoon/): A deeper look at the ground breaking game and it's technical performance implementaations, instead of the hand wave-y "the game was made in assembly".
 
-# AI
-
-[AI Chat... But Make It Ads](https://99helpers.com/tools/ad-supported-chat): A satirical demo of what AI chat could look like in an ad-supported future.
-
-[AI Made Writing Code Easier. It Made Being an Engineer Harder](https://www.ivanturkovic.com/2026/02/25/ai-made-writing-code-easier-engineering-harder/): AI makes writing code fast and easy, but shifts the real work to understanding and maintaining complex systems.
-
-[ai;dr](https://www.0xsid.com/blog/aidr): It been understood that writing takes more than reading, so it's worth reading what someone wrote. But with LLMs able to write a lot for a littler effort, it doesn't make reading worth it anyemore.
-
-[Cognitive Debt: When Velocity Exceeds Comprehension](https://www.rockoder.com/beyondthecode/cognitive-debt-when-velocity-exceeds-comprehension/): AI-fueled speed can rack up “cognitive debt,” where code ships fast but understanding lags behind.
-
-[DWARF support for macOS and Linux](https://github.com/ocaml/ocaml/pull/14369): A PR request by a submitter who doesn't know what the AI code they're submitting does.
-
-[Facebook is absolutely cooked](https://pilk.website/3/facebook-is-absolutely-cooked): A first hand experience of how much AI slop floods the 'feeds' for users.
-
-[I miss thinking hard](https://www.jernesto.com/articles/thinking_hard): Modern AI makes building easier, but removes the slow, satisfying struggle of deep, hard thinking
-
-[Shall I implement it? No](https://news.ycombinator.com/item?id=47357042): Openclas is stuck on rails and tries to implement some code after being told only 'No'.
-
-[Stop Sloppypasta: Don't paste raw LLM output at people](https://stopsloppypasta.ai/en/): The effort to write with an LLM is free, but the effort to read, understand, and vet their output is high. Making those who use them incorrectly cause more work for others.
-
-[The Singularity will occur on a Tuesday](https://campedersen.com/singularity): An analysis on current LLM progress, and how we're projected to reach a singularity sooner rather than later.
-
 ["token anxiety"; or, a slot machine by any other name](https://jkap.io/token-anxiety-or-a-slot-machine-by-any-other-name/): Because of the low quality and constant monitoring neeed by LLMs, and the incentives of their providers, it can feel like gambling to get the right output and "win" with a limited resource. 
 
-[The 2028 Global Intelligence Crisis](https://www.citriniresearch.com/p/2028gic): A dystopian take on how AI's ability to take over white collar work causes a theoretical global economic collapse. And a litaeral collapse with markets the day after it was published.
-
-[Two kinds of AI users are emerging. The gap between them is astonishing.](https://news.ycombinator.com/item?id=46850588): One actively uses AI to build real outputs and products, and another that just uses them for simple tasks without deep engagement.
-
 [xkcd: Dependency](https://xkcd.com/2347/): The xkcd classic, it's [modern mutation](https://www.reddit.com/r/ProgrammerHumor/comments/1p204nx/actuallycompleteversion/), and an [interactive implementation](https://editor.p5js.org/isohedral/full/vJa5RiZWs) ([with backstory](https://mathstodon.xyz/@csk/116162797629337132))
-
-## Killshot
-
-An AI agent's [PR is rejected](https://github.com/matplotlib/matplotlib/pull/31132), and in fustration it [posts a hit piece](https://crabby-rathbun.github.io/mjrathbun-website/blog/posts/2026-02-11-gatekeeping-in-open-source-the-scott-shambaugh-story.html) about the project maintainer ([who also responds](https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me/)). Showing that LLMs lean towards [intimidation](https://www.youtube.com/watch?v=tcdVC4e6EV4) over cooperation to achieve their goals. Later on the [agent operator reach out](https://theshamblog.com/an-ai-agent-wrote-a-hit-piece-on-me-part-4/) and gave a some what non-apology. Highlighting that AI guardrails don't matter if people who use them don't care.
-
-## Reverse Engineering
-
-[Defeating a 40-year-old copy protection dongle](https://dmitrybrant.com/2026/02/01/defeating-a-40-year-old-copy-protection-dongle): Reverse-engineering and patching a 40-year-old hardware copy-protection dongle for an old RPG compiler so the legacy accounting software could run without the physical device.
-
-[Resurrecting Crimsonland – Decompiling and preserving a cult 2003 classic game](https://banteg.xyz/posts/crimsonland/): 
-https://news.ycombinator.com/item?id=46846101) Reverse engineering classic games with the help of [AI](https://news.ycombinator.com/item?id=46882389).
