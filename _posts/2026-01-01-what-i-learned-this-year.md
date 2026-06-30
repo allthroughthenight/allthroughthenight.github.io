@@ -3,6 +3,11 @@ layout: post
 title: "What I Learned This Year - 2025"
 ---
 
+# TBD
+
+resume adversary: https://danunparsed.com/p/hackerrank-open-source-ats
+call backk to previous articles in previous post(s)
+
 # Introduction
 
 2025 was a nice turn around. I started a new role, had some personal wins, and overall got better perspective on where I am and where I want to be. I've also been staying in the loop more with tech, and collected some articles from this past year.
