@@ -9,8 +9,6 @@ Being back at work this past year, I was better able to coalece my thoughts and 
 
 # Articles
 
-An AI agent's [PR is rejected](https://github.com/matplotlib/matplotlib/pull/31132), and in fustration it [posts a hit piece](https://crabby-rathbun.github.io/mjrathbun-website/blog/posts/2026-02-11-gatekeeping-in-open-source-the-scott-shambaugh-story.html) about the project maintainer ([who also responds](https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me/)). Showing that LLMs lean towards [intimidation](https://www.youtube.com/watch?v=tcdVC4e6EV4) over cooperation to achieve their goals. Later on the [agent operator reaches out](https://theshamblog.com/an-ai-agent-wrote-a-hit-piece-on-me-part-4/) and gave a non-apology, highlighting that AI guardrails don't matter if the people who use them don't care.
-
 [ai;dr](https://www.0xsid.com/blog/aidr): It's been understood that writing takes more than reading, so it's worth reading what someone wrote. Now that LLMs are able to write a lot for a littler effort, it doesn't make reading worth it.
 
 [Bored of eating your own dogfood? Try smelling your own farts!](https://shkspr.mobi/blog/2026/03/bored-of-eating-your-own-dogfood-try-smelling-your-own-farts/): An extentsion of [dogfooding](https://en.wikipedia.org/wiki/Eating_your_own_dog_food) and to show your peers what it's like using the product.
@@ -18,6 +16,8 @@ An AI agent's [PR is rejected](https://github.com/matplotlib/matplotlib/pull/311
 [Cleaning up merged git branches: a one-liner from the CIA's leaked dev docs](https://spencer.wtf/2026/02/20/cleaning-up-merged-git-branches-a-one-liner-from-the-cias-leaked-dev-docs.html): A good git alias found in the 2017 Vault 7 WikiLeaks.
 
 [It’s 3 AM… and I just realized I’m getting laid off in 6 months](https://www.reddit.com/r/csMajors/comments/1ppmtme/its_3_am_and_i_just_realized_im_getting_laid_off/): What has to be a satire post about a dev who only likes learning and doesn't know code.
+
+Kill Shot - A Saga: An AI agent's [PR is rejected](https://github.com/matplotlib/matplotlib/pull/31132), and in fustration it [posts a hit piece](https://crabby-rathbun.github.io/mjrathbun-website/blog/posts/2026-02-11-gatekeeping-in-open-source-the-scott-shambaugh-story.html) about the project maintainer ([who also responds](https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me/)). Showing that LLMs lean towards [intimidation](https://www.youtube.com/watch?v=tcdVC4e6EV4) over cooperation to achieve their goals. Later on the [agent operator reaches out](https://theshamblog.com/an-ai-agent-wrote-a-hit-piece-on-me-part-4/) and gave a non-apology, highlighting that AI guardrails don't matter if the people who use them don't care.
 
 [Obfuscated, self-evaluating bash script by CDN Akamai being supplied to consumers via retail stores](https://tris.sherliker.net/blog/obfuscated-self-evaluating-bash-script-by-cdn-akamai-being-supplied-to-consumers-via-retail-stores/): The author's wife showed him a Uniqlo t-shirt with an obfuscated bash script on the back and discovered Akamai it's a terminal text animation.
 
