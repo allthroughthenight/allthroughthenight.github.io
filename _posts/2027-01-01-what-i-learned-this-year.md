@@ -19,6 +19,8 @@ An AI agent's [PR is rejected](https://github.com/matplotlib/matplotlib/pull/311
 
 [It’s 3 AM… and I just realized I’m getting laid off in 6 months](https://www.reddit.com/r/csMajors/comments/1ppmtme/its_3_am_and_i_just_realized_im_getting_laid_off/): What has to be a satire post about a dev who only likes learning and doesn't know code.
 
+[Obfuscated, self-evaluating bash script by CDN Akamai being supplied to consumers via retail stores](https://tris.sherliker.net/blog/obfuscated-self-evaluating-bash-script-by-cdn-akamai-being-supplied-to-consumers-via-retail-stores/): The author's wife showed him a Uniqlo t-shirt with an obfuscated bash script on the back and discovered Akamai it's a terminal text animation.
+
 [The struggle of resizing windows on macOS Tahoe](https://noheger.at/blog/2026/01/11/the-struggle-of-resizing-windows-on-macos-tahoe/): Some problems with nice UIs that clash with acutal usage, along with a [follow up post](https://noheger.at/blog/2026/02/12/resizing-windows-on-macos-tahoe-the-saga-continues/), and a [separate anecdote](https://lapcatsoftware.com/articles/2026/3/1.html) about rounded window radisuses being inconsistent.
 
 [Shall I implement it? No](https://news.ycombinator.com/item?id=47357042): Openclaw's rigiding reasoning makes it ignore it's instructions to avoid cognitive dissonance.
