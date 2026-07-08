@@ -5,7 +5,7 @@ title: "What I Learned This Year - 2026"
 
 # Introduction
 
-Being back at work this past year, I was better able to coalece my thoughts and direct my understandings into articles that resonated with me. I was overwhelming myself with all the articles I wanted to save and comment on, then I noticed they weas a lot of filler and trimmed things down.
+Being back at work this past year, I overwhelmed myself with all the articles I saved, then I relized they were filler and tossed most of them and kept the best.
 
 # Articles
 
