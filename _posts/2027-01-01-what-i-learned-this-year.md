@@ -5,7 +5,7 @@ title: "What I Learned This Year - 2026"
 
 # Introduction
 
-Being back at work this past year, I overwhelmed myself with all the articles I saved, then I relized they were filler and tossed most of them and kept the best.
+Being back at work full time this past year, I overwhelmed myself with all the articles I saved, then I relized they were filler and tossed most of them and kept the best.
 
 # Articles
 
@@ -18,6 +18,8 @@ Being back at work this past year, I overwhelmed myself with all the articles I 
 [It’s 3 AM… and I just realized I’m getting laid off in 6 months](https://www.reddit.com/r/csMajors/comments/1ppmtme/its_3_am_and_i_just_realized_im_getting_laid_off/): What has to be a satire post about a dev who only likes learning and doesn't know code.
 
 Kill Shot - A Saga: An AI agent's [PR is rejected](https://github.com/matplotlib/matplotlib/pull/31132), and in fustration it [posts a hit piece](https://crabby-rathbun.github.io/mjrathbun-website/blog/posts/2026-02-11-gatekeeping-in-open-source-the-scott-shambaugh-story.html) about the project maintainer ([who also responds](https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me/)). Showing that LLMs lean towards [intimidation](https://www.youtube.com/watch?v=tcdVC4e6EV4) over cooperation to achieve their goals. Later on the [agent operator reaches out](https://theshamblog.com/an-ai-agent-wrote-a-hit-piece-on-me-part-4/) and gave a non-apology, highlighting that AI guardrails don't matter if the people who use them don't care.
+
+[LinkedIn CringeBot 3000](https://www.cringebot3000.com/): A site that auto generates cringe worthy LinkedIn posts based on the desired style and topic that's input.
 
 [Obfuscated, self-evaluating bash script by CDN Akamai being supplied to consumers via retail stores](https://tris.sherliker.net/blog/obfuscated-self-evaluating-bash-script-by-cdn-akamai-being-supplied-to-consumers-via-retail-stores/): The author's wife showed him a Uniqlo t-shirt with an obfuscated bash script on the back and discovered Akamai it's a terminal text animation.
 
