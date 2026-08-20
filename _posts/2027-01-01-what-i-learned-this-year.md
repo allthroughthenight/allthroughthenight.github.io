@@ -3,6 +3,8 @@ layout: post
 title: "What I Learned This Year - 2026"
 ---
 
+- https://dontpastetheai.com/
+
 # Introduction
 
 Being back at work full time this past year, I overwhelmed myself with all the articles I saved, then I relized they were filler and tossed most of them and kept the best.
