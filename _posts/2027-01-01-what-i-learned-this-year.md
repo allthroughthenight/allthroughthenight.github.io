@@ -4,6 +4,7 @@ title: "What I Learned This Year - 2026"
 ---
 
 - https://dontpastetheai.com/
+- https://github.com/danielmiessler/SecLists/pull/155
 
 # Introduction
 
