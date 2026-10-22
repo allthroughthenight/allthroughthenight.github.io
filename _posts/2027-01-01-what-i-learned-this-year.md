@@ -7,6 +7,7 @@ title: "What I Learned This Year - 2026"
 - https://github.com/danielmiessler/SecLists/pull/155
 - https://restroomarchive.com
 - https://www.frogandtoad.ai/
+- https://pwn.watch/
 - resume adversary: https://danunparsed.com/p/hackerrank-open-source-ats (and call backk to previous articles in previous post(s))
 - https://iminafleeting.com/?v=en-US (and this comment https://news.ycombinator.com/item?id=50019063)
 
