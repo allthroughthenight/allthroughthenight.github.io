@@ -10,8 +10,8 @@ title: "What I Learned This Year - 2026"
 - https://pwn.watch/
 - resume adversary: https://danunparsed.com/p/hackerrank-open-source-ats (and call backk to previous articles in previous post(s))
 - https://iminafleeting.com/?v=en-US (and this comment https://news.ycombinator.com/item?id=50019063)
-
-https://iminafleeting.com/
+- https://www.linkedin.com/posts/ali-hamie_im-an-engineer-at-meta-and-i-never-felt-share-7517317918666211328-7C8N/
+- https://iminafleeting.com/
 
 # Introduction
 
